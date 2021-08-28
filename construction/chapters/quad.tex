@@ -1,0 +1,209 @@
+%\renewcommand{\theequation}{\theenumi}
+%\begin{enumerate}[label=\arabic*.,ref=\thesection.\theenumi]
+%\numberwithin{equation}{enumi}
+	%
+%
+% \renewcommand{\theequation}{\theenumi}
+% \numberwithin{figure}{enumi}
+
+\item Construct parallelogram $ABCD$ 	in Fig. \ref{fig:pgm_sas}	
+given that  $BC = 5, AB = 6, \angle C = 85 \degree$.
+\begin{figure}[!ht]
+	\begin{center}
+		\resizebox{\columnwidth}{!}{\input{./figs/quad/pgm_sas.tex}}
+	\end{center}
+	\caption{Parallelogram Properties}
+	\label{fig:pgm_sas}	
+\end{figure}
+%
+\\
+\solution $BD$ is found using the cosine formula and $\triangle BDC$ is drawn using the approach in Construction \ref{const:tri_sss} with 
+%
+\begin{align}
+\vec{B} = \myvec{0\\0},
+\vec{C} = \myvec{5\\0},
+\end{align}
+%
+Since the diagonals bisect each other, 
+%
+\begin{align}
+\vec{O} &= \frac{\vec{B}+\vec{D}}{2}
+\\
+\vec{A} &= 2\vec{O} - \vec{C}.
+\end{align}
+%
+$AB$ and $AD$ are then joined to complete the $\parallel$gm.
+The python code for  Fig. \ref{fig:pgm_sas} is
+\begin{lstlisting}
+codes/quad/pgm_sas.py
+\end{lstlisting}
+%
+and 
+The equivalent latex-tikz code is
+%
+\begin{lstlisting}
+figs/quad/pgm_sas.tex
+\end{lstlisting}
+%
+
+\item Draw the $\parallel$gm $ABCD$ in 	Fig. \ref{fig:pgm_sss}	
+with $BC = 6, CD = 4.5$ and $BD=7.5$.  Show that it is a rectangle.
+\label{const:pgm_sss}
+%
+\begin{figure}[!ht]
+	\begin{center}
+		\resizebox{\columnwidth}{!}{\input{./figs/quad/pgm_sss.tex}}
+	\end{center}
+	\caption{Rectangle}
+	\label{fig:pgm_sss}	
+\end{figure}
+\\
+\solution It is easy to verify that 
+%Using the approach in Construction\ref{const:tri_sss}, $\triangle BCD$ is drawn with
+%
+\begin{align}
+BD^2=BC^2+C^2
+\end{align}
+%
+Hence, using Baudhayana theorem, 
+%
+\begin{align}
+\angle BCD = 90\degree
+\end{align}
+%
+and  $ABCD$ is a rectangle.
+\begin{align}
+\vec{A} = \myvec{0\\4.5}
+\vec{B} = \myvec{0\\0}
+\vec{C} = \myvec{6\\0}
+\vec{D} = \myvec{6\\4}
+\end{align}
+%
+The python code for  Fig. \ref{fig:pgm_sss} is
+\begin{lstlisting}
+codes/quad/pgm_sss.py
+\end{lstlisting}
+%
+and the equivalent latex-tikz code is
+%
+\begin{lstlisting}
+figs/quad/pgm_sss.tex
+\end{lstlisting}
+%
+%
+%
+%
+%
+\item Draw the rhombus $BEST$ with $BE = 4.5$ and $ET = 6$. 
+\begin{figure}[!ht]
+	\begin{center}
+		\resizebox{\columnwidth}{!}{\input{./figs/quad/rhom_sss.tex}}
+	\end{center}
+	\caption{Rhombus}
+	\label{fig:rhom_sss}	
+\end{figure}
+\\
+\solution The coordinates of the various points in Fig. \ref{fig:rhom_sss} are obtained as
+%
+\begin{align}
+\vec{O} = \myvec{0\\0},
+\vec{B} = \myvec{0\\-4.5}
+\\
+\vec{E} = \myvec{3\\0},
+\vec{S} = \myvec{4.5\\0},
+\vec{T} = \myvec{0\\-3}
+\end{align}
+%
+\item A square is a rectangle whose sides are equal.  Draw a square of side 4.5.
+\\
+\solution The coordinates of the various points in Fig. \ref{fig:square} are obtained as
+%
+\begin{align}
+\vec{A} = \myvec{0\\4.5}
+\\
+\vec{B} = \myvec{0\\0},
+\vec{C} = \myvec{4.5\\0},
+\vec{D} = \myvec{4.5\\4.5}
+\vec{O} = \frac{\vec{B}+\vec{C}}{2}
+%
+\end{align}
+%
+\begin{figure}[!ht]
+	\begin{center}
+		\resizebox{\columnwidth}{!}{\input{./figs/quad/square.tex}}
+	\end{center}
+	\caption{Square}
+	\label{fig:square}	
+\end{figure}
+\item With the same centre $\vec{O}$,  draw two circles of radii 4 and 2.5
+\\
+\solution
+\input{solutions/52/Assignment3.tex}
+\item Let $\vec{A}$ and $\vec{B}$ be the centres of two circles of equal radii 3 such that each one of them passes through the centre of the other.  Let them intersect at $\vec{C}$ and $\vec{D}$.  Is $AB \perp CD$?
+\\
+\solution
+\input{solutions/55/Assignment-3.tex}
+
+\item Construct a tangent to a circle of radius 4 units from a point on the concentric circle of radius 6 
+units.
+\\
+\solution 
+\input{solutions/circle/56/assignment3.tex}
+\item Draw a circle with centre $\vec{C}$ and radius 3.4.  Draw any chord.  Construct the perpendicular bisector of the chord and examine if it passes through $\vec{C}$.
+\\
+\solution
+\input{solutions/circle/61/main.tex}
+\item Construct a quadrilateral $ABCD$ such that $AB=5, \angle A = 50\degree, AC = 4, BD = 5$ and $AD = 6$.
+\\
+\solution 
+\input{solutions/28/Assignment-2.tex}
+\item Can you construct a quadrilateral $PQRS$ with $PQ=3, RS=3, PS=7.5, PR=8$ and $SQ=4$?
+\\
+\solution 
+\input{solutions/32/LaTex Codes/Assignment2.tex}
+\item Draw $GOLD$ such that $OL=7.5, GL=6, GD=6, LD = 5, OD = 10$.
+\\
+\solution 
+\input{solutions/34/main.tex}
+\item Construct $ABCD $, where $AB = 4, BC = 5, Cd = 6.5, \angle B = 105 \degree$ and $\angle C = 80\degree$.
+\\
+\solution 
+\input{solutions/quad/42/LATEX CODES/ASSIGNMENT2/ASSIGNMENT2.tex}
+%
+\item Construct $DEAR$ with $DE = 4, EA = 5, AR = 4.5, \angle E = 60 \degree$ and $\angle A = 90 \degree$.
+\\
+\solution 
+\input{solutions/quad/43/main.tex}
+
+\item Construct $TRUE$ with $TR = 3.5, RU = 3, UE = 4 \angle R = 75\degree$ and $\angle U = 120\degree$.
+\\
+\solution 
+\input{solutions/quad/44/main.tex}
+
+
+
+\item Can you construct a rhombus $ABCD$ with $AC = 6$ and $BD = 7$?
+\\
+\solution 
+\input{solutions/quad/45/main.tex}
+
+\item Draw a square $READ$ with $RE = 5.1$.
+\\
+\solution 
+\input{solutions/quad/46/Assignment-3.tex}
+\item Draw a rhombus who diagonals are $5.2$ and $6.4$.
+\\
+\solution 
+\input{solutions/quad/47/Assignment 3/main.tex}
+
+\item Draw a rectangle with adjacent sides $5$ and $4$.
+\\
+\solution 
+\input{solutions/quad/48/main.tex}
+\item Draw a parallelogram $OKAY$ with $OK = 5.5$ and $KA = 4.2$.
+\\
+\solution  There are infinite number of parallelograms that can be draw.  For a unique parallelogram, one angle
+needs to be specified.
+
+%
+%\end{enumerate}
