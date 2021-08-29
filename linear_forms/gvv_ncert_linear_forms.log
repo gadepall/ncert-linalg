@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  28 AUG 2021 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  29 AUG 2021 14:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1605,7 +1605,7 @@ LaTeX Warning: File `./line/figs/line_zeros.eps' not found on input line 27.
 Package epstopdf Info: Source file: <./line/figs/line_zeros.eps>
 (epstopdf)             Output file: <./line/figs/line_zeros-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 8359 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_zeros-eps
 -converted-to.pdf ./line/figs/line_zeros.eps>
@@ -1628,7 +1628,7 @@ LaTeX Warning: File `./line/figs/line_icept.eps' not found on input line 95.
 Package epstopdf Info: Source file: <./line/figs/line_icept.eps>
 (epstopdf)             Output file: <./line/figs/line_icept-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 9332 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_icept-eps
 -converted-to.pdf ./line/figs/line_icept.eps>
@@ -1648,7 +1648,7 @@ LaTeX Warning: File `./line/figs/line_check_sol.eps' not found on input line 15
 Package epstopdf Info: Source file: <./line/figs/line_check_sol.eps>
 (epstopdf)             Output file: <./line/figs/line_check_sol-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 9259 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_check_sol
 -eps-converted-to.pdf ./line/figs/line_check_sol.eps>
@@ -1668,7 +1668,7 @@ LaTeX Warning: File `./line/figs/line_check_sol2.eps' not found on input line 2
 Package epstopdf Info: Source file: <./line/figs/line_check_sol2.eps>
 (epstopdf)             Output file: <./line/figs/line_check_sol2-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 8556 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_check_sol
 2-eps-converted-to.pdf ./line/figs/line_check_sol2.eps>
@@ -1690,7 +1690,7 @@ LaTeX Warning: File `./line/figs/line_check_sol3.eps' not found on input line 2
 Package epstopdf Info: Source file: <./line/figs/line_check_sol3.eps>
 (epstopdf)             Output file: <./line/figs/line_check_sol3-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 8948 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_check_sol
 3-eps-converted-to.pdf ./line/figs/line_check_sol3.eps>
@@ -1715,7 +1715,7 @@ LaTeX Warning: File `./line/figs/line_check_unique.eps' not found on input line
 Package epstopdf Info: Source file: <./line/figs/line_check_unique.eps>
 (epstopdf)             Output file: <./line/figs/line_check_unique-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 7670 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_check_uni
 que-eps-converted-to.pdf ./line/figs/line_check_unique.eps>
@@ -1741,7 +1741,7 @@ LaTeX Warning: File `./line/figs/line_check_nosol.eps' not found on input line
 Package epstopdf Info: Source file: <./line/figs/line_check_nosol.eps>
 (epstopdf)             Output file: <./line/figs/line_check_nosol-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 9115 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_check_nos
 ol-eps-converted-to.pdf ./line/figs/line_check_nosol.eps>
@@ -1767,7 +1767,7 @@ LaTeX Warning: File `./line/figs/line_perp_bisect.eps' not found on input line
 Package epstopdf Info: Source file: <./line/figs/line_perp_bisect.eps>
 (epstopdf)             Output file: <./line/figs/line_perp_bisect-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 15357 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_perp_bise
 ct-eps-converted-to.pdf ./line/figs/line_perp_bisect.eps>
@@ -1797,7 +1797,7 @@ e 528.
 Package epstopdf Info: Source file: <./line/figs/line_parallel_axes.eps>
 (epstopdf)             Output file: <./line/figs/line_parallel_axes-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 8323 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_parallel_
 axes-eps-converted-to.pdf ./line/figs/line_parallel_axes.eps>
@@ -1823,7 +1823,7 @@ LaTeX Warning: File `./line/figs/line_pt_dist.eps' not found on input line 647.
 Package epstopdf Info: Source file: <./line/figs/line_pt_dist.eps>
 (epstopdf)             Output file: <./line/figs/line_pt_dist-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 17892 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_pt_dist-e
 ps-converted-to.pdf ./line/figs/line_pt_dist.eps>
@@ -1850,7 +1850,7 @@ LaTeX Warning: File `./line/figs/line_scalar_prod.eps' not found on input line
 Package epstopdf Info: Source file: <./line/figs/line_scalar_prod.eps>
 (epstopdf)             Output file: <./line/figs/line_scalar_prod-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 25937 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_scalar_pr
 od-eps-converted-to.pdf ./line/figs/line_scalar_prod.eps>
@@ -1880,7 +1880,7 @@ LaTeX Warning: File `./line/figs/reflection.eps' not found on input line 942.
 Package epstopdf Info: Source file: <./line/figs/reflection.eps>
 (epstopdf)             Output file: <./line/figs/reflection-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 14549 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/reflection-eps
 -converted-to.pdf ./line/figs/reflection.eps>
@@ -1901,7 +1901,7 @@ LaTeX Warning: File `./line/figs/line_reflect.eps' not found on input line 1024
 Package epstopdf Info: Source file: <./line/figs/line_reflect.eps>
 (epstopdf)             Output file: <./line/figs/line_reflect-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 9099 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_reflect-e
 ps-converted-to.pdf ./line/figs/line_reflect.eps>
@@ -1955,7 +1955,7 @@ line 1177.
 Package epstopdf Info: Source file: <./line/figs/line_dist_parallel_py.eps>
 (epstopdf)             Output file: <./line/figs/line_dist_parallel_py-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 9098 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_dist_para
 llel_py-eps-converted-to.pdf ./line/figs/line_dist_parallel_py.eps>
@@ -1976,7 +1976,7 @@ e 1187.
 Package epstopdf Info: Source file: <./line/figs/line_dist_parallel.eps>
 (epstopdf)             Output file: <./line/figs/line_dist_parallel-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 30958 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_dist_para
 llel-eps-converted-to.pdf ./line/figs/line_dist_parallel.eps>
@@ -2004,7 +2004,7 @@ LaTeX Warning: File `./line/figs/line_dist_skew.eps' not found on input line 12
 Package epstopdf Info: Source file: <./line/figs/line_dist_skew.eps>
 (epstopdf)             Output file: <./line/figs/line_dist_skew-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 9525 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_dist_skew
 -eps-converted-to.pdf ./line/figs/line_dist_skew.eps>
@@ -2069,7 +2069,7 @@ LaTeX Warning: File `./solutions/1/figs/line/line1.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/1/figs/line/line1.eps>
 (epstopdf)             Output file: <./solutions/1/figs/line/line1-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:01
+(epstopdf)                    date: 2021-08-29 06:52:20
 (epstopdf)                    size: 9030 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/line/li
 ne1-eps-converted-to.pdf ./solutions/1/figs/line/line1.eps>
@@ -2090,7 +2090,7 @@ LaTeX Warning: File `./solutions/1/figs/line/line2.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/1/figs/line/line2.eps>
 (epstopdf)             Output file: <./solutions/1/figs/line/line2-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:01
+(epstopdf)                    date: 2021-08-29 06:52:20
 (epstopdf)                    size: 8677 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/line/li
 ne2-eps-converted-to.pdf ./solutions/1/figs/line/line2.eps>
@@ -2113,7 +2113,7 @@ LaTeX Warning: File `./solutions/1/figs/line/line3.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/1/figs/line/line3.eps>
 (epstopdf)             Output file: <./solutions/1/figs/line/line3-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:01
+(epstopdf)                    date: 2021-08-29 06:52:20
 (epstopdf)                    size: 9063 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/line/li
 ne3-eps-converted-to.pdf ./solutions/1/figs/line/line3.eps>
@@ -2134,7 +2134,7 @@ LaTeX Warning: File `./solutions/1/figs/line/line4.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/1/figs/line/line4.eps>
 (epstopdf)             Output file: <./solutions/1/figs/line/line4-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:01
+(epstopdf)                    date: 2021-08-29 06:52:20
 (epstopdf)                    size: 9028 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/line/li
 ne4-eps-converted-to.pdf ./solutions/1/figs/line/line4.eps>
@@ -2168,7 +2168,7 @@ Package epstopdf Info: Source file: <./solutions/2/figs/line_ex/lines_and_plane
 s/final_eq.eps>
 (epstopdf)             Output file: <./solutions/2/figs/line_ex/lines_and_plane
 s/final_eq-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:06
+(epstopdf)                    date: 2021-08-29 06:52:25
 (epstopdf)                    size: 11248 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/2/figs/line_ex
 /lines_and_planes/final_eq-eps-converted-to.pdf ./solutions/2/figs/line_ex/line
@@ -2206,7 +2206,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/line/pointonline2/pyfi
 gs/pointonline.eps>
 (epstopdf)             Output file: <./solutions/3/codes/line/pointonline2/pyfi
 gs/pointonline-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:11
+(epstopdf)                    date: 2021-08-29 06:52:30
 (epstopdf)                    size: 10160 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/line/p
 ointonline2/pyfigs/pointonline-eps-converted-to.pdf ./solutions/3/codes/line/po
@@ -2268,7 +2268,7 @@ Package epstopdf Info: Source file: <./solutions/4/figures/line/lines_and_plane
 s/lines_and_planes.eps>
 (epstopdf)             Output file: <./solutions/4/figures/line/lines_and_plane
 s/lines_and_planes-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:16
+(epstopdf)                    date: 2021-08-29 06:52:35
 (epstopdf)                    size: 15467 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/4/figures/line
 /lines_and_planes/lines_and_planes-eps-converted-to.pdf ./solutions/4/figures/l
@@ -2297,7 +2297,7 @@ LaTeX Warning: File `./solutions/5/figs/lines/q11a.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/5/figs/lines/q11a.eps>
 (epstopdf)             Output file: <./solutions/5/figs/lines/q11a-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:19
+(epstopdf)                    date: 2021-08-29 06:52:39
 (epstopdf)                    size: 7141 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/lines/q
 11a-eps-converted-to.pdf ./solutions/5/figs/lines/q11a.eps>
@@ -2318,7 +2318,7 @@ LaTeX Warning: File `./solutions/5/figs/lines/q11b.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/5/figs/lines/q11b.eps>
 (epstopdf)             Output file: <./solutions/5/figs/lines/q11b-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:19
+(epstopdf)                    date: 2021-08-29 06:52:39
 (epstopdf)                    size: 6374 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/lines/q
 11b-eps-converted-to.pdf ./solutions/5/figs/lines/q11b.eps>
@@ -3422,60 +3422,72 @@ Package pdftex.def Info: solutions/aug/2/34/figs/Assignment4.png  used on input
  line 14.
 (pdftex.def)             Requested size: 252.0pt x 166.79851pt.
 )
+(./solutions/aug/2/37/Assignment_4.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [76 <./solutions/aug/2/34/figs/Assignment4.png>]
-Underfull \hbox (badness 1838) in paragraph at lines 430--432
+<solutions/aug/2/37/figures/Line_AB.png, id=2615, 462.528pt x 346.896pt>
+File: solutions/aug/2/37/figures/Line_AB.png Graphic file (type png)
+<use solutions/aug/2/37/figures/Line_AB.png>
+Package pdftex.def Info: solutions/aug/2/37/figures/Line_AB.png  used on input 
+line 67.
+(pdftex.def)             Requested size: 252.0pt x 189.00427pt.
+)
+Underfull \hbox (badness 1838) in paragraph at lines 434--436
 []\OT1/txr/m/n/12 Using in-te-gra-tion find the area of re-gion
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 432--433
+Underfull \hbox (badness 1838) in paragraph at lines 436--437
 []\OT1/txr/m/n/12 Using in-te-gra-tion find the area of re-gion
  []
 
+[77 <./solutions/aug/2/37/figures/Line_AB.png>]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 450.
-
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 450.
+LaTeX Warning: Command \textendash invalid in math mode on input line 454.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Command \textendash invalid in math mode on input line 454.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77]
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 604.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Command \textendash invalid in math mode on input line 608.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [78]
-(./solutions/aug/2/34/88.tex
-Underfull \vbox (badness 1325) has occurred while \output is active []
-
-)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [79])
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79]
+(./solutions/aug/2/34/88.tex
+Underfull \vbox (badness 2762) has occurred while \output is active []
+
+))
 (./line/line_misc.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [80]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81]
 (./solutions/july/110.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [81])
-[82] (./gvv_ncert_linear_forms.aux)
+ [82])
+[83] (./gvv_ncert_linear_forms.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -3484,10 +3496,10 @@ Package rerunfilecheck Info: File `gvv_ncert_linear_forms.out' has not changed.
 (rerunfilecheck)             Checksum: 87AE03851630193CF015B31CCF931D25;361.
  ) 
 Here is how much of TeX's memory you used:
- 47699 strings out of 478994
- 1067851 string characters out of 5864751
- 1557541 words of memory out of 5000000
- 62349 multiletter control sequences out of 15000+600000
+ 47734 strings out of 478994
+ 1068560 string characters out of 5864751
+ 1557612 words of memory out of 5000000
+ 62356 multiletter control sequences out of 15000+600000
  493296 words of font info for 226 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  102i,24n,111p,514b,1325s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3502,10 +3514,10 @@ xmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texmf-dist/fonts/type1
 yc.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texm
 f-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw
 /times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gvv_ncert_linear_forms.pdf (82 pages, 3628830 bytes).
+Output written on gvv_ncert_linear_forms.pdf (83 pages, 3685496 bytes).
 PDF statistics:
- 3274 PDF objects out of 3580 (max. 8388607)
- 2535 compressed objects within 26 object streams
- 1576 named destinations out of 1728 (max. 500000)
- 658 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3307 PDF objects out of 3580 (max. 8388607)
+ 2565 compressed objects within 26 object streams
+ 1599 named destinations out of 1728 (max. 500000)
+ 663 words of extra memory for PDF output out of 10000 (max. 10000000)
 
