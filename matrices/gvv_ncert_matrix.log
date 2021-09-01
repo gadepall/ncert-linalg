@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  29 AUG 2021 14:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.1)  1 SEP 2021 06:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -364,7 +364,7 @@ Package: cite 2015/02/27  v 5.5
 Package: cases 2020/03/29 ver 3.2
 \numc@numwid=\dimen179
 )
-(/usr/share/texmf-dist/tex/latex/subfig/subfig.sty
+(/home/user/texmf/tex/latex/tfslatex/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
 (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
@@ -2772,84 +2772,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--67
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
-
- []
-
-
-Underfull \hbox (badness 2790) in paragraph at lines 69--73
-[]\OT1/txr/m/n/12 If A=$[]$ and B=$[]$,then
- []
-
-
-Underfull \vbox (badness 2351) has occurred while \output is active []
-
-
-(./solutions/aug/2/16/2/Assignment_2.tex)
-(./solutions/aug/2/17/1/Assignment2.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [80 <./solutions/aug/2/11/Figures/plot.png>])
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-
- []
-
-(./solutions/aug/2/11/19.tex
+(./solutions/aug/2/15.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(./solutions/aug/2/20.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 2790) in paragraph at lines 71--75
+[]\OT1/txr/m/n/12 If A=$[]$ and B=$[]$,then
+ []
+
+(./solutions/aug/2/16/2/Assignment_2.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80 <./solutions/aug/2/11/Figures/plot.png>]) (./solutions/aug/2/17/1/Assignme
+nt2.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(./solutions/aug/2/11/19.tex) (./solutions/aug/2/20.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81])
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 []\OT1/txr/m/n/12 Find $[](\OML/txmi/m/it/12 A \OT1/txr/m/n/12 + \OML/txmi/m/it
 /12 A[]\OT1/txr/m/n/12 )$and $[](\OML/txmi/m/it/12 A \OMS/txsy/m/n/12 ^^@ \OML/
 txmi/m/it/12 A[]\OT1/txr/m/n/12 )$,when
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--101
+Underfull \hbox (badness 10000) in paragraph at lines 99--103
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81]
+
 (./solutions/aug/2/22/1/main.tex) (./solutions/aug/2/22/1/2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 3260) in paragraph at lines 105--108
+Underfull \hbox (badness 3260) in paragraph at lines 107--110
 []\OT1/txr/m/n/12 If A,B are sym-met-ric ma-tri-ces of same
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
 
  []
 
@@ -2859,6 +2843,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82]
 Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
@@ -2904,12 +2891,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--122
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--128
 
  []
 
@@ -2919,143 +2911,138 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--130
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 131--133
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 133--135
 []\OT1/txr/m/n/12 If A and B are square ma-tri-ces of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82]
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-
- []
 
 (./solutions/aug/2/42.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--145
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
 (/usr/share/texmf-dist/tex/latex/tools/.tex File ignored)
-(./solutions/aug/2/47.tex
+(./solutions/aug/2/47.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+ [83]
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
 []\OT1/txr/m/n/12 If A=$[]$, B=$[]$ and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
-(./solutions/aug/2/50.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [83])
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+(./solutions/aug/2/50.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
 
  []
 
-(./solutions/aug/2/52.tex
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+(./solutions/aug/2/52.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 182--184
 []\OT1/txr/m/n/12 By us-ing el-e-men-tary op-er-a-tions,find the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--182
+Underfull \hbox (badness 10000) in paragraph at lines 182--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--191
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84]
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
 \OT1/txr/m/n/12 (ii)$[] [] \U/txsyc/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--191
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
+Underfull \hbox (badness 10000) in paragraph at lines 193--195
 
  []
 
 (./solutions/aug/2/60.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [84])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--214
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
-
- []
-
-
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [85]
+Underfull \hbox (badness 10000) in paragraph at lines 213--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
 (./solutions/aug/2/70/Assignment2.tex
-<solutions/aug/2/70/a_2.png, id=2945, 379.4175pt x 262.9825pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<solutions/aug/2/70/a_2.png, id=2941, 379.4175pt x 262.9825pt>
 File: solutions/aug/2/70/a_2.png Graphic file (type png)
 <use solutions/aug/2/70/a_2.png>
 Package pdftex.def Info: solutions/aug/2/70/a_2.png  used on input line 26.
 (pdftex.def)             Requested size: 252.0pt x 174.66847pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 255--256
+Underfull \vbox (badness 2635) has occurred while \output is active []
 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
-
- []
-
-
+ [86 <./solutions/aug/2/70/a_2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
@@ -3111,19 +3098,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 267--268
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
- [86 <./solutions/aug/2/70/a_2.png>]) [87
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+
+ []
+
+) [87
 
 ] (./gvv_ncert_matrix.aux)
 Package rerunfilecheck Info: File `gvv_ncert_matrix.out' has not changed.
 (rerunfilecheck)             Checksum: 7712137A7DC5E6F8789D9B67351AC245;171.
  ) 
 Here is how much of TeX's memory you used:
- 47973 strings out of 478994
- 1049607 string characters out of 5864751
- 1593610 words of memory out of 5000000
- 61959 multiletter control sequences out of 15000+600000
+ 47989 strings out of 478994
+ 1049818 string characters out of 5864752
+ 1593609 words of memory out of 5000000
+ 61960 multiletter control sequences out of 15000+600000
  497460 words of font info for 238 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  102i,24n,111p,744b,1325s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3138,10 +3132,10 @@ e1/public/txfonts/txsyb.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/t
 xsyc.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/te
 xmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gvv_ncert_matrix.pdf (87 pages, 762444 bytes).
+Output written on gvv_ncert_matrix.pdf (87 pages, 763321 bytes).
 PDF statistics:
- 3478 PDF objects out of 3580 (max. 8388607)
- 3236 compressed objects within 33 object streams
- 2184 named destinations out of 2487 (max. 500000)
+ 3492 PDF objects out of 3580 (max. 8388607)
+ 3250 compressed objects within 33 object streams
+ 2196 named destinations out of 2487 (max. 500000)
  200 words of extra memory for PDF output out of 10000 (max. 10000000)
 
