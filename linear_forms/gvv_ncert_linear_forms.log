@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  8 SEP 2021 14:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  10 SEP 2021 12:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3428,10 +3428,6 @@ d on input line 68.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-
-LaTeX Warning: Reference `sep/2/28/eq1' on page 78 undefined on input line 31.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [78 <./solutions/sep/2/27/Figure/EE3900_Assignment_4.png>]
@@ -3570,18 +3566,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [89
 
 ] (./gvv_ncert_linear_forms.aux)
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `gvv_ncert_linear_forms.out' has not changed.
 
 (rerunfilecheck)             Checksum: 87AE03851630193CF015B31CCF931D25;361.
  ) 
 Here is how much of TeX's memory you used:
- 47958 strings out of 478994
- 1073425 string characters out of 5864751
+ 47957 strings out of 478994
+ 1073411 string characters out of 5864751
  1558390 words of memory out of 5000000
- 62418 multiletter control sequences out of 15000+600000
+ 62417 multiletter control sequences out of 15000+600000
  493296 words of font info for 226 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  102i,24n,111p,514b,1325s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3596,7 +3589,7 @@ xmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texmf-dist/fonts/type1
 yc.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texm
 f-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw
 /times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gvv_ncert_linear_forms.pdf (89 pages, 3912456 bytes).
+Output written on gvv_ncert_linear_forms.pdf (89 pages, 3911917 bytes).
 PDF statistics:
  3507 PDF objects out of 3580 (max. 8388607)
  2741 compressed objects within 28 object streams
