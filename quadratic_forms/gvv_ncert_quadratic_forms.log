@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  8 SEP 2021 20:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  11 SEP 2021 20:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1403,8 +1403,8 @@ Package: chngcntr 2018/04/09 v1.1a change counter resetting
 Package chngcntr Info: \counterwithout already defined.
 (chngcntr)             Quitting chngcntr on input line 21.
 )
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 8
-9.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 9
+0.
 
 (/usr/share/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
@@ -1412,94 +1412,94 @@ File: ot1txr.fd 2000/12/15 v3.1
 (./gvv_ncert_quadratic_forms.aux)
 \openout1 = `gvv_ncert_quadratic_forms.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 89.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 90.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-89.
+90.
 
 (/usr/share/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 90.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-89.
+90.
 
 (/usr/share/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 90.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-89.
+90.
 
 (/usr/share/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 89.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 8
-9.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 90.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 9
+0.
 
 (/usr/share/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <6> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <6> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <8> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <8> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <9> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <12> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <14> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <20> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <20> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <22> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <22> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <24> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 90.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <24> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 89.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 90.
 
 -- Lines per column: 50 (exact).
-LaTeX Info: Redefining \celsius on input line 89.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 89.
+LaTeX Info: Redefining \celsius on input line 90.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 90.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 89.
-Package gensymb Info: Using \Omega for \ohm on input line 89.
+LaTeX Info: Redefining \ohm on input line 90.
+Package gensymb Info: Using \Omega for \ohm on input line 90.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1535,7 +1535,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 89.
+Package hyperref Info: Link coloring OFF on input line 90.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1548,9 +1548,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count379
 )
-LaTeX Info: Redefining \ref on input line 89.
-LaTeX Info: Redefining \pageref on input line 89.
-LaTeX Info: Redefining \nameref on input line 89.
+LaTeX Info: Redefining \ref on input line 90.
+LaTeX Info: Redefining \pageref on input line 90.
+LaTeX Info: Redefining \nameref on input line 90.
 
 (./gvv_ncert_quadratic_forms.out) (./gvv_ncert_quadratic_forms.out)
 \@outlinefile=\write4
@@ -1563,33 +1563,33 @@ LaTeX Info: Redefining \nameref on input line 89.
 \c@lemma=\count384
 \c@example=\count385
 \c@rem=\count386
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 245.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 246.
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 24
-5.
+6.
 
 (/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 2
-45.
+46.
 
 (/usr/share/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 2
-45.
+46.
 
 (/usr/share/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 2
-45.
+46.
 
 (/usr/share/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 2
-45.
+46.
 
 (/usr/share/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
@@ -3580,22 +3580,37 @@ ine 38.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-)
+) (./solutions/sep/2/6/QUADRATIC_FORMS_ASSIGNMENT5.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [55 <./solutions/conics/1/22/Plot.JPG>]
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 44.
-
-(./solutions/sep/17/Assignment_5.tex
-Underfull \hbox (badness 3375) in paragraph at lines 48--2
-\OT1/txr/bx/n/12 Solution: \OT1/txr/m/n/12 A gen-eral poly-no-mial equa-tion
+Overfull \hbox (35.08476pt too wide) detected at line 40
+ []$[] []$ []  
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/sep/17/Assignment_5_Fig_1.png, id=3144, 385.44pt x 262.9825pt>
+<solutions/sep/2/6/Figures/q5.png, id=3145, 387.4475pt x 262.9825pt>
+File: solutions/sep/2/6/Figures/q5.png Graphic file (type png)
+<use solutions/sep/2/6/Figures/q5.png>
+Package pdftex.def Info: solutions/sep/2/6/Figures/q5.png  used on input line 6
+7.
+(pdftex.def)             Requested size: 252.0pt x 171.04893pt.
+)
+Underfull \vbox (badness 6016) has occurred while \output is active []
+
+ [56 <./solutions/july/2/2/Figures/Figure.png> <./solutions/sep/2/6/Figures/q5.
+png>]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 47.
+
+(./solutions/sep/17/Assignment_5.tex
+Underfull \hbox (badness 3375) in paragraph at lines 51--2
+\OT1/txr/bx/n/12 Solution: \OT1/txr/m/n/12 A gen-eral poly-no-mial equa-tion
+ []
+
+<solutions/sep/17/Assignment_5_Fig_1.png, id=3176, 385.44pt x 262.9825pt>
 File: solutions/sep/17/Assignment_5_Fig_1.png Graphic file (type png)
 <use solutions/sep/17/Assignment_5_Fig_1.png>
 Package pdftex.def Info: solutions/sep/17/Assignment_5_Fig_1.png  used on input
@@ -3603,14 +3618,20 @@ Package pdftex.def Info: solutions/sep/17/Assignment_5_Fig_1.png  used on input
 (pdftex.def)             Requested size: 252.0pt x 171.93576pt.
 )
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 53.
+LaTeX Warning: Command \textendash invalid in math mode on input line 56.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 53.
+LaTeX Warning: Command \textendash invalid in math mode on input line 56.
 
-(./solutions/su2021/2/23/main.tex [56 <./solutions/july/2/2/Figures/Figure.png>
- <./solutions/sep/17/Assignment_5_Fig_1.png>]
-<solutions/su2021/2/23/figure5(1).png, id=3180, 385.44pt x 265.99374pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(./solutions/su2021/2/23/main.tex
+Underfull \vbox (badness 2717) has occurred while \output is active []
+
+ [57 <./solutions/sep/17/Assignment_5_Fig_1.png>]
+<solutions/su2021/2/23/figure5(1).png, id=3214, 385.44pt x 265.99374pt>
 File: solutions/su2021/2/23/figure5(1).png Graphic file (type png)
 <use solutions/su2021/2/23/figure5(1).png>
 Package pdftex.def Info: solutions/su2021/2/23/figure5(1).png  used on input li
@@ -3619,22 +3640,26 @@ ne 45.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/su2021/2/23/figure5(2).png, id=3182, 385.44pt x 266.9975pt>
+<solutions/su2021/2/23/figure5(2).png, id=3216, 385.44pt x 266.9975pt>
 File: solutions/su2021/2/23/figure5(2).png Graphic file (type png)
 <use solutions/su2021/2/23/figure5(2).png>
 Package pdftex.def Info: solutions/su2021/2/23/figure5(2).png  used on input li
 ne 94.
 (pdftex.def)             Requested size: 252.0pt x 174.56075pt.
 )
-(./solutions/sep/2/21/Assignment5.tex [57 <./solutions/su2021/2/23/figure5(1).p
-ng>]
-<solutions/sep/2/21/Figures/plot.png, id=3218, 396.0396pt x 297.7524pt>
+(./solutions/sep/2/21/Assignment5.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58 <./solutions/su2021/2/23/figure5(1).png> <./solutions/su2021/2/23/figure5(
+2).png>]
+<solutions/sep/2/21/Figures/plot.png, id=3246, 396.0396pt x 297.7524pt>
 File: solutions/sep/2/21/Figures/plot.png Graphic file (type png)
 <use solutions/sep/2/21/Figures/plot.png>
 Package pdftex.def Info: solutions/sep/2/21/Figures/plot.png  used on input lin
 e 24.
 (pdftex.def)             Requested size: 252.0pt x 189.4614pt.
-) (./solutions/su2021/2/43/a/main.tex
+)
+(./solutions/su2021/2/43/a/main.tex
 Overfull \hbox (39.44722pt too wide) in paragraph at lines 7--7
 [] 
  []
@@ -3642,99 +3667,107 @@ Overfull \hbox (39.44722pt too wide) in paragraph at lines 7--7
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58 <./solutions/su2021/2/23/figure5(2).png> <./solutions/sep/2/21/Figures/plo
-t.png>]
-<solutions/su2021/2/43/a/Figure/figure.png, id=3251, 462.528pt x 346.896pt>
+ [59 <./solutions/sep/2/21/Figures/plot.png>]
+<solutions/su2021/2/43/a/Figure/figure.png, id=3284, 462.528pt x 346.896pt>
 File: solutions/su2021/2/43/a/Figure/figure.png Graphic file (type png)
 <use solutions/su2021/2/43/a/Figure/figure.png>
 Package pdftex.def Info: solutions/su2021/2/43/a/Figure/figure.png  used on inp
 ut line 49.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
 )
-Underfull \hbox (badness 7796) in paragraph at lines 131--136
+Underfull \hbox (badness 7796) in paragraph at lines 134--139
 []\OT1/txr/m/n/12 Find the area en-closed by the el-lipse
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 143.
+LaTeX Warning: Command \textendash invalid in math mode on input line 146.
 
 
-Underfull \hbox (badness 8132) in paragraph at lines 139--145
+Underfull \hbox (badness 8132) in paragraph at lines 142--148
 []\OT1/txr/m/n/12 Find the area bounded by the el-lipse
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [59 <./solutions/su2021/2/43/a/Figure/figure.png>]
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 206.
+LaTeX Warning: Command \textendash invalid in math mode on input line 209.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 210.
+LaTeX Warning: Command \textendash invalid in math mode on input line 213.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 210.
-
-) (./conics/conics_exer.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Command \textendash invalid in math mode on input line 213.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [60]
+ [60 <./solutions/su2021/2/43/a/Figure/figure.png>]) (./conics/conics_exer.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
 (./solutions/su2021/2/72/k/Assignment-7.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/su2021/2/72/k/ellipse(1).PNG, id=3351, 298.11375pt x 202.50656pt>
+<solutions/su2021/2/72/k/ellipse(1).PNG, id=3385, 298.11375pt x 202.50656pt>
 File: solutions/su2021/2/72/k/ellipse(1).PNG Graphic file (type png)
 <use solutions/su2021/2/72/k/ellipse(1).PNG>
 Package pdftex.def Info: solutions/su2021/2/72/k/ellipse(1).PNG  used on input 
 line 71.
 (pdftex.def)             Requested size: 252.0pt x 171.18274pt.
-
-Underfull \vbox (badness 1776) has occurred while \output is active []
-
- [61 <./solutions/su2021/2/72/k/ellipse(1).PNG>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<solutions/su2021/2/72/k/Ellipse_(I).PNG, id=3388, 295.1025pt x 199.49532pt>
+ [62 <./solutions/su2021/2/72/k/ellipse(1).PNG>]
+<solutions/su2021/2/72/k/Ellipse_(I).PNG, id=3417, 295.1025pt x 199.49532pt>
 File: solutions/su2021/2/72/k/Ellipse_(I).PNG Graphic file (type png)
 <use solutions/su2021/2/72/k/Ellipse_(I).PNG>
 Package pdftex.def Info: solutions/su2021/2/72/k/Ellipse_(I).PNG  used on input
  line 135.
 (pdftex.def)             Requested size: 252.0pt x 170.36021pt.
-) [62 <./solutions/su2021/2/72/k/Ellipse_(I).PNG>]
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [63 <./solutions/su2021/2/72/k/Ellipse_(I).PNG>]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 154.
 
-
+(./solutions/sep/2/68/Assignment5.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [63]
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 276.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [64]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+<solutions/sep/2/68/figures/figure.png, id=3454, 462.528pt x 346.896pt>
+File: solutions/sep/2/68/figures/figure.png Graphic file (type png)
+<use solutions/sep/2/68/figures/figure.png>
+Package pdftex.def Info: solutions/sep/2/68/figures/figure.png  used on input l
+ine 47.
+(pdftex.def)             Requested size: 252.0pt x 189.00427pt.
 )
-(./app/1/ChallengeProblem3.tex [65pdfTeX warning (ext4): destination with the s
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64 <./solutions/sep/2/68/figures/figure.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 279.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66])
+(./app/1/ChallengeProblem3.tex [67pdfTeX warning (ext4): destination with the s
 ame identifier (name{equation.399.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.33 \end{align}
-                ]
-<app/1/Figures/ChallengeProblem3_2.png, id=3558, 395.4775pt x 266.9975pt>
+l.80     \end{align}
+                    ]
+<app/1/Figures/ChallengeProblem3_2.png, id=3623, 395.4775pt x 266.9975pt>
 File: app/1/Figures/ChallengeProblem3_2.png Graphic file (type png)
 <use app/1/Figures/ChallengeProblem3_2.png>
 Package pdftex.def Info: app/1/Figures/ChallengeProblem3_2.png  used on input l
@@ -3743,22 +3776,21 @@ ine 109.
 
 Underfull \vbox (badness 1354) has occurred while \output is active []
 
- [66 <./app/1/Figures/ChallengeProblem3_2.png>]
-<app/1/Figures/ChallengeProblem3_1.png, id=3590, 385.44pt x 264.99pt>
+<app/1/Figures/ChallengeProblem3_1.png, id=3624, 385.44pt x 264.99pt>
 File: app/1/Figures/ChallengeProblem3_1.png Graphic file (type png)
 <use app/1/Figures/ChallengeProblem3_1.png>
 Package pdftex.def Info: app/1/Figures/ChallengeProblem3_1.png  used on input l
 ine 154.
 (pdftex.def)             Requested size: 252.0pt x 173.24826pt.
-<app/1/Figures/ChallengeProblem3_3.png, id=3591, 403.5075pt x 266.9975pt>
+ [68 <./app/1/Figures/ChallengeProblem3_2.png> <./app/1/Figures/ChallengeProble
+m3_1.png>]
+<app/1/Figures/ChallengeProblem3_3.png, id=3654, 403.5075pt x 266.9975pt>
 File: app/1/Figures/ChallengeProblem3_3.png Graphic file (type png)
 <use app/1/Figures/ChallengeProblem3_3.png>
 Package pdftex.def Info: app/1/Figures/ChallengeProblem3_3.png  used on input l
 ine 196.
 (pdftex.def)             Requested size: 252.0pt x 166.74672pt.
- [67 <./app/1/Figures/ChallengeProblem3_1.png> <./app/1/Figures/ChallengeProble
-m3_3.png>]
-<app/1/Figures/ChallengeProblem3_4.png, id=3624, 394.47375pt x 266.9975pt>
+<app/1/Figures/ChallengeProblem3_4.png, id=3655, 394.47375pt x 266.9975pt>
 File: app/1/Figures/ChallengeProblem3_4.png Graphic file (type png)
 <use app/1/Figures/ChallengeProblem3_4.png>
 Package pdftex.def Info: app/1/Figures/ChallengeProblem3_4.png  used on input l
@@ -3767,24 +3799,25 @@ ine 231.
 
 Underfull \vbox (badness 2285) has occurred while \output is active []
 
-)
-(./app/2/ChallengeProblem5.tex [68pdfTeX warning (ext4): destination with the s
-ame identifier (name{equation.407.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.53     \end{align}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{equation.407.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.53     \end{align}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{equation.407.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.53     \end{align}
-                     <./app/1/Figures/ChallengeProblem3_4.png>]
-<app/2/Figures/ChallengeProblem5_2.png, id=3654, 387.4475pt x 262.9825pt>
+ [69 <./app/1/Figures/ChallengeProblem3_3.png> <./app/1/Figures/ChallengeProble
+m3_4.png>])
+(./app/2/ChallengeProblem5.texpdfTeX warning (ext4): destination with the same 
+identifier (name{equation.407.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5     \end{align}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{equation.407.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.12 \end{align}
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{equation.407.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.12 \end{align}
+                
+<app/2/Figures/ChallengeProblem5_2.png, id=3687, 387.4475pt x 262.9825pt>
 File: app/2/Figures/ChallengeProblem5_2.png Graphic file (type png)
 <use app/2/Figures/ChallengeProblem5_2.png>
 Package pdftex.def Info: app/2/Figures/ChallengeProblem5_2.png  used on input l
@@ -3793,7 +3826,8 @@ ine 69.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<app/2/Figures/ChallengeProblem5_3.png, id=3655, 387.4475pt x 262.9825pt>
+ [70 <./app/2/Figures/ChallengeProblem5_2.png>]
+<app/2/Figures/ChallengeProblem5_3.png, id=3720, 387.4475pt x 262.9825pt>
 File: app/2/Figures/ChallengeProblem5_3.png Graphic file (type png)
 <use app/2/Figures/ChallengeProblem5_3.png>
 Package pdftex.def Info: app/2/Figures/ChallengeProblem5_3.png  used on input l
@@ -3802,10 +3836,11 @@ ine 136.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69 <./app/2/Figures/ChallengeProblem5_2.png>]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<app/2/Figures/ChallengeProblem5_4.png, id=3693, 394.47375pt x 262.9825pt>
+ [71 <./app/2/Figures/ChallengeProblem5_3.png>]
+<app/2/Figures/ChallengeProblem5_4.png, id=3757, 394.47375pt x 262.9825pt>
 File: app/2/Figures/ChallengeProblem5_4.png Graphic file (type png)
 <use app/2/Figures/ChallengeProblem5_4.png>
 Package pdftex.def Info: app/2/Figures/ChallengeProblem5_4.png  used on input l
@@ -3814,9 +3849,7 @@ ine 201.
 
 Underfull \vbox (badness 4378) has occurred while \output is active []
 
- [70 <./app/2/Figures/ChallengeProblem5_3.png> <./app/2/Figures/ChallengeProble
-m5_4.png>]
-<app/2/Figures/ChallengeProblem5_5.png, id=3729, 388.45125pt x 262.9825pt>
+<app/2/Figures/ChallengeProblem5_5.png, id=3758, 388.45125pt x 262.9825pt>
 File: app/2/Figures/ChallengeProblem5_5.png Graphic file (type png)
 <use app/2/Figures/ChallengeProblem5_5.png>
 Package pdftex.def Info: app/2/Figures/ChallengeProblem5_5.png  used on input l
@@ -3825,20 +3858,25 @@ ine 248.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [71 <./app/2/Figures/ChallengeProblem5_5.png>] (./gvv_ncert_quadratic_forms.a
-ux)
+ [72 <./app/2/Figures/ChallengeProblem5_4.png> <./app/2/Figures/ChallengeProble
+m5_5.png>]) [73
+
+] (./gvv_ncert_quadratic_forms.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `gvv_ncert_quadratic_forms.out' has not chang
 ed.
 (rerunfilecheck)             Checksum: 4A1D79BFAC88527E901939BBDFF44B29;716.
  ) 
 Here is how much of TeX's memory you used:
- 48450 strings out of 478994
- 1095953 string characters out of 5864751
- 1586826 words of memory out of 5000000
- 62776 multiletter control sequences out of 15000+600000
+ 48525 strings out of 478994
+ 1097503 string characters out of 5864751
+ 1587612 words of memory out of 5000000
+ 62806 multiletter control sequences out of 15000+600000
  502250 words of font info for 244 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 102i,24n,111p,529b,1645s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 102i,24n,111p,526b,1645s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/public/txfonts/rtxmi.pfb></usr/share/texmf-dist/fonts/type1/public/txf
 onts/rtxr.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr
@@ -3848,10 +3886,10 @@ onts/txsya.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></us
 r/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/font
 s/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr
 8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gvv_ncert_quadratic_forms.pdf (71 pages, 1568222 bytes).
+Output written on gvv_ncert_quadratic_forms.pdf (73 pages, 1599602 bytes).
 PDF statistics:
- 4184 PDF objects out of 4296 (max. 8388607)
- 3086 compressed objects within 31 object streams
- 1911 named destinations out of 2073 (max. 500000)
- 677 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4244 PDF objects out of 4296 (max. 8388607)
+ 3139 compressed objects within 32 object streams
+ 1946 named destinations out of 2073 (max. 500000)
+ 687 words of extra memory for PDF output out of 10000 (max. 10000000)
 
