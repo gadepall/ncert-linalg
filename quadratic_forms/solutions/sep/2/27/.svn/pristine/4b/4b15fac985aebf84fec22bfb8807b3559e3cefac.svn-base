@@ -1,0 +1,215 @@
+\documentclass[journal,12pt,twocolumn]{IEEEtran}
+
+\usepackage{setspace}
+\usepackage{gensymb}
+
+\singlespacing
+
+
+\usepackage[cmex10]{amsmath}
+
+\usepackage{amsthm}
+
+\usepackage{mathrsfs}
+\usepackage{txfonts}
+\usepackage{stfloats}
+\usepackage{bm}
+\usepackage{cite}
+\usepackage{cases}
+\usepackage{subfig}
+
+\usepackage{longtable}
+\usepackage{multirow}
+
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{steinmetz}
+\usepackage{tikz}
+\usepackage{circuitikz}
+\usepackage{verbatim}
+\usepackage{tfrupee}
+\usepackage[breaklinks=true]{hyperref}
+\usepackage{graphicx}
+\usepackage{tkz-euclide}
+\usepackage{float}
+
+\usetikzlibrary{calc,math}
+\usepackage{listings}
+    \usepackage{color}                                            %%
+    \usepackage{array}                                            %%
+    \usepackage{longtable}                                        %%
+    \usepackage{calc}                                             %%
+    \usepackage{multirow}                                         %%
+    \usepackage{hhline}                                           %%
+    \usepackage{ifthen}                                           %%
+    \usepackage{lscape}     
+\usepackage{multicol}
+\usepackage{chngcntr}
+
+\DeclareMathOperator*{\Res}{Res}
+
+\renewcommand\thesection{\arabic{section}}
+\renewcommand\thesubsection{\thesection.\arabic{subsection}}
+\renewcommand\thesubsubsection{\thesubsection.\arabic{subsubsection}}
+
+\renewcommand\thesectiondis{\arabic{section}}
+\renewcommand\thesubsectiondis{\thesectiondis.\arabic{subsection}}
+\renewcommand\thesubsubsectiondis{\thesubsectiondis.\arabic{subsubsection}}
+
+
+\hyphenation{op-tical net-works semi-conduc-tor}
+\def\inputGnumericTable{}                                 %%
+
+\lstset{
+%language=C,
+frame=single, 
+breaklines=true,
+columns=fullflexible
+}
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+\begin{document}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{problem}{Problem}
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{example}{Example}[section]
+\newtheorem{definition}[problem]{Definition}
+
+\newcommand{\BEQA}{\begin{eqnarray}}
+\newcommand{\EEQA}{\end{eqnarray}}
+\newcommand{\define}{\stackrel{\triangle}{=}}
+\bibliographystyle{IEEEtran}
+\providecommand{\mbf}{\mathbf}
+\providecommand{\pr}[1]{\ensuremath{\Pr\left(#1\right)}}
+\providecommand{\qfunc}[1]{\ensuremath{Q\left(#1\right)}}
+\providecommand{\sbrak}[1]{\ensuremath{{}\left[#1\right]}}
+\providecommand{\lsbrak}[1]{\ensuremath{{}\left[#1\right.}}
+\providecommand{\rsbrak}[1]{\ensuremath{{}\left.#1\right]}}
+\providecommand{\brak}[1]{\ensuremath{\left(#1\right)}}
+\providecommand{\lbrak}[1]{\ensuremath{\left(#1\right.}}
+\providecommand{\rbrak}[1]{\ensuremath{\left.#1\right)}}
+\providecommand{\cbrak}[1]{\ensuremath{\left\{#1\right\}}}
+\providecommand{\lcbrak}[1]{\ensuremath{\left\{#1\right.}}
+\providecommand{\rcbrak}[1]{\ensuremath{\left.#1\right\}}}
+\theoremstyle{remark}
+\newtheorem{rem}{Remark}
+\newcommand{\sgn}{\mathop{\mathrm{sgn}}}
+\providecommand{\abs}[1]{\vert#1\vert}
+\providecommand{\res}[1]{\Res\displaylimits_{#1}} 
+\providecommand{\norm}[1]{\lVert#1\rVert}
+%\providecommand{\norm}[1]{\lVert#1\rVert}
+\providecommand{\mtx}[1]{\mathbf{#1}}
+\providecommand{\mean}[1]{E[ #1 ]}
+\providecommand{\fourier}{\overset{\mathcal{F}}{ \rightleftharpoons}}
+%\providecommand{\hilbert}{\overset{\mathcal{H}}{ \rightleftharpoons}}
+\providecommand{\system}{\overset{\mathcal{H}}{ \longleftrightarrow}}
+	%\newcommand{\solution}[2]{\textbf{Solution:}{#1}}
+\newcommand{\solution}{\noindent \textbf{Solution: }}
+\newcommand{\cosec}{\,\text{cosec}\,}
+\providecommand{\dec}[2]{\ensuremath{\overset{#1}{\underset{#2}{\gtrless}}}}
+\newcommand{\myvec}[1]{\ensuremath{\begin{pmatrix}#1\end{pmatrix}}}
+\newcommand{\mydet}[1]{\ensuremath{\begin{vmatrix}#1\end{vmatrix}}}
+\numberwithin{equation}{subsection}
+\makeatletter
+\@addtoreset{figure}{problem}
+\makeatother
+\let\StandardTheFigure\thefigure
+\let\vec\mathbf
+\renewcommand{\thefigure}{\theproblem}
+\def\putbox#1#2#3{\makebox[0in][l]{\makebox[#1][l]{}\raisebox{\baselineskip}[0in][0in]{\raisebox{#2}[0in][0in]{#3}}}}
+     \def\rightbox#1{\makebox[0in][r]{#1}}
+     \def\centbox#1{\makebox[0in]{#1}}
+     \def\topbox#1{\raisebox{-\baselineskip}[0in][0in]{#1}}
+     \def\midbox#1{\raisebox{-0.5\baselineskip}[0in][0in]{#1}}
+\vspace{3cm}
+\title{ASSIGNMENT 5}
+\author{Vojeswitha Gopireddy \\ AI20BTECH11024}
+\maketitle
+\newpage
+\bigskip
+\renewcommand{\thefigure}{\theenumi}
+\renewcommand{\thetable}{\theenumi}
+Download all python codes from 
+\begin{lstlisting}
+https://github.com/V-Gopireddy/EE3900/blob/main/Assignment5/codes/Assignment-5.py
+\end{lstlisting}
+%
+and latex-tikz codes from 
+%
+\begin{lstlisting}
+https://github.com/V-gopireddy/EE3900/blob/main/Assignment5/Assignment-5.tex
+\end{lstlisting}
+\section{Quadratic forms 2.27}
+Find the coordinates of the foci, the vertices,
+the lengths of major and minor axes and the
+eccentricity of the ellipse
+\begin{align}
+  \vec{x}^T\myvec{9&0\\0&4}\vec{x}=36   
+\end{align}
+%
+\section{SOLUTION}
+%
+Given ellipse is
+\begin{align}
+   \vec{x}^T\myvec{9&0\\0&4}\vec{x}=36
+\end{align}
+%
+On comparing it with standard form we have,
+\begin{align}
+    \vec{V}=\myvec{9&0\\0&4},\vec{u}=0,f=-36\\
+    \implies\vec{u}^T\vec{V}^{-1}\vec{u}-f = 36\\
+    \implies\vec{c} = -\vec{V}^{-1}\vec{u} = \myvec{0\\0}\\
+\end{align}
+The eigen vector decomposition of 
+\begin{align}
+    \vec{V} = \myvec{9&0\\0&4}
+\end{align}
+is given by
+\begin{align}
+    \vec{D} &= \myvec{9&0\\0&4} \implies \lambda_1 = 9,\lambda_2 = 4\\
+    \vec{P} &= \myvec{1&0\\0&1}\implies \vec{p}_1 = \myvec{1\\0}, \vec{p}_2 = \myvec{0\\1}
+\end{align}
+Since
+\begin{align}
+   \lambda_1 > \lambda_2
+\end{align}
+Eccentricity of the ellipse is,
+\begin{align}
+   e &= \sqrt{1-\frac{\lambda_2}{\lambda_1}}
+   = \frac{\sqrt{5}}{3}
+\end{align} 
+Semi major and minor axes of ellipse are,
+\begin{align}
+    a = \sqrt{\frac{\vec{u}^{\top}\vec{V}^{-1}\vec{u}-f}{\lambda_2}} = 3\\ 
+    b = \sqrt{\frac{\vec{u}^{\top}\vec{V}^{-1}\vec{u}-f}{\lambda_1}} = 2
+\end{align}
+The co-ordinates of vertices are,
+\begin{align}
+   \pm\myvec{0 \\ 3} 
+\end{align}
+The co-ordinates of foci are given by,
+\begin{align}
+  \vec{F}  = \frac{ce^2\vec{n}-\vec{u}}{\lambda_1}
+\end{align}
+Where,
+\begin{align}
+    \vec{n} &= \sqrt{\lambda_1}\vec{p}_2
+\end{align}
+\begin{multline}
+     c = \frac{e\vec{u}^{\top}\vec{n} \pm \sqrt{e^2\brak{\vec{u}^{\top}\vec{n}}^2-\lambda_2\brak{e^2-1}\brak{\norm{\vec{u}}^2 - \lambda_2 f}}}{\lambda_2e\brak{e^2-1}} 
+\end{multline}
+Substituting we have,
+\begin{align}
+    \vec{n} &= \myvec{0\\3}\\ c &= \pm\frac{27}{\sqrt{5}}\\
+    \vec{F} &= \pm\myvec{0 \\ \sqrt{5}}.
+\end{align}
+\begin{figure}[t!]
+  \centering
+  \includegraphics[keepaspectratio, width=0.6\textwidth]{ellipse.png}
+  \caption{Plot of the ellipse}   
+  \label{fig:RSUencountered} 
+\end{figure}
+\end{document}
