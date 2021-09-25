@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  28 AUG 2021 20:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  22 SEP 2021 17:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**gvv_ncert_linear_forms.tex
-(./gvv_ncert_linear_forms.tex
+**gvv_ncert_linear_forms_examples.tex
+(./gvv_ncert_linear_forms_examples.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (/usr/share/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
@@ -1409,8 +1409,8 @@ LaTeX Font Info:    Trying to load font information for OT1+txr on input line 8
 (/usr/share/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-(./gvv_ncert_linear_forms.aux)
-\openout1 = `gvv_ncert_linear_forms.aux'.
+(./gvv_ncert_linear_forms_examples.aux)
+\openout1 = `gvv_ncert_linear_forms_examples.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 87.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
@@ -1552,9 +1552,9 @@ LaTeX Info: Redefining \ref on input line 87.
 LaTeX Info: Redefining \pageref on input line 87.
 LaTeX Info: Redefining \nameref on input line 87.
 
-(./gvv_ncert_linear_forms.out) (./gvv_ncert_linear_forms.out)
+(./gvv_ncert_linear_forms_examples.out) (./gvv_ncert_linear_forms_examples.out)
 \@outlinefile=\write4
-\openout4 = `gvv_ncert_linear_forms.out'.
+\openout4 = `gvv_ncert_linear_forms_examples.out'.
 
 \c@lstlisting=\count380
 \c@theorem=\count381
@@ -1566,7 +1566,6 @@ LaTeX Info: Redefining \nameref on input line 87.
 LaTeX Font Info:    Calculating math sizes for size <14> on input line 243.
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 24
 3.
-
 (/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
@@ -1594,9 +1593,9 @@ LaTeX Font Info:    Trying to load font information for U+txsyc on input line 2
 (/usr/share/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-(./gvv_ncert_linear_forms.toc)
+(./gvv_ncert_linear_forms_examples.toc)
 \tf@toc=\write5
-\openout5 = `gvv_ncert_linear_forms.toc'.
+\openout5 = `gvv_ncert_linear_forms_examples.toc'.
 
  (./line/line_exam.tex
 
@@ -1605,13 +1604,13 @@ LaTeX Warning: File `./line/figs/line_zeros.eps' not found on input line 27.
 Package epstopdf Info: Source file: <./line/figs/line_zeros.eps>
 (epstopdf)             Output file: <./line/figs/line_zeros-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 8359 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_zeros-eps
 -converted-to.pdf ./line/figs/line_zeros.eps>
 (epstopdf)             \includegraphics on input line 27.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_zeros-eps-converted-to.pdf, id=47, 462.52798pt x 346.89601pt>
+<./line/figs/line_zeros-eps-converted-to.pdf, id=37, 462.52798pt x 346.89601pt>
 
 File: ./line/figs/line_zeros-eps-converted-to.pdf Graphic file (type pdf)
 <use ./line/figs/line_zeros-eps-converted-to.pdf>
@@ -1628,14 +1627,14 @@ LaTeX Warning: File `./line/figs/line_icept.eps' not found on input line 95.
 Package epstopdf Info: Source file: <./line/figs/line_icept.eps>
 (epstopdf)             Output file: <./line/figs/line_icept-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 9332 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_icept-eps
 -converted-to.pdf ./line/figs/line_icept.eps>
 (epstopdf)             \includegraphics on input line 95.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_icept-eps-converted-to.pdf, id=108, 462.52798pt x 346.89601pt
->
+<./line/figs/line_icept-eps-converted-to.pdf, id=98, 462.52798pt x 346.89601pt>
+
 File: ./line/figs/line_icept-eps-converted-to.pdf Graphic file (type pdf)
 <use ./line/figs/line_icept-eps-converted-to.pdf>
 Package pdftex.def Info: ./line/figs/line_icept-eps-converted-to.pdf  used on i
@@ -1648,13 +1647,13 @@ LaTeX Warning: File `./line/figs/line_check_sol.eps' not found on input line 15
 Package epstopdf Info: Source file: <./line/figs/line_check_sol.eps>
 (epstopdf)             Output file: <./line/figs/line_check_sol-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 9259 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_check_sol
 -eps-converted-to.pdf ./line/figs/line_check_sol.eps>
 (epstopdf)             \includegraphics on input line 158.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_check_sol-eps-converted-to.pdf, id=112, 462.52798pt x 346.896
+<./line/figs/line_check_sol-eps-converted-to.pdf, id=102, 462.52798pt x 346.896
 01pt>
 File: ./line/figs/line_check_sol-eps-converted-to.pdf Graphic file (type pdf)
 <use ./line/figs/line_check_sol-eps-converted-to.pdf>
@@ -1668,13 +1667,13 @@ LaTeX Warning: File `./line/figs/line_check_sol2.eps' not found on input line 2
 Package epstopdf Info: Source file: <./line/figs/line_check_sol2.eps>
 (epstopdf)             Output file: <./line/figs/line_check_sol2-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 8556 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_check_sol
 2-eps-converted-to.pdf ./line/figs/line_check_sol2.eps>
 (epstopdf)             \includegraphics on input line 200.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_check_sol2-eps-converted-to.pdf, id=116, 462.52798pt x 346.89
+<./line/figs/line_check_sol2-eps-converted-to.pdf, id=106, 462.52798pt x 346.89
 601pt>
 File: ./line/figs/line_check_sol2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./line/figs/line_check_sol2-eps-converted-to.pdf>
@@ -1690,13 +1689,13 @@ LaTeX Warning: File `./line/figs/line_check_sol3.eps' not found on input line 2
 Package epstopdf Info: Source file: <./line/figs/line_check_sol3.eps>
 (epstopdf)             Output file: <./line/figs/line_check_sol3-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 8948 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_check_sol
 3-eps-converted-to.pdf ./line/figs/line_check_sol3.eps>
 (epstopdf)             \includegraphics on input line 247.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_check_sol3-eps-converted-to.pdf, id=187, 462.52798pt x 346.89
+<./line/figs/line_check_sol3-eps-converted-to.pdf, id=177, 462.52798pt x 346.89
 601pt>
 File: ./line/figs/line_check_sol3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./line/figs/line_check_sol3-eps-converted-to.pdf>
@@ -1715,13 +1714,13 @@ LaTeX Warning: File `./line/figs/line_check_unique.eps' not found on input line
 Package epstopdf Info: Source file: <./line/figs/line_check_unique.eps>
 (epstopdf)             Output file: <./line/figs/line_check_unique-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 7670 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_check_uni
 que-eps-converted-to.pdf ./line/figs/line_check_unique.eps>
 (epstopdf)             \includegraphics on input line 286.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_check_unique-eps-converted-to.pdf, id=190, 462.52798pt x 346.
+<./line/figs/line_check_unique-eps-converted-to.pdf, id=180, 462.52798pt x 346.
 89601pt>
 File: ./line/figs/line_check_unique-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -1741,13 +1740,13 @@ LaTeX Warning: File `./line/figs/line_check_nosol.eps' not found on input line
 Package epstopdf Info: Source file: <./line/figs/line_check_nosol.eps>
 (epstopdf)             Output file: <./line/figs/line_check_nosol-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 9115 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_check_nos
 ol-eps-converted-to.pdf ./line/figs/line_check_nosol.eps>
 (epstopdf)             \includegraphics on input line 322.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_check_nosol-eps-converted-to.pdf, id=258, 462.52798pt x 346.8
+<./line/figs/line_check_nosol-eps-converted-to.pdf, id=248, 462.52798pt x 346.8
 9601pt>
 File: ./line/figs/line_check_nosol-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1767,13 +1766,13 @@ LaTeX Warning: File `./line/figs/line_perp_bisect.eps' not found on input line
 Package epstopdf Info: Source file: <./line/figs/line_perp_bisect.eps>
 (epstopdf)             Output file: <./line/figs/line_perp_bisect-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 15357 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_perp_bise
 ct-eps-converted-to.pdf ./line/figs/line_perp_bisect.eps>
 (epstopdf)             \includegraphics on input line 416.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_perp_bisect-eps-converted-to.pdf, id=326, 462.52798pt x 346.8
+<./line/figs/line_perp_bisect-eps-converted-to.pdf, id=316, 462.52798pt x 346.8
 9601pt>
 File: ./line/figs/line_perp_bisect-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1797,13 +1796,13 @@ e 528.
 Package epstopdf Info: Source file: <./line/figs/line_parallel_axes.eps>
 (epstopdf)             Output file: <./line/figs/line_parallel_axes-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 8323 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_parallel_
 axes-eps-converted-to.pdf ./line/figs/line_parallel_axes.eps>
 (epstopdf)             \includegraphics on input line 528.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_parallel_axes-eps-converted-to.pdf, id=398, 462.52798pt x 346
+<./line/figs/line_parallel_axes-eps-converted-to.pdf, id=388, 462.52798pt x 346
 .89601pt>
 File: ./line/figs/line_parallel_axes-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -1823,13 +1822,13 @@ LaTeX Warning: File `./line/figs/line_pt_dist.eps' not found on input line 647.
 Package epstopdf Info: Source file: <./line/figs/line_pt_dist.eps>
 (epstopdf)             Output file: <./line/figs/line_pt_dist-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 17892 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_pt_dist-e
 ps-converted-to.pdf ./line/figs/line_pt_dist.eps>
 (epstopdf)             \includegraphics on input line 647.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_pt_dist-eps-converted-to.pdf, id=451, 1205.50375pt x 591.2087
+<./line/figs/line_pt_dist-eps-converted-to.pdf, id=441, 1205.50375pt x 591.2087
 6pt>
 File: ./line/figs/line_pt_dist-eps-converted-to.pdf Graphic file (type pdf)
 <use ./line/figs/line_pt_dist-eps-converted-to.pdf>
@@ -1850,13 +1849,13 @@ LaTeX Warning: File `./line/figs/line_scalar_prod.eps' not found on input line
 Package epstopdf Info: Source file: <./line/figs/line_scalar_prod.eps>
 (epstopdf)             Output file: <./line/figs/line_scalar_prod-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 25937 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_scalar_pr
 od-eps-converted-to.pdf ./line/figs/line_scalar_prod.eps>
 (epstopdf)             \includegraphics on input line 771.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_scalar_prod-eps-converted-to.pdf, id=488, 1165.35374pt x 631.
+<./line/figs/line_scalar_prod-eps-converted-to.pdf, id=478, 1165.35374pt x 631.
 35875pt>
 File: ./line/figs/line_scalar_prod-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1880,13 +1879,13 @@ LaTeX Warning: File `./line/figs/reflection.eps' not found on input line 942.
 Package epstopdf Info: Source file: <./line/figs/reflection.eps>
 (epstopdf)             Output file: <./line/figs/reflection-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 14549 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/reflection-eps
 -converted-to.pdf ./line/figs/reflection.eps>
 (epstopdf)             \includegraphics on input line 942.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/reflection-eps-converted-to.pdf, id=531, 1052.93375pt x 483.8075pt
+<./line/figs/reflection-eps-converted-to.pdf, id=521, 1052.93375pt x 483.8075pt
 >
 File: ./line/figs/reflection-eps-converted-to.pdf Graphic file (type pdf)
 <use ./line/figs/reflection-eps-converted-to.pdf>
@@ -1901,13 +1900,13 @@ LaTeX Warning: File `./line/figs/line_reflect.eps' not found on input line 1024
 Package epstopdf Info: Source file: <./line/figs/line_reflect.eps>
 (epstopdf)             Output file: <./line/figs/line_reflect-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2021-08-27 20:09:00
+(epstopdf)                    date: 2021-08-29 06:52:19
 (epstopdf)                    size: 9099 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_reflect-e
 ps-converted-to.pdf ./line/figs/line_reflect.eps>
 (epstopdf)             \includegraphics on input line 1024.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_reflect-eps-converted-to.pdf, id=571, 462.52798pt x 346.89601
+<./line/figs/line_reflect-eps-converted-to.pdf, id=561, 462.52798pt x 346.89601
 pt>
 File: ./line/figs/line_reflect-eps-converted-to.pdf Graphic file (type pdf)
 <use ./line/figs/line_reflect-eps-converted-to.pdf>
@@ -1955,13 +1954,13 @@ line 1177.
 Package epstopdf Info: Source file: <./line/figs/line_dist_parallel_py.eps>
 (epstopdf)             Output file: <./line/figs/line_dist_parallel_py-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 9098 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_dist_para
 llel_py-eps-converted-to.pdf ./line/figs/line_dist_parallel_py.eps>
 (epstopdf)             \includegraphics on input line 1177.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_dist_parallel_py-eps-converted-to.pdf, id=648, 462.52798pt x 
+<./line/figs/line_dist_parallel_py-eps-converted-to.pdf, id=638, 462.52798pt x 
 346.89601pt>
 File: ./line/figs/line_dist_parallel_py-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -1976,13 +1975,13 @@ e 1187.
 Package epstopdf Info: Source file: <./line/figs/line_dist_parallel.eps>
 (epstopdf)             Output file: <./line/figs/line_dist_parallel-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 30958 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_dist_para
 llel-eps-converted-to.pdf ./line/figs/line_dist_parallel.eps>
 (epstopdf)             \includegraphics on input line 1187.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_dist_parallel-eps-converted-to.pdf, id=650, 1246.6575pt x 629
+<./line/figs/line_dist_parallel-eps-converted-to.pdf, id=640, 1246.6575pt x 629
 .35126pt>
 File: ./line/figs/line_dist_parallel-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2004,13 +2003,13 @@ LaTeX Warning: File `./line/figs/line_dist_skew.eps' not found on input line 12
 Package epstopdf Info: Source file: <./line/figs/line_dist_skew.eps>
 (epstopdf)             Output file: <./line/figs/line_dist_skew-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2021-08-27 20:08:59
+(epstopdf)                    date: 2021-08-29 06:52:18
 (epstopdf)                    size: 9525 bytes
 (epstopdf)             Command: <repstopdf --outfile=./line/figs/line_dist_skew
 -eps-converted-to.pdf ./line/figs/line_dist_skew.eps>
 (epstopdf)             \includegraphics on input line 1288.
 Package epstopdf Info: Output file is already uptodate.
-<./line/figs/line_dist_skew-eps-converted-to.pdf, id=690, 462.52798pt x 346.896
+<./line/figs/line_dist_skew-eps-converted-to.pdf, id=680, 462.52798pt x 346.896
 01pt>
 File: ./line/figs/line_dist_skew-eps-converted-to.pdf Graphic file (type pdf)
 <use ./line/figs/line_dist_skew-eps-converted-to.pdf>
@@ -2069,13 +2068,13 @@ LaTeX Warning: File `./solutions/1/figs/line/line1.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/1/figs/line/line1.eps>
 (epstopdf)             Output file: <./solutions/1/figs/line/line1-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:01
+(epstopdf)                    date: 2021-08-29 06:52:20
 (epstopdf)                    size: 9030 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/line/li
 ne1-eps-converted-to.pdf ./solutions/1/figs/line/line1.eps>
 (epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
-<./solutions/1/figs/line/line1-eps-converted-to.pdf, id=926, 462.52798pt x 346.
+<./solutions/1/figs/line/line1-eps-converted-to.pdf, id=916, 462.52798pt x 346.
 89601pt>
 File: ./solutions/1/figs/line/line1-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -2090,13 +2089,13 @@ LaTeX Warning: File `./solutions/1/figs/line/line2.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/1/figs/line/line2.eps>
 (epstopdf)             Output file: <./solutions/1/figs/line/line2-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:01
+(epstopdf)                    date: 2021-08-29 06:52:20
 (epstopdf)                    size: 8677 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/line/li
 ne2-eps-converted-to.pdf ./solutions/1/figs/line/line2.eps>
 (epstopdf)             \includegraphics on input line 56.
 Package epstopdf Info: Output file is already uptodate.
-<./solutions/1/figs/line/line2-eps-converted-to.pdf, id=928, 462.52798pt x 346.
+<./solutions/1/figs/line/line2-eps-converted-to.pdf, id=918, 462.52798pt x 346.
 89601pt>
 File: ./solutions/1/figs/line/line2-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -2113,14 +2112,14 @@ LaTeX Warning: File `./solutions/1/figs/line/line3.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/1/figs/line/line3.eps>
 (epstopdf)             Output file: <./solutions/1/figs/line/line3-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:01
+(epstopdf)                    date: 2021-08-29 06:52:20
 (epstopdf)                    size: 9063 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/line/li
 ne3-eps-converted-to.pdf ./solutions/1/figs/line/line3.eps>
 (epstopdf)             \includegraphics on input line 77.
 Package epstopdf Info: Output file is already uptodate.
-<./solutions/1/figs/line/line3-eps-converted-to.pdf, id=1002, 462.52798pt x 346
-.89601pt>
+<./solutions/1/figs/line/line3-eps-converted-to.pdf, id=992, 462.52798pt x 346.
+89601pt>
 File: ./solutions/1/figs/line/line3-eps-converted-to.pdf Graphic file (type pdf
 )
 <use ./solutions/1/figs/line/line3-eps-converted-to.pdf>
@@ -2134,14 +2133,14 @@ LaTeX Warning: File `./solutions/1/figs/line/line4.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/1/figs/line/line4.eps>
 (epstopdf)             Output file: <./solutions/1/figs/line/line4-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:01
+(epstopdf)                    date: 2021-08-29 06:52:20
 (epstopdf)                    size: 9028 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/line/li
 ne4-eps-converted-to.pdf ./solutions/1/figs/line/line4.eps>
 (epstopdf)             \includegraphics on input line 98.
 Package epstopdf Info: Output file is already uptodate.
-<./solutions/1/figs/line/line4-eps-converted-to.pdf, id=1004, 462.52798pt x 346
-.89601pt>
+<./solutions/1/figs/line/line4-eps-converted-to.pdf, id=994, 462.52798pt x 346.
+89601pt>
 File: ./solutions/1/figs/line/line4-eps-converted-to.pdf Graphic file (type pdf
 )
 <use ./solutions/1/figs/line/line4-eps-converted-to.pdf>
@@ -2168,7 +2167,7 @@ Package epstopdf Info: Source file: <./solutions/2/figs/line_ex/lines_and_plane
 s/final_eq.eps>
 (epstopdf)             Output file: <./solutions/2/figs/line_ex/lines_and_plane
 s/final_eq-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:06
+(epstopdf)                    date: 2021-08-29 06:52:25
 (epstopdf)                    size: 11248 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/2/figs/line_ex
 /lines_and_planes/final_eq-eps-converted-to.pdf ./solutions/2/figs/line_ex/line
@@ -2176,7 +2175,7 @@ s_and_planes/final_eq.eps>
 (epstopdf)             \includegraphics on input line 96.
 Package epstopdf Info: Output file is already uptodate.
 <./solutions/2/figs/line_ex/lines_and_planes/final_eq-eps-converted-to.pdf, id=
-1080, 462.52798pt x 346.89601pt>
+1070, 462.52798pt x 346.89601pt>
 File: ./solutions/2/figs/line_ex/lines_and_planes/final_eq-eps-converted-to.pdf
  Graphic file (type pdf)
 <use ./solutions/2/figs/line_ex/lines_and_planes/final_eq-eps-converted-to.pdf>
@@ -2206,7 +2205,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/line/pointonline2/pyfi
 gs/pointonline.eps>
 (epstopdf)             Output file: <./solutions/3/codes/line/pointonline2/pyfi
 gs/pointonline-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:11
+(epstopdf)                    date: 2021-08-29 06:52:30
 (epstopdf)                    size: 10160 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/line/p
 ointonline2/pyfigs/pointonline-eps-converted-to.pdf ./solutions/3/codes/line/po
@@ -2214,7 +2213,7 @@ intonline2/pyfigs/pointonline.eps>
 (epstopdf)             \includegraphics on input line 87.
 Package epstopdf Info: Output file is already uptodate.
 <./solutions/3/codes/line/pointonline2/pyfigs/pointonline-eps-converted-to.pdf,
- id=1144, 462.52798pt x 346.89601pt>
+ id=1134, 462.52798pt x 346.89601pt>
 File: ./solutions/3/codes/line/pointonline2/pyfigs/pointonline-eps-converted-to
 .pdf Graphic file (type pdf)
 <use ./solutions/3/codes/line/pointonline2/pyfigs/pointonline-eps-converted-to.
@@ -2268,7 +2267,7 @@ Package epstopdf Info: Source file: <./solutions/4/figures/line/lines_and_plane
 s/lines_and_planes.eps>
 (epstopdf)             Output file: <./solutions/4/figures/line/lines_and_plane
 s/lines_and_planes-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:16
+(epstopdf)                    date: 2021-08-29 06:52:35
 (epstopdf)                    size: 15467 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/4/figures/line
 /lines_and_planes/lines_and_planes-eps-converted-to.pdf ./solutions/4/figures/l
@@ -2281,7 +2280,7 @@ pdfTeX warning: pdflatex (file ./solutions/4/figures/line/lines_and_planes/line
 s_and_planes-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but
  at most version <1.5> allowed
 <./solutions/4/figures/line/lines_and_planes/lines_and_planes-eps-converted-to.
-pdf, id=1203, 462.72874pt x 346.29375pt>
+pdf, id=1193, 462.72874pt x 346.29375pt>
 File: ./solutions/4/figures/line/lines_and_planes/lines_and_planes-eps-converte
 d-to.pdf Graphic file (type pdf)
 <use ./solutions/4/figures/line/lines_and_planes/lines_and_planes-eps-converted
@@ -2297,13 +2296,13 @@ LaTeX Warning: File `./solutions/5/figs/lines/q11a.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/5/figs/lines/q11a.eps>
 (epstopdf)             Output file: <./solutions/5/figs/lines/q11a-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:19
+(epstopdf)                    date: 2021-08-29 06:52:39
 (epstopdf)                    size: 7141 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/lines/q
 11a-eps-converted-to.pdf ./solutions/5/figs/lines/q11a.eps>
 (epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
-<./solutions/5/figs/lines/q11a-eps-converted-to.pdf, id=1242, 462.52798pt x 346
+<./solutions/5/figs/lines/q11a-eps-converted-to.pdf, id=1232, 462.52798pt x 346
 .89601pt>
 File: ./solutions/5/figs/lines/q11a-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -2318,13 +2317,13 @@ LaTeX Warning: File `./solutions/5/figs/lines/q11b.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/5/figs/lines/q11b.eps>
 (epstopdf)             Output file: <./solutions/5/figs/lines/q11b-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-27 20:09:19
+(epstopdf)                    date: 2021-08-29 06:52:39
 (epstopdf)                    size: 6374 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/lines/q
 11b-eps-converted-to.pdf ./solutions/5/figs/lines/q11b.eps>
 (epstopdf)             \includegraphics on input line 15.
 Package epstopdf Info: Output file is already uptodate.
-<./solutions/5/figs/lines/q11b-eps-converted-to.pdf, id=1243, 462.52798pt x 346
+<./solutions/5/figs/lines/q11b-eps-converted-to.pdf, id=1233, 462.52798pt x 346
 .89601pt>
 File: ./solutions/5/figs/lines/q11b-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -2342,7 +2341,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (./solutions/line_plane/17/solution.tex
-<./solutions/line_plane/17/assignment1solution_graph1.png, id=1340, 462.528pt x
+<./solutions/line_plane/17/assignment1solution_graph1.png, id=1329, 462.528pt x
  346.896pt>
 File: ./solutions/line_plane/17/assignment1solution_graph1.png Graphic file (ty
 pe png)
@@ -2350,7 +2349,7 @@ pe png)
 Package pdftex.def Info: ./solutions/line_plane/17/assignment1solution_graph1.p
 ng  used on input line 28.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-<./solutions/line_plane/17/assignment1solution_graph.png, id=1342, 462.528pt x 
+<./solutions/line_plane/17/assignment1solution_graph.png, id=1331, 462.528pt x 
 346.896pt>
 File: ./solutions/line_plane/17/assignment1solution_graph.png Graphic file (typ
 e png)
@@ -2362,14 +2361,14 @@ g  used on input line 34.
 (./solutions/line_plane/18/chapters/solution.tex [26 <./solutions/line_plane/17
 /assignment1solution_graph1.png> <./solutions/line_plane/17/assignment1solution
 _graph.png>]
-<./solutions/line_plane/18/figures//A1_parta.png, id=1398, 987.2082pt x 513.839
+<./solutions/line_plane/18/figures//A1_parta.png, id=1388, 987.2082pt x 513.839
 7pt>
 File: ./solutions/line_plane/18/figures//A1_parta.png Graphic file (type png)
 <use ./solutions/line_plane/18/figures//A1_parta.png>
 Package pdftex.def Info: ./solutions/line_plane/18/figures//A1_parta.png  used 
 on input line 24.
 (pdftex.def)             Requested size: 252.0pt x 131.1646pt.
-<./solutions/line_plane/18/figures//A1_partb.png, id=1399, 462.528pt x 346.896p
+<./solutions/line_plane/18/figures//A1_partb.png, id=1389, 462.528pt x 346.896p
 t>
 File: ./solutions/line_plane/18/figures//A1_partb.png Graphic file (type png)
 <use ./solutions/line_plane/18/figures//A1_partb.png>
@@ -2379,7 +2378,7 @@ on input line 48.
 
 Underfull \vbox (badness 5008) has occurred while \output is active []
 
-<./solutions/line_plane/18/figures/A1_partc.png, id=1400, 462.528pt x 346.896pt
+<./solutions/line_plane/18/figures/A1_partc.png, id=1390, 462.528pt x 346.896pt
 >
 File: ./solutions/line_plane/18/figures/A1_partc.png Graphic file (type png)
 <use ./solutions/line_plane/18/figures/A1_partc.png>
@@ -2391,14 +2390,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27 <./solutions/line_plane/18/figures//A1_parta.png> <./solutions/line_plane/
 18/figures//A1_partb.png> <./solutions/line_plane/18/figures/A1_partc.png>]
-<./solutions/line_plane/18/figures//A1_partd.png, id=1424, 987.2082pt x 513.839
+<./solutions/line_plane/18/figures//A1_partd.png, id=1414, 987.2082pt x 513.839
 7pt>
 File: ./solutions/line_plane/18/figures//A1_partd.png Graphic file (type png)
 <use ./solutions/line_plane/18/figures//A1_partd.png>
 Package pdftex.def Info: ./solutions/line_plane/18/figures//A1_partd.png  used 
 on input line 90.
 (pdftex.def)             Requested size: 252.0pt x 131.1646pt.
-<./solutions/line_plane/18/figures//A1_parte.png, id=1425, 462.528pt x 346.896p
+<./solutions/line_plane/18/figures//A1_parte.png, id=1415, 462.528pt x 346.896p
 t>
 File: ./solutions/line_plane/18/figures//A1_parte.png Graphic file (type png)
 <use ./solutions/line_plane/18/figures//A1_parte.png>
@@ -2408,7 +2407,7 @@ on input line 108.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./solutions/line_plane/18/figures//A1_partf.png, id=1426, 987.2082pt x 513.839
+<./solutions/line_plane/18/figures//A1_partf.png, id=1416, 987.2082pt x 513.839
 7pt>
 File: ./solutions/line_plane/18/figures//A1_partf.png Graphic file (type png)
 <use ./solutions/line_plane/18/figures//A1_partf.png>
@@ -2479,7 +2478,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-<./solutions/line_plane/22/plot.png, id=1476, 359.84438pt x 228.855pt>
+<./solutions/line_plane/22/plot.png, id=1466, 359.84438pt x 228.855pt>
 File: ./solutions/line_plane/22/plot.png Graphic file (type png)
 <use ./solutions/line_plane/22/plot.png>
 Package pdftex.def Info: ./solutions/line_plane/22/plot.png  used on input line
@@ -2503,7 +2502,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [31])
 (./solutions/line_plane/33/solution.tex
-<./solutions/line_plane/33/output.png, id=1545, 385.44pt x 262.9825pt>
+<./solutions/line_plane/33/output.png, id=1535, 385.44pt x 262.9825pt>
 File: ./solutions/line_plane/33/output.png Graphic file (type png)
 <use ./solutions/line_plane/33/output.png>
 Package pdftex.def Info: ./solutions/line_plane/33/output.png  used on input li
@@ -2514,7 +2513,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (./solutions/line_plane/34/solution.tex
-<./solutions/line_plane/34/figs/Figure_1.png, id=1547, 462.528pt x 346.896pt>
+<./solutions/line_plane/34/figs/Figure_1.png, id=1537, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/34/figs/Figure_1.png Graphic file (type png)
 <use ./solutions/line_plane/34/figs/Figure_1.png>
 Package pdftex.def Info: ./solutions/line_plane/34/figs/Figure_1.png  used on i
@@ -2525,7 +2524,7 @@ nput line 44.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32 <./solutions/line_plane/33/output.png>]
-<solutions/line_plane/37/A1/a1.png, id=1578, 462.528pt x 346.896pt>
+<solutions/line_plane/37/A1/a1.png, id=1567, 462.528pt x 346.896pt>
 File: solutions/line_plane/37/A1/a1.png Graphic file (type png)
 <use solutions/line_plane/37/A1/a1.png>
 Package pdftex.def Info: solutions/line_plane/37/A1/a1.png  used on input line 
@@ -2549,7 +2548,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 []\OT1/txr/m/n/12 From [] di-rec-tion vec-tor of line
  []
 
-<./solutions/line_plane/39/assignment1_method2_plot.png, id=1605, 462.528pt x 3
+<./solutions/line_plane/39/assignment1_method2_plot.png, id=1595, 462.528pt x 3
 46.896pt>
 File: ./solutions/line_plane/39/assignment1_method2_plot.png Graphic file (type
  png)
@@ -2571,7 +2570,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [34 <./solutions/line_plane/39/assignment1_method2_plot.png>]
-<./solutions/line_plane/40/plot.png, id=1634, 462.528pt x 346.896pt>
+<./solutions/line_plane/40/plot.png, id=1624, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/40/plot.png Graphic file (type png)
 <use ./solutions/line_plane/40/plot.png>
 Package pdftex.def Info: ./solutions/line_plane/40/plot.png  used on input line
@@ -2579,7 +2578,7 @@ Package pdftex.def Info: ./solutions/line_plane/40/plot.png  used on input line
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
 )
 (./solutions/line_plane/41/solution.tex
-<./solutions/line_plane/41/Figure_1.png, id=1636, 320.19624pt x 270.00874pt>
+<./solutions/line_plane/41/Figure_1.png, id=1626, 320.19624pt x 270.00874pt>
 File: ./solutions/line_plane/41/Figure_1.png Graphic file (type png)
 <use ./solutions/line_plane/41/Figure_1.png>
 Package pdftex.def Info: ./solutions/line_plane/41/Figure_1.png  used on input 
@@ -2588,7 +2587,7 @@ line 27.
 )
 (./solutions/line_plane/42/solution.tex [35 <./solutions/line_plane/40/plot.png
 > <./solutions/line_plane/41/Figure_1.png>]
-<./solutions/line_plane/42/Figure_1.png, id=1661, 462.528pt x 346.896pt>
+<./solutions/line_plane/42/Figure_1.png, id=1651, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/42/Figure_1.png Graphic file (type png)
 <use ./solutions/line_plane/42/Figure_1.png>
 Package pdftex.def Info: ./solutions/line_plane/42/Figure_1.png  used on input 
@@ -2598,7 +2597,7 @@ line 33.
 (./solutions/line_plane/43/solution.tex
 Underfull \vbox (badness 2735) has occurred while \output is active []
 
-<./solutions/line_plane/43/Assignment1 plot.png, id=1664, 216.81pt x 146.5475pt
+<./solutions/line_plane/43/Assignment1 plot.png, id=1654, 216.81pt x 146.5475pt
 >
 File: ./solutions/line_plane/43/Assignment1 plot.png Graphic file (type png)
 <use ./solutions/line_plane/43/Assignment1 plot.png>
@@ -2612,7 +2611,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [36 <./solutions/line_plane/42/Figure_1.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./solutions/line_plane/45/stline_plot.png, id=1689, 397.485pt x 248.93pt>
+<./solutions/line_plane/45/stline_plot.png, id=1679, 397.485pt x 248.93pt>
 File: ./solutions/line_plane/45/stline_plot.png Graphic file (type png)
 <use ./solutions/line_plane/45/stline_plot.png>
 Package pdftex.def Info: ./solutions/line_plane/45/stline_plot.png  used on inp
@@ -2626,7 +2625,7 @@ Underfull \vbox (badness 3977) has occurred while \output is active []
 5/stline_plot.png>]) (./solutions/line_plane/47/solution.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./solutions/line_plane/47/Figure_1.png, id=1700, 462.528pt x 346.896pt>
+<./solutions/line_plane/47/Figure_1.png, id=1690, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/47/Figure_1.png Graphic file (type png)
 <use ./solutions/line_plane/47/Figure_1.png>
 Package pdftex.def Info: ./solutions/line_plane/47/Figure_1.png  used on input 
@@ -2639,7 +2638,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [38 <./solutions/line_plane/47/Figure_1.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./solutions/line_plane/49/Edit_plot.png, id=1711, 462.528pt x 346.896pt>
+<./solutions/line_plane/49/Edit_plot.png, id=1701, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/49/Edit_plot.png Graphic file (type png)
 <use ./solutions/line_plane/49/Edit_plot.png>
 Package pdftex.def Info: ./solutions/line_plane/49/Edit_plot.png  used on input
@@ -2662,7 +2661,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--65
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./solutions/line_plane/50/Assignment_1.png, id=1721, 462.528pt x 346.896pt>
+<./solutions/line_plane/50/Assignment_1.png, id=1711, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/50/Assignment_1.png Graphic file (type png)
 <use ./solutions/line_plane/50/Assignment_1.png>
 Package pdftex.def Info: ./solutions/line_plane/50/Assignment_1.png  used on in
@@ -2675,7 +2674,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2326--2
  []
 
 [40 <./solutions/line_plane/50/Assignment_1.png>]
-<./solutions/line_plane/51/Plot.png, id=1732, 462.528pt x 346.896pt>
+<./solutions/line_plane/51/Plot.png, id=1722, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/51/Plot.png Graphic file (type png)
 <use ./solutions/line_plane/51/Plot.png>
 Package pdftex.def Info: ./solutions/line_plane/51/Plot.png  used on input line
@@ -2690,7 +2689,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./solutions/line_plane/52/Figure.pdf, id=1733, 462.52798pt x 346.89601pt>
+<./solutions/line_plane/52/Figure.pdf, id=1723, 462.52798pt x 346.89601pt>
 File: ./solutions/line_plane/52/Figure.pdf Graphic file (type pdf)
 <use ./solutions/line_plane/52/Figure.pdf>
 Package pdftex.def Info: ./solutions/line_plane/52/Figure.pdf  used on input li
@@ -2706,7 +2705,7 @@ ng> <./solutions/line_plane/52/Figure.pdf>])
 (./solutions/line_plane/55/solution.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./solutions/line_plane/55/Figure_1.png, id=1782, 462.528pt x 346.896pt>
+<./solutions/line_plane/55/Figure_1.png, id=1772, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/55/Figure_1.png Graphic file (type png)
 <use ./solutions/line_plane/55/Figure_1.png>
 Package pdftex.def Info: ./solutions/line_plane/55/Figure_1.png  used on input 
@@ -2717,7 +2716,7 @@ line 25.
 .png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./solutions/line_plane/59/output.png, id=1794, 305.14pt x 214.8025pt>
+<./solutions/line_plane/59/output.png, id=1784, 305.14pt x 214.8025pt>
 File: ./solutions/line_plane/59/output.png Graphic file (type png)
 <use ./solutions/line_plane/59/output.png>
 Package pdftex.def Info: ./solutions/line_plane/59/output.png  used on input li
@@ -2725,7 +2724,7 @@ ne 52.
 (pdftex.def)             Requested size: 252.0pt x 177.40106pt.
 )
 (./solutions/line_plane/67/solution.tex
-<./solutions/line_plane/67/Assignment_2_Figure.png, id=1795, 462.528pt x 346.89
+<./solutions/line_plane/67/Assignment_2_Figure.png, id=1785, 462.528pt x 346.89
 6pt>
 File: ./solutions/line_plane/67/Assignment_2_Figure.png Graphic file (type png)
 
@@ -2743,14 +2742,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-<./solutions/line_plane/68/figs/line_Eqn3.png, id=1808, 462.528pt x 346.896pt>
+<./solutions/line_plane/68/figs/line_Eqn3.png, id=1798, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/68/figs/line_Eqn3.png Graphic file (type png)
 <use ./solutions/line_plane/68/figs/line_Eqn3.png>
 Package pdftex.def Info: ./solutions/line_plane/68/figs/line_Eqn3.png  used on 
 input line 23.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
 ) (./solutions/line_plane/70/solution.tex
-<./solutions/line_plane/70/codes/Assignment_2.png, id=1812, 184.43906pt x 121.9
+<./solutions/line_plane/70/codes/Assignment_2.png, id=1802, 184.43906pt x 121.9
 5563pt>
 File: ./solutions/line_plane/70/codes/Assignment_2.png Graphic file (type png)
 <use ./solutions/line_plane/70/codes/Assignment_2.png>
@@ -2761,7 +2760,7 @@ Package pdftex.def Info: ./solutions/line_plane/70/codes/Assignment_2.png  used
 (./solutions/line_plane/71/solution.tex [44 <./solutions/line_plane/67/Assignme
 nt_2_Figure.png> <./solutions/line_plane/68/figs/line_Eqn3.png> <./solutions/li
 ne_plane/70/codes/Assignment_2.png>]
-<./solutions/line_plane/71/Line_Image.png, id=1824, 350.30875pt x 231.86626pt>
+<./solutions/line_plane/71/Line_Image.png, id=1814, 350.30875pt x 231.86626pt>
 File: ./solutions/line_plane/71/Line_Image.png Graphic file (type png)
 <use ./solutions/line_plane/71/Line_Image.png>
 Package pdftex.def Info: ./solutions/line_plane/71/Line_Image.png  used on inpu
@@ -2775,7 +2774,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
 
-<./solutions/line_plane/72/assign2.png, id=1826, 574.145pt x 450.68375pt>
+<./solutions/line_plane/72/assign2.png, id=1816, 574.145pt x 450.68375pt>
 File: ./solutions/line_plane/72/assign2.png Graphic file (type png)
 <use ./solutions/line_plane/72/assign2.png>
 Package pdftex.def Info: ./solutions/line_plane/72/assign2.png  used on input l
@@ -2796,7 +2795,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--15
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./solutions/line_plane/60/Figure_1.png, id=1839, 462.528pt x 346.896pt>
+<./solutions/line_plane/60/Figure_1.png, id=1829, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/60/Figure_1.png Graphic file (type png)
 <use ./solutions/line_plane/60/Figure_1.png>
 Package pdftex.def Info: ./solutions/line_plane/60/Figure_1.png  used on input 
@@ -2817,7 +2816,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [46 <./solutions/line_plane/60/Figure_1.png>]) (./solutions/line_plane/75/solu
 tion.tex
-<./solutions/line_plane/75/Figures/lines.png, id=1849, 462.528pt x 346.896pt>
+<./solutions/line_plane/75/Figures/lines.png, id=1839, 462.528pt x 346.896pt>
 File: ./solutions/line_plane/75/Figures/lines.png Graphic file (type png)
 <use ./solutions/line_plane/75/Figures/lines.png>
 Package pdftex.def Info: ./solutions/line_plane/75/Figures/lines.png  used on i
@@ -2844,7 +2843,7 @@ Underfull \hbox (badness 2717) in paragraph at lines 25--29
 \OT1/txr/m/n/12 Dot prod-uct of di-rec-tion vec-tors $[]$ and
  []
 
-<./solutions/line_plane/76/lines.png, id=1865, 433.62pt x 289.08pt>
+<./solutions/line_plane/76/lines.png, id=1855, 433.62pt x 289.08pt>
 File: ./solutions/line_plane/76/lines.png Graphic file (type png)
 <use ./solutions/line_plane/76/lines.png>
 Package pdftex.def Info: ./solutions/line_plane/76/lines.png  used on input lin
@@ -2872,7 +2871,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [48 <./solutions/line_plane/76/lines.png>]
-<./solutions/line_plane/80/assignment2.png, id=1882, 574.145pt x 560.0925pt>
+<./solutions/line_plane/80/assignment2.png, id=1872, 574.145pt x 560.0925pt>
 File: ./solutions/line_plane/80/assignment2.png Graphic file (type png)
 <use ./solutions/line_plane/80/assignment2.png>
 Package pdftex.def Info: ./solutions/line_plane/80/assignment2.png  used on inp
@@ -2894,7 +2893,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [50]
-<./solutions/line_plane/107/fig.png, id=1913, 307.1475pt x 290.58563pt>
+<./solutions/line_plane/107/fig.png, id=1903, 307.1475pt x 290.58563pt>
 File: ./solutions/line_plane/107/fig.png Graphic file (type png)
 <use ./solutions/line_plane/107/fig.png>
 Package pdftex.def Info: ./solutions/line_plane/107/fig.png  used on input line
@@ -2912,7 +2911,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [51 <./solutions/line_plane/107/fig.png>]
-<./solutions/line_plane/109/assignment1.png, id=1922, 350.30875pt x 231.86626pt
+<./solutions/line_plane/109/assignment1.png, id=1912, 350.30875pt x 231.86626pt
 >
 File: ./solutions/line_plane/109/assignment1.png Graphic file (type png)
 <use ./solutions/line_plane/109/assignment1.png>
@@ -2922,7 +2921,7 @@ put line 41.
 ) (./solutions/line_plane/110/solution.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./solutions/line_plane/110/parallel planes.png, id=1924, 462.528pt x 344.0052p
+<./solutions/line_plane/110/parallel planes.png, id=1914, 462.528pt x 344.0052p
 t>
 File: ./solutions/line_plane/110/parallel planes.png Graphic file (type png)
 <use ./solutions/line_plane/110/parallel planes.png>
@@ -2932,7 +2931,7 @@ n input line 9.
 )
 (./solutions/su2021/2/55/ASSIGNMENT5.tex [52 <./solutions/line_plane/109/assign
 ment1.png> <./solutions/line_plane/110/parallel planes.png>]
-<solutions/su2021/2/55/PLANE.png, id=1940, 350.30875pt x 231.86626pt>
+<solutions/su2021/2/55/PLANE.png, id=1930, 350.30875pt x 231.86626pt>
 File: solutions/su2021/2/55/PLANE.png Graphic file (type png)
 <use solutions/su2021/2/55/PLANE.png>
 Package pdftex.def Info: solutions/su2021/2/55/PLANE.png  used on input line 17
@@ -2940,7 +2939,7 @@ Package pdftex.def Info: solutions/su2021/2/55/PLANE.png  used on input line 17
 (pdftex.def)             Requested size: 252.0pt x 166.79851pt.
 )
 (./solutions/su2021/2/5/Assignment4.tex
-<solutions/su2021/2/5/Figure4.png, id=1942, 379.4175pt x 262.9825pt>
+<solutions/su2021/2/5/Figure4.png, id=1932, 379.4175pt x 262.9825pt>
 File: solutions/su2021/2/5/Figure4.png Graphic file (type png)
 <use solutions/su2021/2/5/Figure4.png>
 Package pdftex.def Info: solutions/su2021/2/5/Figure4.png  used on input line 2
@@ -2954,7 +2953,7 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 2532.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [53 <./solutions/su2021/2/55/PLANE.png> <./solutions/su2021/2/5/Figure4.png>]
-<solutions/su2021/2/9/FIGURES/INTERSECTING_LINES.png, id=1959, 394.47375pt x 26
+<solutions/su2021/2/9/FIGURES/INTERSECTING_LINES.png, id=1949, 394.47375pt x 26
 2.9825pt>
 File: solutions/su2021/2/9/FIGURES/INTERSECTING_LINES.png Graphic file (type pn
 g)
@@ -2965,7 +2964,7 @@ sed on input line 56.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/su2021/2/9/FIGURES/COINCIDENT_LINES.png, id=1962, 385.44pt x 262.982
+<solutions/su2021/2/9/FIGURES/COINCIDENT_LINES.png, id=1952, 385.44pt x 262.982
 5pt>
 File: solutions/su2021/2/9/FIGURES/COINCIDENT_LINES.png Graphic file (type png)
 
@@ -2978,7 +2977,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [54 <./solutions/su2021/2/9/FIGURES/INTERSECTING_LINES.png> <./solutions/su202
 1/2/9/FIGURES/COINCIDENT_LINES.png>]
-<solutions/su2021/2/9/FIGURES/PARALLEL_LINES.png, id=1975, 389.455pt x 262.9825
+<solutions/su2021/2/9/FIGURES/PARALLEL_LINES.png, id=1965, 389.455pt x 262.9825
 pt>
 File: solutions/su2021/2/9/FIGURES/PARALLEL_LINES.png Graphic file (type png)
 <use solutions/su2021/2/9/FIGURES/PARALLEL_LINES.png>
@@ -2988,7 +2987,7 @@ on input line 159.
 ) (./solutions/su2021/2/15/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/su2021/2/15/download (6).png, id=1977, 385.44pt x 262.9825pt>
+<solutions/su2021/2/15/download (6).png, id=1967, 385.44pt x 262.9825pt>
 File: solutions/su2021/2/15/download (6).png Graphic file (type png)
 <use solutions/su2021/2/15/download (6).png>
 Package pdftex.def Info: solutions/su2021/2/15/download (6).png  used on input 
@@ -2998,7 +2997,7 @@ line 24.
 (./solutions/su2021/2/18.tex [55 <./solutions/su2021/2/9/FIGURES/PARALLEL_LINES
 .png> <./solutions/su2021/2/15/download (6).png>])
 (./solutions/su2021/2/20/main.tex
-<solutions/su2021/2/20/FIG-4.png, id=1990, 394.47375pt x 262.9825pt>
+<solutions/su2021/2/20/FIG-4.png, id=1980, 394.47375pt x 262.9825pt>
 File: solutions/su2021/2/20/FIG-4.png Graphic file (type png)
 <use solutions/su2021/2/20/FIG-4.png>
 Package pdftex.def Info: solutions/su2021/2/20/FIG-4.png  used on input line 40
@@ -3012,14 +3011,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [56 <./solutions/su2021/2/20/FIG-4.png>]
-<solutions/su2021/2/32/download (7).png, id=2002, 350.30875pt x 231.86626pt>
+<solutions/su2021/2/32/download (7).png, id=1991, 350.30875pt x 231.86626pt>
 File: solutions/su2021/2/32/download (7).png Graphic file (type png)
 <use solutions/su2021/2/32/download (7).png>
 Package pdftex.def Info: solutions/su2021/2/32/download (7).png  used on input 
 line 25.
 (pdftex.def)             Requested size: 252.0pt x 166.79851pt.
 ) (./solutions/su2021/2/35/1/Assignment-4.tex
-<solutions/su2021/2/35/1/Plane_plot1.PNG, id=2004, 243.15843pt x 179.92218pt>
+<solutions/su2021/2/35/1/Plane_plot1.PNG, id=1993, 243.15843pt x 179.92218pt>
 File: solutions/su2021/2/35/1/Plane_plot1.PNG Graphic file (type png)
 <use solutions/su2021/2/35/1/Plane_plot1.PNG>
 Package pdftex.def Info: solutions/su2021/2/35/1/Plane_plot1.PNG  used on input
@@ -3029,7 +3028,7 @@ Package pdftex.def Info: solutions/su2021/2/35/1/Plane_plot1.PNG  used on input
 (./solutions/su2021/2/35/b/Assignment 4/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/su2021/2/35/b/Plane_plot.PNG, id=2006, 350.30875pt x 231.86626pt>
+<solutions/su2021/2/35/b/Plane_plot.PNG, id=1995, 350.30875pt x 231.86626pt>
 File: solutions/su2021/2/35/b/Plane_plot.PNG Graphic file (type png)
 <use solutions/su2021/2/35/b/Plane_plot.PNG>
 Package pdftex.def Info: solutions/su2021/2/35/b/Plane_plot.PNG  used on input 
@@ -3041,7 +3040,7 @@ Underfull \vbox (badness 2626) has occurred while \output is active []
 
  [57 <./solutions/su2021/2/32/download (7).png> <./solutions/su2021/2/35/1/Plan
 e_plot1.PNG> <./solutions/su2021/2/35/b/Plane_plot.PNG>]
-<solutions/su2021/2/39/Plane_plot.png, id=2022, 350.30875pt x 231.86626pt>
+<solutions/su2021/2/39/Plane_plot.png, id=2012, 350.30875pt x 231.86626pt>
 File: solutions/su2021/2/39/Plane_plot.png Graphic file (type png)
 <use solutions/su2021/2/39/Plane_plot.png>
 Package pdftex.def Info: solutions/su2021/2/39/Plane_plot.png  used on input li
@@ -3050,7 +3049,7 @@ ne 43.
 ) (./solutions/su2021/2/42/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/su2021/2/42/Figure3.png, id=2024, 350.30875pt x 231.86626pt>
+<solutions/su2021/2/42/Figure3.png, id=2014, 350.30875pt x 231.86626pt>
 File: solutions/su2021/2/42/Figure3.png Graphic file (type png)
 <use solutions/su2021/2/42/Figure3.png>
 Package pdftex.def Info: solutions/su2021/2/42/Figure3.png  used on input line 
@@ -3066,14 +3065,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [58 <./solutions/su2021/2/39/Plane_plot.png> <./solutions/su2021/2/42/Figure3.
 png>]
-<solutions/su2021/2/11/ab/Parallel_ lines (1).png, id=2042, 387.4475pt x 262.98
+<solutions/su2021/2/11/ab/Parallel_ lines (1).png, id=2032, 387.4475pt x 262.98
 25pt>
 File: solutions/su2021/2/11/ab/Parallel_ lines (1).png Graphic file (type png)
 <use solutions/su2021/2/11/ab/Parallel_ lines (1).png>
 Package pdftex.def Info: solutions/su2021/2/11/ab/Parallel_ lines (1).png  used
  on input line 17.
 (pdftex.def)             Requested size: 252.0pt x 171.04893pt.
-<solutions/su2021/2/11/ab/Intersecting lines .png, id=2045, 379.4175pt x 262.98
+<solutions/su2021/2/11/ab/Intersecting lines .png, id=2035, 379.4175pt x 262.98
 25pt>
 File: solutions/su2021/2/11/ab/Intersecting lines .png Graphic file (type png)
 <use solutions/su2021/2/11/ab/Intersecting lines .png>
@@ -3082,7 +3081,7 @@ Package pdftex.def Info: solutions/su2021/2/11/ab/Intersecting lines .png  used
 (pdftex.def)             Requested size: 252.0pt x 174.66847pt.
 )
 (./solutions/su2021/2/11/cd/main.tex
-<solutions/su2021/2/11/cd/assignment2c-1.png, id=2048, 1204.5pt x 803.0pt>
+<solutions/su2021/2/11/cd/assignment2c-1.png, id=2038, 1204.5pt x 803.0pt>
 File: solutions/su2021/2/11/cd/assignment2c-1.png Graphic file (type png)
 <use solutions/su2021/2/11/cd/assignment2c-1.png>
 Package pdftex.def Info: solutions/su2021/2/11/cd/assignment2c-1.png  used on i
@@ -3091,7 +3090,7 @@ nput line 16.
  [59 <./solutions/su2021/2/11/ab/Parallel_ lines (1).png> <./solutions/su2021/2
 /11/ab/Intersecting lines .png> <./solutions/su2021/2/11/cd/assignment2c-1.png>
 ]
-<solutions/su2021/2/11/cd/assignment2d-1.png, id=2064, 1204.5pt x 803.0pt>
+<solutions/su2021/2/11/cd/assignment2d-1.png, id=2054, 1204.5pt x 803.0pt>
 File: solutions/su2021/2/11/cd/assignment2d-1.png Graphic file (type png)
 <use solutions/su2021/2/11/cd/assignment2d-1.png>
 Package pdftex.def Info: solutions/su2021/2/11/cd/assignment2d-1.png  used on i
@@ -3099,7 +3098,7 @@ nput line 43.
 (pdftex.def)             Requested size: 252.0pt x 167.99783pt.
 )
 (./solutions/su2021/2/8/ASSIGNMENT2/main.tex
-<solutions/su2021/2/8/ASSIGNMENT2/consistent.png, id=2067, 385.44pt x 262.9825p
+<solutions/su2021/2/8/ASSIGNMENT2/consistent.png, id=2057, 385.44pt x 262.9825p
 t>
 File: solutions/su2021/2/8/ASSIGNMENT2/consistent.png Graphic file (type png)
 <use solutions/su2021/2/8/ASSIGNMENT2/consistent.png>
@@ -3110,7 +3109,7 @@ on input line 45.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [60 <./solutions/su2021/2/11/cd/assignment2d-1.png>]
-<solutions/su2021/2/8/ASSIGNMENT2/inconsistent.png, id=2084, 397.485pt x 262.98
+<solutions/su2021/2/8/ASSIGNMENT2/inconsistent.png, id=2074, 397.485pt x 262.98
 25pt>
 File: solutions/su2021/2/8/ASSIGNMENT2/inconsistent.png Graphic file (type png)
 
@@ -3119,7 +3118,7 @@ Package pdftex.def Info: solutions/su2021/2/8/ASSIGNMENT2/inconsistent.png  use
 d on input line 92.
 (pdftex.def)             Requested size: 252.0pt x 166.73119pt.
 ) (./solutions/su2021/2/8/2/main.tex
-<solutions/su2021/2/8/2/intersecting lines.png, id=2087, 394.47375pt x 262.9825
+<solutions/su2021/2/8/2/intersecting lines.png, id=2077, 394.47375pt x 262.9825
 pt>
 File: solutions/su2021/2/8/2/intersecting lines.png Graphic file (type png)
 <use solutions/su2021/2/8/2/intersecting lines.png>
@@ -3131,7 +3130,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [61 <./solutions/su2021/2/8/ASSIGNMENT2/consistent.png> <./solutions/su2021/2/
 8/ASSIGNMENT2/inconsistent.png>]
-<solutions/su2021/2/8/2/parallel lines.png, id=2100, 397.485pt x 262.9825pt>
+<solutions/su2021/2/8/2/parallel lines.png, id=2090, 397.485pt x 262.9825pt>
 File: solutions/su2021/2/8/2/parallel lines.png Graphic file (type png)
 <use solutions/su2021/2/8/2/parallel lines.png>
 Package pdftex.def Info: solutions/su2021/2/8/2/parallel lines.png  used on inp
@@ -3146,7 +3145,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [62 <./solutions/su2021/2/8/2/intersecting lines.png> <./solutions/su2021/2/8/
 2/parallel lines.png>]
-<solutions/su2021/2/6/FIGURES/INTERSECTING_LINES.png, id=2116, 396.48125pt x 26
+<solutions/su2021/2/6/FIGURES/INTERSECTING_LINES.png, id=2106, 396.48125pt x 26
 2.9825pt>
 File: solutions/su2021/2/6/FIGURES/INTERSECTING_LINES.png Graphic file (type pn
 g)
@@ -3154,7 +3153,7 @@ g)
 Package pdftex.def Info: solutions/su2021/2/6/FIGURES/INTERSECTING_LINES.png  u
 sed on input line 55.
 (pdftex.def)             Requested size: 252.0pt x 167.15253pt.
-<solutions/su2021/2/6/FIGURES/SAME_LINES.png, id=2119, 385.44pt x 262.9825pt>
+<solutions/su2021/2/6/FIGURES/SAME_LINES.png, id=2109, 385.44pt x 262.9825pt>
 File: solutions/su2021/2/6/FIGURES/SAME_LINES.png Graphic file (type png)
 <use solutions/su2021/2/6/FIGURES/SAME_LINES.png>
 Package pdftex.def Info: solutions/su2021/2/6/FIGURES/SAME_LINES.png  used on i
@@ -3164,7 +3163,7 @@ nput line 111.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63 <./solutions/su2021/2/6/FIGURES/INTERSECTING_LINES.png>]
-<solutions/su2021/2/6/FIGURES/PARALLEL_LINES.png, id=2131, 387.4475pt x 262.982
+<solutions/su2021/2/6/FIGURES/PARALLEL_LINES.png, id=2121, 387.4475pt x 262.982
 5pt>
 File: solutions/su2021/2/6/FIGURES/PARALLEL_LINES.png Graphic file (type png)
 <use solutions/su2021/2/6/FIGURES/PARALLEL_LINES.png>
@@ -3177,7 +3176,7 @@ Underfull \vbox (badness 4954) has occurred while \output is active []
 
 (./solutions/su2021/2/10/ab/main.tex [64 <./solutions/su2021/2/6/FIGURES/SAME_L
 INES.png> <./solutions/su2021/2/6/FIGURES/PARALLEL_LINES.png>]
-<solutions/su2021/2/10/ab/figure1.png, id=2149, 379.4175pt x 262.9825pt>
+<solutions/su2021/2/10/ab/figure1.png, id=2139, 379.4175pt x 262.9825pt>
 File: solutions/su2021/2/10/ab/figure1.png Graphic file (type png)
 <use solutions/su2021/2/10/ab/figure1.png>
 Package pdftex.def Info: solutions/su2021/2/10/ab/figure1.png  used on input li
@@ -3186,7 +3185,7 @@ ne 31.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/su2021/2/10/ab/figure2.png, id=2151, 389.455pt x 262.9825pt>
+<solutions/su2021/2/10/ab/figure2.png, id=2141, 389.455pt x 262.9825pt>
 File: solutions/su2021/2/10/ab/figure2.png Graphic file (type png)
 <use solutions/su2021/2/10/ab/figure2.png>
 Package pdftex.def Info: solutions/su2021/2/10/ab/figure2.png  used on input li
@@ -3194,7 +3193,7 @@ ne 67.
 (pdftex.def)             Requested size: 252.0pt x 170.16212pt.
 )
 (./solutions/su2021/2/10/Assignment 2.tex
-<solutions/su2021/2/10/FIGURES/SAME-LINE.png, id=2153, 387.4475pt x 262.9825pt>
+<solutions/su2021/2/10/FIGURES/SAME-LINE.png, id=2143, 387.4475pt x 262.9825pt>
 
 File: solutions/su2021/2/10/FIGURES/SAME-LINE.png Graphic file (type png)
 <use solutions/su2021/2/10/FIGURES/SAME-LINE.png>
@@ -3206,7 +3205,7 @@ Underfull \vbox (badness 1028) has occurred while \output is active []
 
  [65 <./solutions/su2021/2/10/ab/figure1.png> <./solutions/su2021/2/10/ab/figur
 e2.png>]
-<solutions/su2021/2/10/FIGURES/INTERSECTING-LINE.png, id=2165, 379.4175pt x 262
+<solutions/su2021/2/10/FIGURES/INTERSECTING-LINE.png, id=2155, 379.4175pt x 262
 .9825pt>
 File: solutions/su2021/2/10/FIGURES/INTERSECTING-LINE.png Graphic file (type pn
 g)
@@ -3218,7 +3217,7 @@ sed on input line 62.
 (./solutions/su2021/2/10/ef/main.tex
 Underfull \vbox (badness 2197) has occurred while \output is active []
 
-<solutions/su2021/2/10/ef/Figure2(1).png, id=2167, 397.485pt x 262.9825pt>
+<solutions/su2021/2/10/ef/Figure2(1).png, id=2157, 397.485pt x 262.9825pt>
 File: solutions/su2021/2/10/ef/Figure2(1).png Graphic file (type png)
 <use solutions/su2021/2/10/ef/Figure2(1).png>
 Package pdftex.def Info: solutions/su2021/2/10/ef/Figure2(1).png  used on input
@@ -3234,7 +3233,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [66 <./solutions/su2021/2/10/FIGURES/SAME-LINE.png> <./solutions/su2021/2/10/F
 IGURES/INTERSECTING-LINE.png>]
-<solutions/su2021/2/10/ef/Figure2(2).png, id=2181, 389.455pt x 262.9825pt>
+<solutions/su2021/2/10/ef/Figure2(2).png, id=2171, 389.455pt x 262.9825pt>
 File: solutions/su2021/2/10/ef/Figure2(2).png Graphic file (type png)
 <use solutions/su2021/2/10/ef/Figure2(2).png>
 Package pdftex.def Info: solutions/su2021/2/10/ef/Figure2(2).png  used on input
@@ -3248,264 +3247,38 @@ Overfull \hbox (5.5199pt too wide) in paragraph at lines 63--64
 ) (./solutions/aug/22.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-))
-(./line/line_equation.tex [67 <./solutions/su2021/2/10/ef/Figure2(1).png> <./so
-lutions/su2021/2/10/ef/Figure2(2).png>] (./solutions/aug/2/1/main.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+)) [67 <./solutions/su2021/2/10/ef/Figure2(1).png> <./solutions/su2021/2/10/ef/
+Figure2(2).png>] (./gvv_ncert_linear_forms_examples.aux)
 
-<solutions/aug/2/1/Assign_4 (7).pdf, id=2246, 614.295pt x 794.97pt>
-File: solutions/aug/2/1/Assign_4 (7).pdf Graphic file (type pdf)
-<use solutions/aug/2/1/Assign_4 (7).pdf>
-Package pdftex.def Info: solutions/aug/2/1/Assign_4 (7).pdf  used on input line
- 48.
-(pdftex.def)             Requested size: 252.0pt x 326.12177pt.
-)
-(./solutions/aug/2/2/a5.tex
-Underfull \vbox (badness 1132) has occurred while \output is active []
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
- [68 <./solutions/aug/2/1/Assign_4 (7).pdf>]
-
-Package caption Warning: \label without proper reference on input line 22.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `aug/2/2/Fig 1.1' on page 69 undefined on input line 1
-8.
-
-<solutions/aug/2/2/Figures/line.pdf, id=2324, 433.62pt x 289.08pt>
-File: solutions/aug/2/2/Figures/line.pdf Graphic file (type pdf)
-<use solutions/aug/2/2/Figures/line.pdf>
-Package pdftex.def Info: solutions/aug/2/2/Figures/line.pdf  used on input line
- 21.
-(pdftex.def)             Requested size: 252.0pt x 168.00174pt.
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69 <./solutions/aug/2/2/Figures/line.pdf>] (./solutions/su2021/2/14/Assignmen
-t-2.tex
-<solutions/su2021/2/14/Line_Plot_Part1.PNG, id=2388, 286.82156pt x 191.9672pt>
-File: solutions/su2021/2/14/Line_Plot_Part1.PNG Graphic file (type png)
-<use solutions/su2021/2/14/Line_Plot_Part1.PNG>
-Package pdftex.def Info: solutions/su2021/2/14/Line_Plot_Part1.PNG  used on inp
-ut line 21.
-(pdftex.def)             Requested size: 252.0pt x 168.66508pt.
-
-Underfull \hbox (badness 1655) in paragraph at lines 25--28
-[]$\OT1/txr/m/n/12 . The di-rec-tion vec-tor is $\OT1/txr/bx/n/12 m \OT1/txr/m/
-n/12 =
- []
-
-<solutions/su2021/2/14/Line_Plot_Part2.PNG, id=2390, 287.57437pt x 194.22563pt>
-
-File: solutions/su2021/2/14/Line_Plot_Part2.PNG Graphic file (type png)
-<use solutions/su2021/2/14/Line_Plot_Part2.PNG>
-Package pdftex.def Info: solutions/su2021/2/14/Line_Plot_Part2.PNG  used on inp
-ut line 45.
-(pdftex.def)             Requested size: 252.0pt x 170.20483pt.
-) (./solutions/su2021/2/14/de/main.tex
-<solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG, id=2392, 408.52625pt x 262.
-9825pt>
-File: solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG Graphic file (type png)
-
-<use solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG>
-Package pdftex.def Info: solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG  use
-d on input line 22.
-(pdftex.def)             Requested size: 252.0pt x 162.22482pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [70 <./solutions/su2021/2/14/Line_Plot_Part1.PNG> <./solutions/su2021/2/14/Lin
-e_Plot_Part2.PNG>]
-<solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG, id=2423, 389.455pt x 262.98
-25pt>
-File: solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG Graphic file (type png)
-
-<use solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG>
-Package pdftex.def Info: solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG  use
-d on input line 47.
-(pdftex.def)             Requested size: 252.0pt x 170.16212pt.
-) (./solutions/aug/2/17/Assignment4.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [71 <./solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG> <./solutions/su2021/
-2/14/de/Line_Plot_Part-2 (3).PNG>]
-<solutions/aug/2/17/a_4.png, id=2461, 191.71625pt x 318.18875pt>
-File: solutions/aug/2/17/a_4.png Graphic file (type png)
-<use solutions/aug/2/17/a_4.png>
-Package pdftex.def Info: solutions/aug/2/17/a_4.png  used on input line 29.
-(pdftex.def)             Requested size: 252.0pt x 418.26743pt.
-) (./solutions/aug/2/18/Assignment_4.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 6641) has occurred while \output is active []
-
- [72 <./solutions/aug/2/17/a_4.png>]
-<solutions/aug/2/18/Assignment_4_Fig_1.png, id=2488, 379.4175pt x 262.9825pt>
-File: solutions/aug/2/18/Assignment_4_Fig_1.png Graphic file (type png)
-<use solutions/aug/2/18/Assignment_4_Fig_1.png>
-Package pdftex.def Info: solutions/aug/2/18/Assignment_4_Fig_1.png  used on inp
-ut line 47.
-(pdftex.def)             Requested size: 252.0pt x 174.66847pt.
-) (./solutions/su2021/2/36/a/main-3.tex
-<solutions/su2021/2/36/a/download (5).png, id=2490, 350.30875pt x 231.86626pt>
-File: solutions/su2021/2/36/a/download (5).png Graphic file (type png)
-<use solutions/su2021/2/36/a/download (5).png>
-Package pdftex.def Info: solutions/su2021/2/36/a/download (5).png  used on inpu
-t line 20.
-(pdftex.def)             Requested size: 252.0pt x 166.79851pt.
-)
-Underfull \hbox (badness 2096) in paragraph at lines 228--232
-[]\OT1/txr/m/n/12 Find the in-ter-cepts cut off by the plane
- []
-
-(./solutions/aug/2/26/main.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [73 <./solutions/aug/2/18/Assignment_4_Fig_1.png>]
-<solutions/aug/2/26/figures/figure.png, id=2526, 919.435pt x 688.5725pt>
-File: solutions/aug/2/26/figures/figure.png Graphic file (type png)
-<use solutions/aug/2/26/figures/figure.png>
-Package pdftex.def Info: solutions/aug/2/26/figures/figure.png  used on input l
-ine 17.
-(pdftex.def)             Requested size: 252.0pt x 188.72235pt.
-) (./solutions/su2021/2/43/b/main.tex
-<solutions/su2021/2/43/b/assignment4.png, id=2528, 433.62pt x 289.08pt>
-File: solutions/su2021/2/43/b/assignment4.png Graphic file (type png)
-<use solutions/su2021/2/43/b/assignment4.png>
-Package pdftex.def Info: solutions/su2021/2/43/b/assignment4.png  used on input
- line 18.
-(pdftex.def)             Requested size: 252.0pt x 168.00174pt.
-)
-(./solutions/su2021/2/43/c/ASSIGNMENT 5.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [74 <./solutions/su2021/2/36/a/download (5).png> <./solutions/aug/2/26/figures
-/figure.png>]
-<solutions/su2021/2/43/c/ASSIGNMENT 5.png, id=2558, 350.30875pt x 231.86626pt>
-File: solutions/su2021/2/43/c/ASSIGNMENT 5.png Graphic file (type png)
-<use solutions/su2021/2/43/c/ASSIGNMENT 5.png>
-Package pdftex.def Info: solutions/su2021/2/43/c/ASSIGNMENT 5.png  used on inpu
-t line 16.
-(pdftex.def)             Requested size: 252.0pt x 166.79851pt.
-) (./solutions/su2021/2/43/d/main.tex
-<solutions/su2021/2/43/d/figure4.png, id=2560, 350.30875pt x 231.86626pt>
-File: solutions/su2021/2/43/d/figure4.png Graphic file (type png)
-<use solutions/su2021/2/43/d/figure4.png>
-Package pdftex.def Info: solutions/su2021/2/43/d/figure4.png  used on input lin
-e 6.
-(pdftex.def)             Requested size: 252.0pt x 166.79851pt.
-) (./line/tables/3d_ncert.tex
-\gnumericTableWidth=\skip85
-\gnumericTableWidthComplete=\skip86
-\gnumericMultiRowLength=\skip87
-\gnumericColA=\skip88
-\gnumericColB=\skip89
-\gnumericColC=\skip90
-)
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-(./solutions/aug/2/34/Assignment4.tex
-Underfull \vbox (badness 1609) has occurred while \output is active []
-
- [75 <./solutions/su2021/2/43/b/assignment4.png> <./solutions/su2021/2/43/c/ASS
-IGNMENT 5.png> <./solutions/su2021/2/43/d/figure4.png>]
-<solutions/aug/2/34/figs/Assignment4.png, id=2583, 350.30875pt x 231.86626pt>
-File: solutions/aug/2/34/figs/Assignment4.png Graphic file (type png)
-<use solutions/aug/2/34/figs/Assignment4.png>
-Package pdftex.def Info: solutions/aug/2/34/figs/Assignment4.png  used on input
- line 14.
-(pdftex.def)             Requested size: 252.0pt x 166.79851pt.
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [76 <./solutions/aug/2/34/figs/Assignment4.png>]
-Underfull \hbox (badness 1838) in paragraph at lines 430--432
-[]\OT1/txr/m/n/12 Using in-te-gra-tion find the area of re-gion
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 432--433
-[]\OT1/txr/m/n/12 Using in-te-gra-tion find the area of re-gion
- []
-
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 450.
-
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 450.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [77]
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 604.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [78]
-(./solutions/aug/2/34/88.tex
-Underfull \vbox (badness 1325) has occurred while \output is active []
-
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [79])
-(./line/line_misc.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [80]
-(./solutions/july/110.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [81])
-[82] (./gvv_ncert_linear_forms.aux)
-
-LaTeX Warning: There were undefined references.
-
-Package rerunfilecheck Info: File `gvv_ncert_linear_forms.out' has not changed.
-
-(rerunfilecheck)             Checksum: 87AE03851630193CF015B31CCF931D25;361.
+Package rerunfilecheck Info: File `gvv_ncert_linear_forms_examples.out' has not
+ changed.
+(rerunfilecheck)             Checksum: 52DBBCA1C6459DB281E69FF49C1CA799;83.
  ) 
 Here is how much of TeX's memory you used:
- 47699 strings out of 478994
- 1067851 string characters out of 5864751
- 1557541 words of memory out of 5000000
- 62349 multiletter control sequences out of 15000+600000
- 493296 words of font info for 226 fonts, out of 8000000 for 9000
+ 46978 strings out of 478994
+ 1056198 string characters out of 5864751
+ 1555560 words of memory out of 5000000
+ 62204 multiletter control sequences out of 15000+600000
+ 492868 words of font info for 225 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 102i,24n,111p,514b,1325s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 102i,24n,111p,523b,1325s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
-ts/type1/public/txfonts/rtcxr.pfb></usr/share/texmf-dist/fonts/type1/public/txf
-onts/rtxi.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr
-/share/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-dist/fo
-nts/type1/public/txfonts/rtxsc.pfb></home/user/texmf/fonts/type1/tfrupee/tfrupe
-e.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/te
-xmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texmf-dist/fonts/type1
-/public/txfonts/txsya.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txs
-yc.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texm
-f-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw
-/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gvv_ncert_linear_forms.pdf (82 pages, 3628830 bytes).
+ts/type1/public/txfonts/rtxi.pfb></usr/share/texmf-dist/fonts/type1/public/txfo
+nts/rtxmi.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/
+share/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texmf-dist/fo
+nts/type1/public/txfonts/txex.pfb></usr/share/texmf-dist/fonts/type1/public/txf
+onts/txsy.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr
+/share/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/share/texmf-dist/f
+onts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/ut
+mbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/t
+exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on gvv_ncert_linear_forms_examples.pdf (67 pages, 1905551 bytes)
+.
 PDF statistics:
- 3274 PDF objects out of 3580 (max. 8388607)
- 2535 compressed objects within 26 object streams
- 1576 named destinations out of 1728 (max. 500000)
- 658 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2445 PDF objects out of 2487 (max. 8388607)
+ 1804 compressed objects within 19 object streams
+ 1070 named destinations out of 1200 (max. 500000)
+ 572 words of extra memory for PDF output out of 10000 (max. 10000000)
 
