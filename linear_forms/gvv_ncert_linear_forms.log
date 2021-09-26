@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  22 SEP 2021 18:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.1)  26 SEP 2021 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -364,7 +364,7 @@ Package: cite 2015/02/27  v 5.5
 Package: cases 2020/03/29 ver 3.2
 \numc@numwid=\dimen179
 )
-(/usr/share/texmf-dist/tex/latex/subfig/subfig.sty
+(/home/user/texmf/tex/latex/tfslatex/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
 (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
@@ -1643,11 +1643,23 @@ File: solutions/sep/2/5/a/consistent.png Graphic file (type png)
 Package pdftex.def Info: solutions/sep/2/5/a/consistent.png  used on input line
  34.
 (pdftex.def)             Requested size: 252.0pt x 168.00174pt.
-) (/usr/share/texmf-dist/tex/latex/tools/.tex
-File ignored) (./solutions/su2021/2/14/Assignment-2.tex
-Underfull \vbox (badness 3449) has occurred while \output is active []
+) (./solutions/sep/2/5/c/main.tex
+<solutions/sep/2/5/c/consistent line.png, id=268, 408.52625pt x 279.0425pt>
+File: solutions/sep/2/5/c/consistent line.png Graphic file (type png)
+<use solutions/sep/2/5/c/consistent line.png>
+Package pdftex.def Info: solutions/sep/2/5/c/consistent line.png  used on input
+ line 23.
+(pdftex.def)             Requested size: 252.0pt x 172.1317pt.
+)
+Underfull \vbox (badness 1917) has occurred while \output is active []
 
-<solutions/su2021/2/14/Line_Plot_Part1.PNG, id=268, 286.82156pt x 191.9672pt>
+
+(./solutions/su2021/2/14/Assignment-2.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./solutions/sep/2/5/a/consistent.png> <./solutions/sep/2/5/c/consistent li
+ne.png>]
+<solutions/su2021/2/14/Line_Plot_Part1.PNG, id=301, 286.82156pt x 191.9672pt>
 File: solutions/su2021/2/14/Line_Plot_Part1.PNG Graphic file (type png)
 <use solutions/su2021/2/14/Line_Plot_Part1.PNG>
 Package pdftex.def Info: solutions/su2021/2/14/Line_Plot_Part1.PNG  used on inp
@@ -1659,15 +1671,16 @@ Underfull \hbox (badness 1655) in paragraph at lines 25--28
 n/12 =
  []
 
-<solutions/su2021/2/14/Line_Plot_Part2.PNG, id=270, 287.57437pt x 194.22563pt>
+<solutions/su2021/2/14/Line_Plot_Part2.PNG, id=303, 287.57437pt x 194.22563pt>
 File: solutions/su2021/2/14/Line_Plot_Part2.PNG Graphic file (type png)
 <use solutions/su2021/2/14/Line_Plot_Part2.PNG>
 Package pdftex.def Info: solutions/su2021/2/14/Line_Plot_Part2.PNG  used on inp
 ut line 45.
 (pdftex.def)             Requested size: 252.0pt x 170.20483pt.
-) (./solutions/su2021/2/14/de/main.tex [4 <./solutions/sep/2/5/a/consistent.png
-> <./solutions/su2021/2/14/Line_Plot_Part1.PNG>]
-<solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG, id=306, 408.52625pt x 262.9
+) (./solutions/su2021/2/14/de/main.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG, id=305, 408.52625pt x 262.9
 825pt>
 File: solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG Graphic file (type png)
 
@@ -1675,7 +1688,12 @@ File: solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG Graphic file (type png)
 Package pdftex.def Info: solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG  use
 d on input line 22.
 (pdftex.def)             Requested size: 252.0pt x 162.22482pt.
-<solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG, id=308, 389.455pt x 262.982
+
+Underfull \vbox (badness 1490) has occurred while \output is active []
+
+ [5 <./solutions/su2021/2/14/Line_Plot_Part1.PNG> <./solutions/su2021/2/14/Line
+_Plot_Part2.PNG> <./solutions/su2021/2/14/de/Line_Plot_Part-1 (4).PNG>]
+<solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG, id=332, 389.455pt x 262.982
 5pt>
 File: solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG Graphic file (type png)
 
@@ -1683,36 +1701,36 @@ File: solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG Graphic file (type png)
 Package pdftex.def Info: solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG  use
 d on input line 47.
 (pdftex.def)             Requested size: 252.0pt x 170.16212pt.
-) [5 <./solutions/su2021/2/14/Line_Plot_Part2.PNG> <./solutions/su2021/2/14/de/
-Line_Plot_Part-1 (4).PNG> <./solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG>
-]
+)
 (./solutions/aug/2/15/main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/aug/2/15/graph.png, id=343, 462.528pt x 346.896pt>
+ [6 <./solutions/su2021/2/14/de/Line_Plot_Part-2 (3).PNG>]
+<solutions/aug/2/15/graph.png, id=372, 462.528pt x 346.896pt>
 File: solutions/aug/2/15/graph.png Graphic file (type png)
 <use solutions/aug/2/15/graph.png>
 Package pdftex.def Info: solutions/aug/2/15/graph.png  used on input line 57.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-) [6 <./solutions/aug/2/15/graph.png>] (./solutions/aug/2/17/Assignment4.tex
-<solutions/aug/2/17/a_4.png, id=380, 191.71625pt x 318.18875pt>
+)
+(./solutions/aug/2/17/Assignment4.tex
+<solutions/aug/2/17/a_4.png, id=374, 191.71625pt x 318.18875pt>
 File: solutions/aug/2/17/a_4.png Graphic file (type png)
 <use solutions/aug/2/17/a_4.png>
 Package pdftex.def Info: solutions/aug/2/17/a_4.png  used on input line 29.
 (pdftex.def)             Requested size: 252.0pt x 418.26743pt.
-)
-(./solutions/aug/2/18/Assignment_4.tex
+) (./solutions/aug/2/18/Assignment_4.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7 <./solutions/aug/2/17/a_4.png>]
-<solutions/aug/2/18/Assignment_4_Fig_1.png, id=409, 379.4175pt x 262.9825pt>
+ [7 <./solutions/aug/2/15/graph.png>]
+<solutions/aug/2/18/Assignment_4_Fig_1.png, id=415, 379.4175pt x 262.9825pt>
 File: solutions/aug/2/18/Assignment_4_Fig_1.png Graphic file (type png)
 <use solutions/aug/2/18/Assignment_4_Fig_1.png>
 Package pdftex.def Info: solutions/aug/2/18/Assignment_4_Fig_1.png  used on inp
 ut line 47.
 (pdftex.def)             Requested size: 252.0pt x 174.66847pt.
-) (./solutions/aug/2/20/Assignment4.tex
-<solutions/aug/2/20/Figures/Fig1.png, id=411, 371.3875pt x 248.93pt>
+) [8 <./solutions/aug/2/17/a_4.png> <./solutions/aug/2/18/Assignment_4_Fig_1.pn
+g>] (./solutions/aug/2/20/Assignment4.tex
+<solutions/aug/2/20/Figures/Fig1.png, id=437, 371.3875pt x 248.93pt>
 File: solutions/aug/2/20/Figures/Fig1.png Graphic file (type png)
 <use solutions/aug/2/20/Figures/Fig1.png>
 Package pdftex.def Info: solutions/aug/2/20/Figures/Fig1.png  used on input lin
@@ -1722,8 +1740,7 @@ e 27.
 (./solutions/aug/2/21/Assignment_4.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8 <./solutions/aug/2/18/Assignment_4_Fig_1.png>]
-<solutions/aug/2/21/Assignment_4.png, id=445, 278.03876pt x 262.9825pt>
+<solutions/aug/2/21/Assignment_4.png, id=439, 278.03876pt x 262.9825pt>
 File: solutions/aug/2/21/Assignment_4.png Graphic file (type png)
 <use solutions/aug/2/21/Assignment_4.png>
 Package pdftex.def Info: solutions/aug/2/21/Assignment_4.png  used on input lin
@@ -1737,12 +1754,10 @@ Overfull \hbox (26.03807pt too wide) in paragraph at lines 20--21
 ) (./solutions/sep/2/22/Assignment4.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [9 <./solutions/aug/2/20/Figures/Fig1.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9 <./solutions/aug/2/20/Figures/Fig1.png> <./solutions/aug/2/21/Assignment_4.
-png>]
-<solutions/sep/2/22/Figures/plot.png, id=471, 277.5168pt x 233.4321pt>
+<solutions/sep/2/22/Figures/plot.png, id=474, 277.5168pt x 233.4321pt>
 File: solutions/sep/2/22/Figures/plot.png Graphic file (type png)
 <use solutions/sep/2/22/Figures/plot.png>
 Package pdftex.def Info: solutions/sep/2/22/Figures/plot.png  used on input lin
@@ -1757,7 +1772,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [10 <./solutions/aug/2/21/Assignment_4.png>]
 Overfull \hbox (17.4335pt too wide) detected at line 30
  []$[] [] [] [] []$ []  
  []
@@ -1765,7 +1780,7 @@ Overfull \hbox (17.4335pt too wide) detected at line 30
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10 <./solutions/sep/2/22/Figures/plot.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 48--50
 \OT1/txr/m/n/12 By com-bin-ing equa-tions [] and
  []
@@ -1776,7 +1791,7 @@ Underfull \hbox (badness 2961) in paragraph at lines 53--55
 $ \OT1/txr/m/n/12 in
  []
 
-<solutions/sep/2/23/Figures/q4.png, id=501, 350.30875pt x 231.86626pt>
+<solutions/sep/2/23/Figures/q4.png, id=505, 350.30875pt x 231.86626pt>
 File: solutions/sep/2/23/Figures/q4.png Graphic file (type png)
 <use solutions/sep/2/23/Figures/q4.png>
 Package pdftex.def Info: solutions/sep/2/23/Figures/q4.png  used on input line 
@@ -1789,31 +1804,31 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 (./solutions/su2021/2/36/a/main-3.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/su2021/2/36/a/download (5).png, id=503, 350.30875pt x 231.86626pt>
+ [11 <./solutions/sep/2/22/Figures/plot.png>]
+<solutions/su2021/2/36/a/download (5).png, id=530, 350.30875pt x 231.86626pt>
 File: solutions/su2021/2/36/a/download (5).png Graphic file (type png)
 <use solutions/su2021/2/36/a/download (5).png>
 Package pdftex.def Info: solutions/su2021/2/36/a/download (5).png  used on inpu
 t line 20.
 (pdftex.def)             Requested size: 252.0pt x 166.79851pt.
 )
-Underfull \hbox (badness 2096) in paragraph at lines 253--257
+Underfull \hbox (badness 2096) in paragraph at lines 254--258
 []\OT1/txr/m/n/12 Find the in-ter-cepts cut off by the plane
  []
 
-[11 <./solutions/sep/2/23/Figures/q4.png> <./solutions/su2021/2/36/a/download (
-5).png>] (./solutions/aug/2/26/main.tex
-<solutions/aug/2/26/figures/figure.png, id=531, 919.435pt x 688.5725pt>
+(./solutions/aug/2/26/main.tex
+<solutions/aug/2/26/figures/figure.png, id=532, 919.435pt x 688.5725pt>
 File: solutions/aug/2/26/figures/figure.png Graphic file (type png)
 <use solutions/aug/2/26/figures/figure.png>
 Package pdftex.def Info: solutions/aug/2/26/figures/figure.png  used on input l
 ine 17.
 (pdftex.def)             Requested size: 252.0pt x 188.72235pt.
-)
-(./solutions/sep/2/27/EE3900_Assignment_4.tex
+) (./solutions/sep/2/27/EE3900_Assignment_4.tex
+[12 <./solutions/sep/2/23/Figures/q4.png> <./solutions/su2021/2/36/a/download (
+5).png> <./solutions/aug/2/26/figures/figure.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12 <./solutions/aug/2/26/figures/figure.png>]
-<solutions/sep/2/27/Figure/EE3900_Assignment_4.png, id=566, 350.30875pt x 231.8
+<solutions/sep/2/27/Figure/EE3900_Assignment_4.png, id=561, 350.30875pt x 231.8
 6626pt>
 File: solutions/sep/2/27/Figure/EE3900_Assignment_4.png Graphic file (type png)
 
@@ -1821,14 +1836,14 @@ File: solutions/sep/2/27/Figure/EE3900_Assignment_4.png Graphic file (type png)
 Package pdftex.def Info: solutions/sep/2/27/Figure/EE3900_Assignment_4.png  use
 d on input line 68.
 (pdftex.def)             Requested size: 252.0pt x 166.79851pt.
-) (./solutions/sep/2/28/Assignment-4.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+)
+(./solutions/sep/2/28/Assignment-4.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13 <./solutions/sep/2/27/Figure/EE3900_Assignment_4.png>]
-<solutions/sep/2/28/figures/planes.png, id=598, 350.30875pt x 231.86626pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<solutions/sep/2/28/figures/planes.png, id=594, 350.30875pt x 231.86626pt>
 File: solutions/sep/2/28/figures/planes.png Graphic file (type png)
 <use solutions/sep/2/28/figures/planes.png>
 Package pdftex.def Info: solutions/sep/2/28/figures/planes.png  used on input l
@@ -1836,15 +1851,15 @@ ine 70.
 (pdftex.def)             Requested size: 252.0pt x 166.79851pt.
 )
 (./solutions/su2021/2/43/b/main.tex
-<solutions/su2021/2/43/b/assignment4.png, id=600, 433.62pt x 289.08pt>
+<solutions/su2021/2/43/b/assignment4.png, id=596, 433.62pt x 289.08pt>
 File: solutions/su2021/2/43/b/assignment4.png Graphic file (type png)
 <use solutions/su2021/2/43/b/assignment4.png>
 Package pdftex.def Info: solutions/su2021/2/43/b/assignment4.png  used on input
  line 18.
 (pdftex.def)             Requested size: 252.0pt x 168.00174pt.
-)
-(./solutions/su2021/2/43/c/ASSIGNMENT 5.tex
-<solutions/su2021/2/43/c/ASSIGNMENT 5.png, id=602, 350.30875pt x 231.86626pt>
+) [14 <./solutions/sep/2/28/figures/planes.png>] (./solutions/su2021/2/43/c/ASS
+IGNMENT 5.tex
+<solutions/su2021/2/43/c/ASSIGNMENT 5.png, id=630, 350.30875pt x 231.86626pt>
 File: solutions/su2021/2/43/c/ASSIGNMENT 5.png Graphic file (type png)
 <use solutions/su2021/2/43/c/ASSIGNMENT 5.png>
 Package pdftex.def Info: solutions/su2021/2/43/c/ASSIGNMENT 5.png  used on inpu
@@ -1852,7 +1867,7 @@ t line 16.
 (pdftex.def)             Requested size: 252.0pt x 166.79851pt.
 )
 (./solutions/su2021/2/43/d/main.tex
-<solutions/su2021/2/43/d/figure4.png, id=604, 350.30875pt x 231.86626pt>
+<solutions/su2021/2/43/d/figure4.png, id=632, 350.30875pt x 231.86626pt>
 File: solutions/su2021/2/43/d/figure4.png Graphic file (type png)
 <use solutions/su2021/2/43/d/figure4.png>
 Package pdftex.def Info: solutions/su2021/2/43/d/figure4.png  used on input lin
@@ -1865,13 +1880,13 @@ e 6.
 \gnumericColA=\skip88
 \gnumericColB=\skip89
 \gnumericColC=\skip90
-) [14 <./solutions/sep/2/28/figures/planes.png> <./solutions/su2021/2/43/b/assi
-gnment4.png> <./solutions/su2021/2/43/c/ASSIGNMENT 5.png>]
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [15 <./solutions/su2021/2/43/b/assignment4.png> <./solutions/su2021/2/43/c/ASS
+IGNMENT 5.png> <./solutions/su2021/2/43/d/figure4.png>]
 (./solutions/aug/2/34/Assignment4.tex
-<solutions/aug/2/34/figs/Assignment4.png, id=634, 350.30875pt x 231.86626pt>
+<solutions/aug/2/34/figs/Assignment4.png, id=657, 350.30875pt x 231.86626pt>
 File: solutions/aug/2/34/figs/Assignment4.png Graphic file (type png)
 <use solutions/aug/2/34/figs/Assignment4.png>
 Package pdftex.def Info: solutions/aug/2/34/figs/Assignment4.png  used on input
@@ -1880,8 +1895,6 @@ Package pdftex.def Info: solutions/aug/2/34/figs/Assignment4.png  used on input
 ) (./solutions/aug/2/36/Assignment-4.tex
 Underfull \vbox (badness 1371) has occurred while \output is active []
 
- [15 <./solutions/su2021/2/43/d/figure4.png> <./solutions/aug/2/34/figs/Assignm
-ent4.png>]
 <solutions/aug/2/36/figures/plot.png, id=659, 350.30875pt x 231.86626pt>
 File: solutions/aug/2/36/figures/plot.png Graphic file (type png)
 <use solutions/aug/2/36/figures/plot.png>
@@ -1892,8 +1905,8 @@ e 41.
 (./solutions/aug/2/37/Assignment_4.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16 <./solutions/aug/2/36/figures/plot.png>]
-<solutions/aug/2/37/figures/Line_AB.png, id=692, 462.528pt x 346.896pt>
+ [16 <./solutions/aug/2/34/figs/Assignment4.png>]
+<solutions/aug/2/37/figures/Line_AB.png, id=689, 462.528pt x 346.896pt>
 File: solutions/aug/2/37/figures/Line_AB.png Graphic file (type png)
 <use solutions/aug/2/37/figures/Line_AB.png>
 Package pdftex.def Info: solutions/aug/2/37/figures/Line_AB.png  used on input 
@@ -1902,9 +1915,8 @@ line 67.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-(./solutions/sep/2/40/main.tex
-<solutions/sep/2/40/plot/Figure_1.png, id=694, 462.528pt x 346.896pt>
+ [17 <./solutions/aug/2/36/figures/plot.png>] (./solutions/sep/2/40/main.tex
+<solutions/sep/2/40/plot/Figure_1.png, id=722, 462.528pt x 346.896pt>
 File: solutions/sep/2/40/plot/Figure_1.png Graphic file (type png)
 <use solutions/sep/2/40/plot/Figure_1.png>
 Package pdftex.def Info: solutions/sep/2/40/plot/Figure_1.png  used on input li
@@ -1913,69 +1925,71 @@ ne 31.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17 <./solutions/aug/2/37/figures/Line_AB.png>]
-Underfull \hbox (badness 1838) in paragraph at lines 472--474
+
+Underfull \hbox (badness 1838) in paragraph at lines 473--475
+[]\OT1/txr/m/n/12 Using in-te-gra-tion find the area of re-gion
+ []
+
+[18 <./solutions/aug/2/37/figures/Line_AB.png> <./solutions/sep/2/40/plot/Figur
+e_1.png>]
+Underfull \hbox (badness 1838) in paragraph at lines 475--476
 []\OT1/txr/m/n/12 Using in-te-gra-tion find the area of re-gion
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 474--475
-[]\OT1/txr/m/n/12 Using in-te-gra-tion find the area of re-gion
- []
+LaTeX Warning: Command \textendash invalid in math mode on input line 493.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 492.
-
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 492.
+LaTeX Warning: Command \textendash invalid in math mode on input line 493.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18 <./solutions/sep/2/40/plot/Figure_1.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 646.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 647.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
 (./solutions/aug/2/34/88.tex
 Underfull \vbox (badness 1325) has occurred while \output is active []
 
- [20])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 )
-(./line/line_misc.tex [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-(./solutions/july/110.tex)
+ [21])
+(./line/line_misc.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
+(./solutions/july/110.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23])
-[24
+[24] (./gvv_ncert_linear_forms.aux)
 
-] (./gvv_ncert_linear_forms.aux)
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `gvv_ncert_linear_forms.out' has not changed.
 
 (rerunfilecheck)             Checksum: CC4A06129B23FEF7378D35C583BB0DFE;278.
  ) 
 Here is how much of TeX's memory you used:
- 45446 strings out of 478994
- 1005899 string characters out of 5864751
- 1548060 words of memory out of 5000000
- 61278 multiletter control sequences out of 15000+600000
+ 45462 strings out of 478994
+ 1006274 string characters out of 5864752
+ 1552116 words of memory out of 5000000
+ 61285 multiletter control sequences out of 15000+600000
  487742 words of font info for 209 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  102i,20n,111p,514b,1011s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1990,10 +2004,10 @@ xmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texmf-dist/fonts/type
 pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-
 dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on gvv_ncert_linear_forms.pdf (24 pages, 2184302 bytes).
+Output written on gvv_ncert_linear_forms.pdf (24 pages, 2193442 bytes).
 PDF statistics:
- 1217 PDF objects out of 1440 (max. 8388607)
- 1053 compressed objects within 11 object streams
- 698 named destinations out of 1000 (max. 500000)
- 255 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1228 PDF objects out of 1440 (max. 8388607)
+ 1062 compressed objects within 11 object streams
+ 705 named destinations out of 1000 (max. 500000)
+ 260 words of extra memory for PDF output out of 10000 (max. 10000000)
 
