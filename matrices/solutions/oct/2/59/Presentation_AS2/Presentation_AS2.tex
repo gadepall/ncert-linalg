@@ -1,0 +1,74 @@
+\documentclass{beamer}
+\usepackage{listings}
+\lstset{
+%language=C,
+frame=single, 
+breaklines=true,
+columns=fullflexible
+}
+\usepackage{blkarray}
+\usepackage{subcaption}
+\usepackage{url}
+\usepackage{tikz}
+\usepackage{tkz-euclide} % loads  TikZ and tkz-base
+%\usetkzobj{all}
+\usetikzlibrary{calc,math}
+\usepackage{float}
+\newcommand{\myvec}[1]{\ensuremath{\begin{pmatrix}#1\end{pmatrix}}}
+\newcommand{\mydet}[1]{\ensuremath{\begin{vmatrix}#1\end{vmatrix}}}
+\providecommand{\brak}[1]{\ensuremath{\left(#1\right)}}
+\newcommand\norm[1]{\left\lVert#1\right\rVert}
+\renewcommand{\vec}[1]{\mathbf{#1}}
+\usepackage[export]{adjustbox}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{physics}
+\usepackage{tikz}
+\usetikzlibrary{automata, positioning}
+\usetheme{Boadilla}
+\providecommand{\pr}[1]{\ensuremath{\Pr\left(#1\right)}}
+
+\title{Assignment 2 Presentation}
+\author{Akyam L Dhatri Nanda}
+\date{AI20BTECH11002}
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}
+\frametitle{Question}
+\begin{block}{Matrix Q.2.59}
+If A = $\myvec{3 & -2 \\ 4 & -2}$ and I = $\myvec{1 & 0 \\ 0 & 1}$, find k so that $A^2 = kA -2I$
+\end{block}
+\end{frame}
+
+\begin{frame}
+\frametitle{}
+\begin{block}{Theorem}
+The Cayley-Hamilton theorem states that any $N\times N$ matrix satisfies it's characteristic equation.
+\end{block}
+
+\begin{block}{Characteristic equation of a matrix}
+For any square matrix M, the characteristic equation is $|{M - \lambda I}| = 0$
+\end{block}
+\end{frame}
+\begin{frame}
+\frametitle{Solution}
+The characteristic equation of Matrix A is 
+\begin{align}
+    |{A - \lambda I}| = 0\label{eq 2.0.1}\\
+    & \implies \mydet{\myvec{3 & -2 \\ 4 & -2} - \lambda\myvec{1 & 0 \\ 0 & 1}} = 0\\
+    & \implies \mydet{3 - \lambda & -2 - \lambda \\ 4 & -2-\lambda} = 0\\
+    & \implies \brak{3-\lambda}\brak{-2-\lambda} - 4\brak{-2-\lambda} = 0\\
+    & \implies \lambda^2 -\lambda +2 = 0 \label{eq 2.0.5}
+\end{align}
+
+From Cayley-Hamilton theorem, 
+\begin{align}
+    A^2 - A +2I = 0\\
+    \implies k=1
+\end{align}
+
+\end{frame}
+\end{document}

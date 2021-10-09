@@ -1,0 +1,19 @@
+
+The Cayley-Hamilton theorem states that any $N\times N$ matrix satisfies it's characteristic equation.  The characteristic equation of a matrix A is 
+\begin{align}
+    |{A - \lambda I}| = 0\label{oct/2/59/eq 2.0.1}\\
+    & \implies \mydet{\myvec{3 & -2 \\ 4 & -2} - \lambda\myvec{1 & 0 \\ 0 & 1}} = 0\\
+    & \implies \mydet{3 - \lambda & -2 - \lambda \\ 4 & -2-\lambda} = 0\\
+    & \implies \brak{3-\lambda}\brak{-2-\lambda} - 4\brak{-2-\lambda} = 0\\
+    & \implies \lambda^2 -\lambda +2 = 0 \label{oct/2/59/eq 2.0.5}\\
+\end{align}
+
+From \eqref{oct/2/59/eq 2.0.5} and \eqref{oct/2/59/eq 2.0.1}
+\begin{align}
+    A^2 - A +2I = 0
+\end{align}
+
+As we compare the given equation with the equation acquired on solving, we get
+\begin{align}
+    k = 1
+\end{align}

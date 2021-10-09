@@ -1,6 +1,6 @@
 \contentsline {section}{\numberline {1}Examples}{1}{section.1}%
 \contentsline {section}{\numberline {2}Exercises}{55}{section.2}%
-\contentsline {section}{\numberline {3}Appendices}{72}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Roots of a quadratic equation}{72}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Examples}{72}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Axes of a conic}{74}{subsection.3.3}%
+\contentsline {section}{\numberline {3}Appendices}{76}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Roots of a quadratic equation}{76}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Examples}{77}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Axes of a conic}{79}{subsection.3.3}%

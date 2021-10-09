@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.1)  28 SEP 2021 14:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.26)  9 OCT 2021 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -364,7 +364,7 @@ Package: cite 2015/02/27  v 5.5
 Package: cases 2020/03/29 ver 3.2
 \numc@numwid=\dimen179
 )
-(/home/user/texmf/tex/latex/tfslatex/subfig.sty
+(/usr/share/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
 (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
@@ -1607,7 +1607,7 @@ line 13.
 Package epstopdf Info: Source file: <./solutions/1/figs/circle/circle1.eps>
 (epstopdf)             Output file: <./solutions/1/figs/circle/circle1-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:40
+(epstopdf)                    date: 2021-08-29 06:54:00
 (epstopdf)                    size: 11396 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/circle/
 circle1-eps-converted-to.pdf ./solutions/1/figs/circle/circle1.eps>
@@ -1630,7 +1630,7 @@ Package epstopdf Info: Source file: <./solutions/2/figs/circle_examp/circle.eps
 >
 (epstopdf)             Output file: <./solutions/2/figs/circle_examp/circle-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:43
+(epstopdf)                    date: 2021-08-29 06:54:05
 (epstopdf)                    size: 8853 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/2/figs/circle_
 examp/circle-eps-converted-to.pdf ./solutions/2/figs/circle_examp/circle.eps>
@@ -1659,7 +1659,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/circle1/pyfigs/circle1
 .eps>
 (epstopdf)             Output file: <./solutions/3/codes/circle1/pyfigs/circle1
 -eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:10
 (epstopdf)                    size: 13099 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/circle
 1/pyfigs/circle1-eps-converted-to.pdf ./solutions/3/codes/circle1/pyfigs/circle
@@ -1683,7 +1683,7 @@ Package epstopdf Info: Source file: <./solutions/6/codes/circle/example/circle.
 eps>
 (epstopdf)             Output file: <./solutions/6/codes/circle/example/circle-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:57
+(epstopdf)                    date: 2021-08-29 06:54:23
 (epstopdf)                    size: 12709 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/6/codes/circle
 /example/circle-eps-converted-to.pdf ./solutions/6/codes/circle/example/circle.
@@ -1716,7 +1716,7 @@ ine 22.
 Package epstopdf Info: Source file: <./solutions/1/figs/circle/circle.eps>
 (epstopdf)             Output file: <./solutions/1/figs/circle/circle-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:40
+(epstopdf)                    date: 2021-08-29 06:54:00
 (epstopdf)                    size: 13096 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/circle/
 circle-eps-converted-to.pdf ./solutions/1/figs/circle/circle.eps>
@@ -1739,7 +1739,7 @@ Package epstopdf Info: Source file: <./solutions/2/figs/circle_ex/circumcircle.
 eps>
 (epstopdf)             Output file: <./solutions/2/figs/circle_ex/circumcircle-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:43
+(epstopdf)                    date: 2021-08-29 06:54:05
 (epstopdf)                    size: 8557 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/2/figs/circle_
 ex/circumcircle-eps-converted-to.pdf ./solutions/2/figs/circle_ex/circumcircle.
@@ -1771,7 +1771,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/circle2/pyfigs/circle2
 a.eps>
 (epstopdf)             Output file: <./solutions/3/codes/circle2/pyfigs/circle2
 a-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 11768 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/circle
 2/pyfigs/circle2a-eps-converted-to.pdf ./solutions/3/codes/circle2/pyfigs/circl
@@ -1799,7 +1799,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/circle2/pyfigs/circle2
 b.eps>
 (epstopdf)             Output file: <./solutions/3/codes/circle2/pyfigs/circle2
 b-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 13085 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/circle
 2/pyfigs/circle2b-eps-converted-to.pdf ./solutions/3/codes/circle2/pyfigs/circl
@@ -1827,7 +1827,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/circle2/pyfigs/circle2
 c.eps>
 (epstopdf)             Output file: <./solutions/3/codes/circle2/pyfigs/circle2
 c-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 11617 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/circle
 2/pyfigs/circle2c-eps-converted-to.pdf ./solutions/3/codes/circle2/pyfigs/circl
@@ -1855,7 +1855,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/circle2/pyfigs/circle2
 d.eps>
 (epstopdf)             Output file: <./solutions/3/codes/circle2/pyfigs/circle2
 d-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 11663 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/circle
 2/pyfigs/circle2d-eps-converted-to.pdf ./solutions/3/codes/circle2/pyfigs/circl
@@ -1885,7 +1885,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/circle2/pyfigs/circle2
 e.eps>
 (epstopdf)             Output file: <./solutions/3/codes/circle2/pyfigs/circle2
 e-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 12494 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/circle
 2/pyfigs/circle2e-eps-converted-to.pdf ./solutions/3/codes/circle2/pyfigs/circl
@@ -1908,7 +1908,7 @@ ut line 30.
 Package epstopdf Info: Source file: <./solutions/4/figures/circle/circle2.eps>
 (epstopdf)             Output file: <./solutions/4/figures/circle/circle2-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:53
+(epstopdf)                    date: 2021-08-29 06:54:17
 (epstopdf)                    size: 12320 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/4/figures/circ
 le/circle2-eps-converted-to.pdf ./solutions/4/figures/circle/circle2.eps>
@@ -1933,7 +1933,7 @@ ine 19.
 Package epstopdf Info: Source file: <./solutions/5/figs/circle/q18abc.eps>
 (epstopdf)             Output file: <./solutions/5/figs/circle/q18abc-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:55
+(epstopdf)                    date: 2021-08-29 06:54:20
 (epstopdf)                    size: 13211 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/circle/
 q18abc-eps-converted-to.pdf ./solutions/5/figs/circle/q18abc.eps>
@@ -1954,7 +1954,7 @@ e 69.
 Package epstopdf Info: Source file: <./solutions/5/figs/circle/q18d.eps>
 (epstopdf)             Output file: <./solutions/5/figs/circle/q18d-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:55
+(epstopdf)                    date: 2021-08-29 06:54:20
 (epstopdf)                    size: 8781 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/circle/
 q18d-eps-converted-to.pdf ./solutions/5/figs/circle/q18d.eps>
@@ -1982,7 +1982,7 @@ Package epstopdf Info: Source file: <./solutions/6/codes/circle/exercise/circle
 .eps>
 (epstopdf)             Output file: <./solutions/6/codes/circle/exercise/circle
 -eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:57
+(epstopdf)                    date: 2021-08-29 06:54:23
 (epstopdf)                    size: 13280 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/6/codes/circle
 /exercise/circle-eps-converted-to.pdf ./solutions/6/codes/circle/exercise/circl
@@ -2008,7 +2008,7 @@ ine 28.
 Package epstopdf Info: Source file: <./solutions/7/figs/circle/circle.eps>
 (epstopdf)             Output file: <./solutions/7/figs/circle/circle-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:05:01
+(epstopdf)                    date: 2021-08-29 06:54:28
 (epstopdf)                    size: 17267 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/7/figs/circle/
 circle-eps-converted-to.pdf ./solutions/7/figs/circle/circle.eps>
@@ -2041,7 +2041,7 @@ Package epstopdf Info: Source file: <./solutions/2/figs/conics_example/quadrati
 c_equation.eps>
 (epstopdf)             Output file: <./solutions/2/figs/conics_example/quadrati
 c_equation-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:44
+(epstopdf)                    date: 2021-08-29 06:54:06
 (epstopdf)                    size: 7978 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/2/figs/conics_
 example/quadratic_equation-eps-converted-to.pdf ./solutions/2/figs/conics_examp
@@ -2072,7 +2072,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/conic1/pyfigs/conic1a.
 eps>
 (epstopdf)             Output file: <./solutions/3/codes/conic1/pyfigs/conic1a-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 10176 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/conic1
 /pyfigs/conic1a-eps-converted-to.pdf ./solutions/3/codes/conic1/pyfigs/conic1a.
@@ -2095,7 +2095,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/conic1/pyfigs/conic1b.
 eps>
 (epstopdf)             Output file: <./solutions/3/codes/conic1/pyfigs/conic1b-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 10348 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/conic1
 /pyfigs/conic1b-eps-converted-to.pdf ./solutions/3/codes/conic1/pyfigs/conic1b.
@@ -2129,7 +2129,7 @@ LaTeX Warning: File `./solutions/5/figs/conics/q19.eps' not found on input line
 Package epstopdf Info: Source file: <./solutions/5/figs/conics/q19.eps>
 (epstopdf)             Output file: <./solutions/5/figs/conics/q19-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:55
+(epstopdf)                    date: 2021-08-29 06:54:20
 (epstopdf)                    size: 8039 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/conics/
 q19-eps-converted-to.pdf ./solutions/5/figs/conics/q19.eps>
@@ -2155,7 +2155,7 @@ Package epstopdf Info: Source file: <./solutions/6/codes/conics/example/conics.
 eps>
 (epstopdf)             Output file: <./solutions/6/codes/conics/example/conics-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:57
+(epstopdf)                    date: 2021-08-29 06:54:23
 (epstopdf)                    size: 12189 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/6/codes/conics
 /example/conics-eps-converted-to.pdf ./solutions/6/codes/conics/example/conics.
@@ -2181,7 +2181,7 @@ t line 31.
 Package epstopdf Info: Source file: <./solutions/1/figs/conics/parabola1.eps>
 (epstopdf)             Output file: <./solutions/1/figs/conics/parabola1-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:40
+(epstopdf)                    date: 2021-08-29 06:54:00
 (epstopdf)                    size: 8153 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/conics/
 parabola1-eps-converted-to.pdf ./solutions/1/figs/conics/parabola1.eps>
@@ -2204,7 +2204,7 @@ t line 56.
 Package epstopdf Info: Source file: <./solutions/1/figs/conics/parabola2.eps>
 (epstopdf)             Output file: <./solutions/1/figs/conics/parabola2-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:40
+(epstopdf)                    date: 2021-08-29 06:54:00
 (epstopdf)                    size: 9285 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/conics/
 parabola2-eps-converted-to.pdf ./solutions/1/figs/conics/parabola2.eps>
@@ -2225,7 +2225,7 @@ t line 76.
 Package epstopdf Info: Source file: <./solutions/1/figs/conics/parabola3.eps>
 (epstopdf)             Output file: <./solutions/1/figs/conics/parabola3-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:40
+(epstopdf)                    date: 2021-08-29 06:54:00
 (epstopdf)                    size: 8889 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/conics/
 parabola3-eps-converted-to.pdf ./solutions/1/figs/conics/parabola3.eps>
@@ -2246,7 +2246,7 @@ t line 100.
 Package epstopdf Info: Source file: <./solutions/1/figs/conics/parabola4.eps>
 (epstopdf)             Output file: <./solutions/1/figs/conics/parabola4-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:40
+(epstopdf)                    date: 2021-08-29 06:54:00
 (epstopdf)                    size: 7828 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/1/figs/conics/
 parabola4-eps-converted-to.pdf ./solutions/1/figs/conics/parabola4.eps>
@@ -2271,7 +2271,7 @@ Package epstopdf Info: Source file: <./solutions/2/figs/conics_ex/quadratic_equ
 ation_1.eps>
 (epstopdf)             Output file: <./solutions/2/figs/conics_ex/quadratic_equ
 ation_1-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:44
+(epstopdf)                    date: 2021-08-29 06:54:06
 (epstopdf)                    size: 8304 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/2/figs/conics_
 ex/quadratic_equation_1-eps-converted-to.pdf ./solutions/2/figs/conics_ex/quadr
@@ -2298,7 +2298,7 @@ Package epstopdf Info: Source file: <./solutions/2/figs/conics_ex/quadratic_equ
 ation_2.eps>
 (epstopdf)             Output file: <./solutions/2/figs/conics_ex/quadratic_equ
 ation_2-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:44
+(epstopdf)                    date: 2021-08-29 06:54:06
 (epstopdf)                    size: 9305 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/2/figs/conics_
 ex/quadratic_equation_2-eps-converted-to.pdf ./solutions/2/figs/conics_ex/quadr
@@ -2321,7 +2321,7 @@ Package epstopdf Info: Source file: <./solutions/2/figs/conics_ex/quadratic_equ
 ation_3.eps>
 (epstopdf)             Output file: <./solutions/2/figs/conics_ex/quadratic_equ
 ation_3-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:44
+(epstopdf)                    date: 2021-08-29 06:54:06
 (epstopdf)                    size: 7316 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/2/figs/conics_
 ex/quadratic_equation_3-eps-converted-to.pdf ./solutions/2/figs/conics_ex/quadr
@@ -2346,7 +2346,7 @@ Package epstopdf Info: Source file: <./solutions/2/figs/conics_ex/quadratic_equ
 ation_4.eps>
 (epstopdf)             Output file: <./solutions/2/figs/conics_ex/quadratic_equ
 ation_4-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:44
+(epstopdf)                    date: 2021-08-29 06:54:06
 (epstopdf)                    size: 8005 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/2/figs/conics_
 ex/quadratic_equation_4-eps-converted-to.pdf ./solutions/2/figs/conics_ex/quadr
@@ -2388,7 +2388,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/conic2/pyfigs/conic2a.
 eps>
 (epstopdf)             Output file: <./solutions/3/codes/conic2/pyfigs/conic2a-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 10896 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/conic2
 /pyfigs/conic2a-eps-converted-to.pdf ./solutions/3/codes/conic2/pyfigs/conic2a.
@@ -2413,7 +2413,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/conic2/pyfigs/conic2b.
 eps>
 (epstopdf)             Output file: <./solutions/3/codes/conic2/pyfigs/conic2b-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 10560 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/conic2
 /pyfigs/conic2b-eps-converted-to.pdf ./solutions/3/codes/conic2/pyfigs/conic2b.
@@ -2440,7 +2440,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/conic2/pyfigs/conic2c.
 eps>
 (epstopdf)             Output file: <./solutions/3/codes/conic2/pyfigs/conic2c-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 10582 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/conic2
 /pyfigs/conic2c-eps-converted-to.pdf ./solutions/3/codes/conic2/pyfigs/conic2c.
@@ -2463,7 +2463,7 @@ Package epstopdf Info: Source file: <./solutions/3/codes/conic2/pyfigs/conic2d.
 eps>
 (epstopdf)             Output file: <./solutions/3/codes/conic2/pyfigs/conic2d-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:48
+(epstopdf)                    date: 2021-08-29 06:54:11
 (epstopdf)                    size: 9877 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/3/codes/conic2
 /pyfigs/conic2d-eps-converted-to.pdf ./solutions/3/codes/conic2/pyfigs/conic2d.
@@ -2515,7 +2515,7 @@ Package epstopdf Info: Source file: <./solutions/4/figures/conics/perabola1.eps
 >
 (epstopdf)             Output file: <./solutions/4/figures/conics/perabola1-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:53
+(epstopdf)                    date: 2021-08-29 06:54:17
 (epstopdf)                    size: 9471 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/4/figures/coni
 cs/perabola1-eps-converted-to.pdf ./solutions/4/figures/conics/perabola1.eps>
@@ -2546,7 +2546,7 @@ Package epstopdf Info: Source file: <./solutions/4/figures/conics/perabola2.eps
 >
 (epstopdf)             Output file: <./solutions/4/figures/conics/perabola2-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:53
+(epstopdf)                    date: 2021-08-29 06:54:17
 (epstopdf)                    size: 9559 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/4/figures/coni
 cs/perabola2-eps-converted-to.pdf ./solutions/4/figures/conics/perabola2.eps>
@@ -2579,7 +2579,7 @@ Package epstopdf Info: Source file: <./solutions/4/figures/conics/perabola3.eps
 >
 (epstopdf)             Output file: <./solutions/4/figures/conics/perabola3-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:53
+(epstopdf)                    date: 2021-08-29 06:54:17
 (epstopdf)                    size: 9729 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/4/figures/coni
 cs/perabola3-eps-converted-to.pdf ./solutions/4/figures/conics/perabola3.eps>
@@ -2606,7 +2606,7 @@ Package epstopdf Info: Source file: <./solutions/4/figures/conics/perabola4.eps
 >
 (epstopdf)             Output file: <./solutions/4/figures/conics/perabola4-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:53
+(epstopdf)                    date: 2021-08-29 06:54:17
 (epstopdf)                    size: 9156 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/4/figures/coni
 cs/perabola4-eps-converted-to.pdf ./solutions/4/figures/conics/perabola4.eps>
@@ -2633,7 +2633,7 @@ Package epstopdf Info: Source file: <./solutions/4/figures/conics/perabola5.eps
 >
 (epstopdf)             Output file: <./solutions/4/figures/conics/perabola5-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:53
+(epstopdf)                    date: 2021-08-29 06:54:17
 (epstopdf)                    size: 10178 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/4/figures/coni
 cs/perabola5-eps-converted-to.pdf ./solutions/4/figures/conics/perabola5.eps>
@@ -2663,7 +2663,7 @@ Package epstopdf Info: Source file: <./solutions/4/figures/conics/perabola6.eps
 >
 (epstopdf)             Output file: <./solutions/4/figures/conics/perabola6-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:53
+(epstopdf)                    date: 2021-08-29 06:54:17
 (epstopdf)                    size: 10763 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/4/figures/coni
 cs/perabola6-eps-converted-to.pdf ./solutions/4/figures/conics/perabola6.eps>
@@ -2690,7 +2690,7 @@ e 16.
 Package epstopdf Info: Source file: <./solutions/5/figs/conics/q20a.eps>
 (epstopdf)             Output file: <./solutions/5/figs/conics/q20a-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:55
+(epstopdf)                    date: 2021-08-29 06:54:20
 (epstopdf)                    size: 8738 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/conics/
 q20a-eps-converted-to.pdf ./solutions/5/figs/conics/q20a.eps>
@@ -2716,7 +2716,7 @@ e 44.
 Package epstopdf Info: Source file: <./solutions/5/figs/conics/q20b.eps>
 (epstopdf)             Output file: <./solutions/5/figs/conics/q20b-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:55
+(epstopdf)                    date: 2021-08-29 06:54:20
 (epstopdf)                    size: 8237 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/conics/
 q20b-eps-converted-to.pdf ./solutions/5/figs/conics/q20b.eps>
@@ -2744,7 +2744,7 @@ e 63.
 Package epstopdf Info: Source file: <./solutions/5/figs/conics/q20c.eps>
 (epstopdf)             Output file: <./solutions/5/figs/conics/q20c-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:55
+(epstopdf)                    date: 2021-08-29 06:54:20
 (epstopdf)                    size: 8401 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/conics/
 q20c-eps-converted-to.pdf ./solutions/5/figs/conics/q20c.eps>
@@ -2774,7 +2774,7 @@ e 82.
 Package epstopdf Info: Source file: <./solutions/5/figs/conics/q20d.eps>
 (epstopdf)             Output file: <./solutions/5/figs/conics/q20d-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:55
+(epstopdf)                    date: 2021-08-29 06:54:20
 (epstopdf)                    size: 8823 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/conics/
 q20d-eps-converted-to.pdf ./solutions/5/figs/conics/q20d.eps>
@@ -2800,7 +2800,7 @@ e 102.
 Package epstopdf Info: Source file: <./solutions/5/figs/conics/q20e.eps>
 (epstopdf)             Output file: <./solutions/5/figs/conics/q20e-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:55
+(epstopdf)                    date: 2021-08-29 06:54:20
 (epstopdf)                    size: 8356 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/conics/
 q20e-eps-converted-to.pdf ./solutions/5/figs/conics/q20e.eps>
@@ -2832,7 +2832,7 @@ e 123.
 Package epstopdf Info: Source file: <./solutions/5/figs/conics/q20f.eps>
 (epstopdf)             Output file: <./solutions/5/figs/conics/q20f-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:55
+(epstopdf)                    date: 2021-08-29 06:54:20
 (epstopdf)                    size: 8574 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/5/figs/conics/
 q20f-eps-converted-to.pdf ./solutions/5/figs/conics/q20f.eps>
@@ -2876,7 +2876,7 @@ Package epstopdf Info: Source file: <./solutions/6/codes/conics/exercise/conics
 _1.eps>
 (epstopdf)             Output file: <./solutions/6/codes/conics/exercise/conics
 _1-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:57
+(epstopdf)                    date: 2021-08-29 06:54:23
 (epstopdf)                    size: 10169 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/6/codes/conics
 /exercise/conics_1-eps-converted-to.pdf ./solutions/6/codes/conics/exercise/con
@@ -2902,7 +2902,7 @@ Package epstopdf Info: Source file: <./solutions/6/codes/conics/exercise/conics
 _2.eps>
 (epstopdf)             Output file: <./solutions/6/codes/conics/exercise/conics
 _2-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:57
+(epstopdf)                    date: 2021-08-29 06:54:23
 (epstopdf)                    size: 10407 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/6/codes/conics
 /exercise/conics_2-eps-converted-to.pdf ./solutions/6/codes/conics/exercise/con
@@ -2925,7 +2925,7 @@ Package epstopdf Info: Source file: <./solutions/6/codes/conics/exercise/conics
 _3.eps>
 (epstopdf)             Output file: <./solutions/6/codes/conics/exercise/conics
 _3-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:57
+(epstopdf)                    date: 2021-08-29 06:54:23
 (epstopdf)                    size: 11275 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/6/codes/conics
 /exercise/conics_3-eps-converted-to.pdf ./solutions/6/codes/conics/exercise/con
@@ -2948,7 +2948,7 @@ Package epstopdf Info: Source file: <./solutions/6/codes/conics/exercise/conics
 _4.eps>
 (epstopdf)             Output file: <./solutions/6/codes/conics/exercise/conics
 _4-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:57
+(epstopdf)                    date: 2021-08-29 06:54:23
 (epstopdf)                    size: 10279 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/6/codes/conics
 /exercise/conics_4-eps-converted-to.pdf ./solutions/6/codes/conics/exercise/con
@@ -2974,7 +2974,7 @@ Package epstopdf Info: Source file: <./solutions/6/codes/conics/exercise/conics
 _5.eps>
 (epstopdf)             Output file: <./solutions/6/codes/conics/exercise/conics
 _5-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:04:57
+(epstopdf)                    date: 2021-08-29 06:54:23
 (epstopdf)                    size: 11487 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/6/codes/conics
 /exercise/conics_5-eps-converted-to.pdf ./solutions/6/codes/conics/exercise/con
@@ -2997,7 +2997,7 @@ t line 19.
 Package epstopdf Info: Source file: <./solutions/7/figs/conics/parabola1.eps>
 (epstopdf)             Output file: <./solutions/7/figs/conics/parabola1-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:05:01
+(epstopdf)                    date: 2021-08-29 06:54:28
 (epstopdf)                    size: 11906 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/7/figs/conics/
 parabola1-eps-converted-to.pdf ./solutions/7/figs/conics/parabola1.eps>
@@ -3018,7 +3018,7 @@ t line 38.
 Package epstopdf Info: Source file: <./solutions/7/figs/conics/parabola2.eps>
 (epstopdf)             Output file: <./solutions/7/figs/conics/parabola2-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:05:01
+(epstopdf)                    date: 2021-08-29 06:54:28
 (epstopdf)                    size: 12532 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/7/figs/conics/
 parabola2-eps-converted-to.pdf ./solutions/7/figs/conics/parabola2.eps>
@@ -3039,7 +3039,7 @@ t line 56.
 Package epstopdf Info: Source file: <./solutions/7/figs/conics/parabola3.eps>
 (epstopdf)             Output file: <./solutions/7/figs/conics/parabola3-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:05:01
+(epstopdf)                    date: 2021-08-29 06:54:28
 (epstopdf)                    size: 12753 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/7/figs/conics/
 parabola3-eps-converted-to.pdf ./solutions/7/figs/conics/parabola3.eps>
@@ -3063,7 +3063,7 @@ t line 74.
 Package epstopdf Info: Source file: <./solutions/7/figs/conics/parabola4.eps>
 (epstopdf)             Output file: <./solutions/7/figs/conics/parabola4-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2021-08-31 06:05:01
+(epstopdf)                    date: 2021-08-29 06:54:28
 (epstopdf)                    size: 12862 bytes
 (epstopdf)             Command: <repstopdf --outfile=./solutions/7/figs/conics/
 parabola4-eps-converted-to.pdf ./solutions/7/figs/conics/parabola4.eps>
@@ -3638,13 +3638,30 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 61.
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 61.
 
+(./solutions/oct/2/19/Assignment5.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./solutions/sep/2/6/Figures/q5.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [57 <./solutions/sep/2/6/Figures/q5.png>] (./solutions/su2021/2/23/main.tex
-Underfull \vbox (badness 2717) has occurred while \output is active []
+ [58 <./solutions/sep/17/Assignment_5_Fig_1.png>]
+Overfull \hbox (21.08487pt too wide) detected at line 67
+ []$[][]$ []  
+ []
 
-<solutions/su2021/2/23/figure5(1).png, id=3213, 385.44pt x 265.99374pt>
+<solutions/oct/2/19/Figures/Fig1.png, id=3245, 395.4775pt x 262.9825pt>
+File: solutions/oct/2/19/Figures/Fig1.png Graphic file (type png)
+<use solutions/oct/2/19/Figures/Fig1.png>
+Package pdftex.def Info: solutions/oct/2/19/Figures/Fig1.png  used on input lin
+e 75.
+(pdftex.def)             Requested size: 252.0pt x 167.57387pt.
+) (./solutions/su2021/2/23/main.tex
+Underfull \vbox (badness 2103) has occurred while \output is active []
+
+<solutions/su2021/2/23/figure5(1).png, id=3247, 385.44pt x 265.99374pt>
 File: solutions/su2021/2/23/figure5(1).png Graphic file (type png)
 <use solutions/su2021/2/23/figure5(1).png>
 Package pdftex.def Info: solutions/su2021/2/23/figure5(1).png  used on input li
@@ -3653,18 +3670,15 @@ ne 45.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58 <./solutions/sep/17/Assignment_5_Fig_1.png> <./solutions/su2021/2/23/figur
-e5(1).png>]
-<solutions/su2021/2/23/figure5(2).png, id=3245, 385.44pt x 266.9975pt>
+ [59 <./solutions/oct/2/19/Figures/Fig1.png>]
+<solutions/su2021/2/23/figure5(2).png, id=3284, 385.44pt x 266.9975pt>
 File: solutions/su2021/2/23/figure5(2).png Graphic file (type png)
 <use solutions/su2021/2/23/figure5(2).png>
 Package pdftex.def Info: solutions/su2021/2/23/figure5(2).png  used on input li
 ne 94.
 (pdftex.def)             Requested size: 252.0pt x 174.56075pt.
 ) (./solutions/sep/2/21/Assignment5.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<solutions/sep/2/21/Figures/plot.png, id=3247, 396.0396pt x 297.7524pt>
+<solutions/sep/2/21/Figures/plot.png, id=3286, 396.0396pt x 297.7524pt>
 File: solutions/sep/2/21/Figures/plot.png Graphic file (type png)
 <use solutions/sep/2/21/Figures/plot.png>
 Package pdftex.def Info: solutions/sep/2/21/Figures/plot.png  used on input lin
@@ -3672,33 +3686,70 @@ e 24.
 (pdftex.def)             Requested size: 252.0pt x 189.4614pt.
 )
 (./solutions/sep/2/23/main.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7186) has occurred while \output is active []
 
- [59 <./solutions/su2021/2/23/figure5(2).png> <./solutions/sep/2/21/Figures/plo
-t.png>]
-<solutions/sep/2/23/graph.png, id=3277, 462.528pt x 346.896pt>
+ [60 <./solutions/su2021/2/23/figure5(1).png> <./solutions/su2021/2/23/figure5(
+2).png> <./solutions/sep/2/21/Figures/plot.png>]
+<solutions/sep/2/23/graph.png, id=3314, 462.528pt x 346.896pt>
 File: solutions/sep/2/23/graph.png Graphic file (type png)
 <use solutions/sep/2/23/graph.png>
 Package pdftex.def Info: solutions/sep/2/23/graph.png  used on input line 67.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
+) (./solutions/oct/2/24/main.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 2426) has occurred while \output is active []
+
+ [61 <./solutions/sep/2/23/graph.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+<solutions/oct/2/24/Graph.png, id=3387, 391.4625pt x 262.9825pt>
+File: solutions/oct/2/24/Graph.png Graphic file (type png)
+<use solutions/oct/2/24/Graph.png>
+Package pdftex.def Info: solutions/oct/2/24/Graph.png  used on input line 145.
+(pdftex.def)             Requested size: 252.0pt x 169.29535pt.
 )
 (./solutions/sep/2/27/Assignment-5.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [60 <./solutions/sep/2/23/graph.png>]
+ [63 <./solutions/oct/2/24/Graph.png>]
 Overfull \hbox (32.4873pt too wide) detected at line 50
  []$[]  \OML/txmi/m/it/12 c \OT1/txr/m/n/12 = []$ []  
  []
 
-<solutions/sep/2/27/figures/ellipse.png, id=3311, 387.4475pt x 268.00125pt>
+<solutions/sep/2/27/figures/ellipse.png, id=3420, 387.4475pt x 268.00125pt>
 File: solutions/sep/2/27/figures/ellipse.png Graphic file (type png)
 <use solutions/sep/2/27/figures/ellipse.png>
 Package pdftex.def Info: solutions/sep/2/27/figures/ellipse.png  used on input 
 line 59.
 (pdftex.def)             Requested size: 252.0pt x 174.31323pt.
-)
-Underfull \vbox (badness 6775) has occurred while \output is active []
+) (./solutions/oct/2/31/Assignment5.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64 <./solutions/sep/2/27/figures/ellipse.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+\OT1/txr/m/n/12 Let $\OT1/txr/bx/n/12 u[]V[]u \OMS/txsy/m/n/12 ^^@ \OML/txmi/m/
+it/12 f \OT1/txr/m/n/12 = \OML/txmi/m/it/12 $\OT1/txr/m/n/12 . From
+ []
+
+<solutions/oct/2/31/figures/Assignment5.png, id=3465, 394.47375pt x 262.9825pt>
+
+File: solutions/oct/2/31/figures/Assignment5.png Graphic file (type png)
+<use solutions/oct/2/31/figures/Assignment5.png>
+Package pdftex.def Info: solutions/oct/2/31/figures/Assignment5.png  used on in
+put line 132.
+(pdftex.def)             Requested size: 252.0pt x 167.99922pt.
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 (./solutions/su2021/2/43/a/main.tex
 Overfull \hbox (39.44722pt too wide) in paragraph at lines 7--7
@@ -3708,56 +3759,61 @@ Overfull \hbox (39.44722pt too wide) in paragraph at lines 7--7
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61 <./solutions/sep/2/27/figures/ellipse.png>]
-<solutions/su2021/2/43/a/Figure/figure.png, id=3347, 462.528pt x 346.896pt>
+ [65]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<solutions/su2021/2/43/a/Figure/figure.png, id=3498, 462.528pt x 346.896pt>
 File: solutions/su2021/2/43/a/Figure/figure.png Graphic file (type png)
 <use solutions/su2021/2/43/a/Figure/figure.png>
 Package pdftex.def Info: solutions/su2021/2/43/a/Figure/figure.png  used on inp
 ut line 49.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
 )
-Underfull \hbox (badness 7796) in paragraph at lines 146--151
+Underfull \hbox (badness 7796) in paragraph at lines 155--160
 []\OT1/txr/m/n/12 Find the area en-closed by the el-lipse
  []
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 158.
+LaTeX Warning: Command \textendash invalid in math mode on input line 167.
 
 
-Underfull \hbox (badness 8132) in paragraph at lines 154--160
+Underfull \hbox (badness 8132) in paragraph at lines 163--169
 []\OT1/txr/m/n/12 Find the area bounded by the el-lipse
  []
 
+[66 <./solutions/oct/2/31/figures/Assignment5.png> <./solutions/su2021/2/43/a/F
+igure/figure.png>]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 221.
-
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 225.
-
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 225.
+LaTeX Warning: Command \textendash invalid in math mode on input line 230.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Command \textendash invalid in math mode on input line 234.
 
- [62 <./solutions/su2021/2/43/a/Figure/figure.png>]) (./conics/conics_exer.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 234.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63]
+)
+(./conics/conics_exer.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 (./solutions/su2021/2/72/k/Assignment-7.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/su2021/2/72/k/ellipse(1).PNG, id=3448, 298.11375pt x 202.50656pt>
+ [68]
+<solutions/su2021/2/72/k/ellipse(1).PNG, id=3629, 298.11375pt x 202.50656pt>
 File: solutions/su2021/2/72/k/ellipse(1).PNG Graphic file (type png)
 <use solutions/su2021/2/72/k/ellipse(1).PNG>
 Package pdftex.def Info: solutions/su2021/2/72/k/ellipse(1).PNG  used on input 
 line 71.
 (pdftex.def)             Requested size: 252.0pt x 171.18274pt.
- [64 <./solutions/su2021/2/72/k/ellipse(1).PNG>]
-<solutions/su2021/2/72/k/Ellipse_(I).PNG, id=3479, 295.1025pt x 199.49532pt>
+<solutions/su2021/2/72/k/Ellipse_(I).PNG, id=3634, 295.1025pt x 199.49532pt>
 File: solutions/su2021/2/72/k/Ellipse_(I).PNG Graphic file (type png)
 <use solutions/su2021/2/72/k/Ellipse_(I).PNG>
 Package pdftex.def Info: solutions/su2021/2/72/k/Ellipse_(I).PNG  used on input
@@ -3766,35 +3822,35 @@ Package pdftex.def Info: solutions/su2021/2/72/k/Ellipse_(I).PNG  used on input
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [69 <./solutions/su2021/2/72/k/ellipse(1).PNG>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65 <./solutions/su2021/2/72/k/Ellipse_(I).PNG>]
+
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 154.
 
 (./solutions/sep/2/68/Assignment5.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/sep/2/68/figures/figure.png, id=3517, 462.528pt x 346.896pt>
+ [70 <./solutions/su2021/2/72/k/Ellipse_(I).PNG>]
+<solutions/sep/2/68/figures/figure.png, id=3703, 462.528pt x 346.896pt>
 File: solutions/sep/2/68/figures/figure.png Graphic file (type png)
 <use solutions/sep/2/68/figures/figure.png>
 Package pdftex.def Info: solutions/sep/2/68/figures/figure.png  used on input l
 ine 47.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-)
-(./solutions/sep/2/7/main1.tex
+) (./solutions/sep/2/7/main1.tex
 
-LaTeX Warning: Reference `sep/2/7/eq:parab' on page 66 undefined on input line 
+LaTeX Warning: Reference `sep/2/7/eq:parab' on page 71 undefined on input line 
 8.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66 <./solutions/sep/2/68/figures/figure.png>]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [71 <./solutions/sep/2/68/figures/figure.png>]
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 128.
 
@@ -3804,8 +3860,7 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 128.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67]
-<solutions/sep/2/7/download.png, id=3598, 393.47pt x 269.005pt>
+<solutions/sep/2/7/download.png, id=3751, 393.47pt x 269.005pt>
 File: solutions/sep/2/7/download.png Graphic file (type png)
 <use solutions/sep/2/7/download.png>
 Package pdftex.def Info: solutions/sep/2/7/download.png  used on input line 191
@@ -3814,7 +3869,7 @@ Package pdftex.def Info: solutions/sep/2/7/download.png  used on input line 191
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [72]
 (./solutions/sep/2/77/Assignment-5.tex
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 34.
@@ -3825,39 +3880,41 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 34.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [68 <./solutions/sep/2/7/download.png>]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<solutions/sep/2/77/figures/parabola.png, id=3636, 389.455pt x 264.99pt>
+ [73 <./solutions/sep/2/7/download.png>]
+<solutions/sep/2/77/figures/parabola.png, id=3820, 389.455pt x 264.99pt>
 File: solutions/sep/2/77/figures/parabola.png Graphic file (type png)
 <use solutions/sep/2/77/figures/parabola.png>
 Package pdftex.def Info: solutions/sep/2/77/figures/parabola.png  used on input
  line 120.
 (pdftex.def)             Requested size: 252.0pt x 171.46107pt.
-) [69 <./solutions/sep/2/77/figures/parabola.png>]
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [74 <./solutions/sep/2/77/figures/parabola.png>]
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 286.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [71])
-(./app/1/ChallengeProblem3.tex [72pdfTeX warning (ext4): destination with the s
+ [75]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(./app/1/ChallengeProblem3.tex [76pdfTeX warning (ext4): destination with the s
 ame identifier (name{equation.403.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.103     \end{align}
-                     ]
-<app/1/Figures/ChallengeProblem3_2.png, id=3806, 395.4775pt x 266.9975pt>
+l.53  \item
+            y-coordinate of vertex $\vec{c}$ of parabola needs to be always ...
+]
+<app/1/Figures/ChallengeProblem3_2.png, id=3955, 395.4775pt x 266.9975pt>
 File: app/1/Figures/ChallengeProblem3_2.png Graphic file (type png)
 <use app/1/Figures/ChallengeProblem3_2.png>
 Package pdftex.def Info: app/1/Figures/ChallengeProblem3_2.png  used on input l
@@ -3866,7 +3923,8 @@ ine 109.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<app/1/Figures/ChallengeProblem3_1.png, id=3807, 385.44pt x 264.99pt>
+ [77 <./app/1/Figures/ChallengeProblem3_2.png>]
+<app/1/Figures/ChallengeProblem3_1.png, id=3988, 385.44pt x 264.99pt>
 File: app/1/Figures/ChallengeProblem3_1.png Graphic file (type png)
 <use app/1/Figures/ChallengeProblem3_1.png>
 Package pdftex.def Info: app/1/Figures/ChallengeProblem3_1.png  used on input l
@@ -3875,9 +3933,7 @@ ine 154.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [73 <./app/1/Figures/ChallengeProblem3_2.png> <./app/1/Figures/ChallengeProble
-m3_1.png>]
-<app/1/Figures/ChallengeProblem3_3.png, id=3838, 403.5075pt x 266.9975pt>
+<app/1/Figures/ChallengeProblem3_3.png, id=3989, 403.5075pt x 266.9975pt>
 File: app/1/Figures/ChallengeProblem3_3.png Graphic file (type png)
 <use app/1/Figures/ChallengeProblem3_3.png>
 Package pdftex.def Info: app/1/Figures/ChallengeProblem3_3.png  used on input l
@@ -3886,24 +3942,34 @@ ine 196.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<app/1/Figures/ChallengeProblem3_4.png, id=3839, 394.47375pt x 266.9975pt>
+ [78 <./app/1/Figures/ChallengeProblem3_1.png> <./app/1/Figures/ChallengeProble
+m3_3.png>]
+<app/1/Figures/ChallengeProblem3_4.png, id=4017, 394.47375pt x 266.9975pt>
 File: app/1/Figures/ChallengeProblem3_4.png Graphic file (type png)
 <use app/1/Figures/ChallengeProblem3_4.png>
 Package pdftex.def Info: app/1/Figures/ChallengeProblem3_4.png  used on input l
 ine 231.
 (pdftex.def)             Requested size: 252.0pt x 170.5641pt.
-)
-(./app/2/ChallengeProblem5.tex
+) (./app/2/ChallengeProblem5.texpdfTeX warning (ext4): destination with the sam
+e identifier (name{equation.411.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5     \end{align}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{equation.411.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.12 \end{align}
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{equation.411.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.12 \end{align}
+                
 Underfull \vbox (badness 1558) has occurred while \output is active []
 
- [74pdfTeX warning (ext4): destination with the same identifier (name{equation.
-411.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.12 \end{align}
-                 <./app/1/Figures/ChallengeProblem3_3.png> <./app/1/Figures/Cha
-llengeProblem3_4.png>]
-<app/2/Figures/ChallengeProblem5_2.png, id=3866, 387.4475pt x 262.9825pt>
+ [79 <./app/1/Figures/ChallengeProblem3_4.png>]
+<app/2/Figures/ChallengeProblem5_2.png, id=4050, 387.4475pt x 262.9825pt>
 File: app/2/Figures/ChallengeProblem5_2.png Graphic file (type png)
 <use app/2/Figures/ChallengeProblem5_2.png>
 Package pdftex.def Info: app/2/Figures/ChallengeProblem5_2.png  used on input l
@@ -3912,28 +3978,17 @@ ine 69.
 
 Underfull \vbox (badness 4556) has occurred while \output is active []
 
- [75pdfTeX warning (ext4): destination with the same identifier (name{equation.
-411.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.105     \end{align}
-                     pdfTeX warning (ext4): destination with the same identifie
-r (name{equation.411.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.105     \end{align}
-                      <./app/2/Figures/ChallengeProblem5_2.png>]
-<app/2/Figures/ChallengeProblem5_3.png, id=3901, 387.4475pt x 262.9825pt>
+<app/2/Figures/ChallengeProblem5_3.png, id=4051, 387.4475pt x 262.9825pt>
 File: app/2/Figures/ChallengeProblem5_3.png Graphic file (type png)
 <use app/2/Figures/ChallengeProblem5_3.png>
 Package pdftex.def Info: app/2/Figures/ChallengeProblem5_3.png  used on input l
 ine 136.
 (pdftex.def)             Requested size: 252.0pt x 171.04893pt.
-
+ [80 <./app/2/Figures/ChallengeProblem5_2.png> <./app/2/Figures/ChallengeProble
+m5_3.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [76 <./app/2/Figures/ChallengeProblem5_3.png>]
-<app/2/Figures/ChallengeProblem5_4.png, id=3939, 394.47375pt x 262.9825pt>
+<app/2/Figures/ChallengeProblem5_4.png, id=4086, 394.47375pt x 262.9825pt>
 File: app/2/Figures/ChallengeProblem5_4.png Graphic file (type png)
 <use app/2/Figures/ChallengeProblem5_4.png>
 Package pdftex.def Info: app/2/Figures/ChallengeProblem5_4.png  used on input l
@@ -3942,7 +3997,8 @@ ine 201.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<app/2/Figures/ChallengeProblem5_5.png, id=3940, 388.45125pt x 262.9825pt>
+ [81 <./app/2/Figures/ChallengeProblem5_4.png>]
+<app/2/Figures/ChallengeProblem5_5.png, id=4122, 388.45125pt x 262.9825pt>
 File: app/2/Figures/ChallengeProblem5_5.png Graphic file (type png)
 <use app/2/Figures/ChallengeProblem5_5.png>
 Package pdftex.def Info: app/2/Figures/ChallengeProblem5_5.png  used on input l
@@ -3951,10 +4007,8 @@ ine 248.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77 <./app/2/Figures/ChallengeProblem5_4.png> <./app/2/Figures/ChallengeProble
-m5_5.png>]) [78
-
-] (./gvv_ncert_quadratic_forms.aux)
+) [82 <./app/2/Figures/ChallengeProblem5_5.png>] (./gvv_ncert_quadratic_forms.a
+ux)
 
 LaTeX Warning: There were undefined references.
 
@@ -3963,10 +4017,10 @@ ed.
 (rerunfilecheck)             Checksum: 4A1D79BFAC88527E901939BBDFF44B29;716.
  ) 
 Here is how much of TeX's memory you used:
- 48732 strings out of 478994
- 1101585 string characters out of 5864752
- 1589033 words of memory out of 5000000
- 62865 multiletter control sequences out of 15000+600000
+ 48912 strings out of 478994
+ 1104770 string characters out of 5864751
+ 1590103 words of memory out of 5000000
+ 62910 multiletter control sequences out of 15000+600000
  502250 words of font info for 244 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  102i,24n,111p,526b,1645s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3980,10 +4034,10 @@ r/share/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/share/texmf-dist/
 fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/u
 tmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/
 texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gvv_ncert_quadratic_forms.pdf (78 pages, 1694849 bytes).
+Output written on gvv_ncert_quadratic_forms.pdf (82 pages, 1754725 bytes).
 PDF statistics:
- 4447 PDF objects out of 5155 (max. 8388607)
- 3324 compressed objects within 34 object streams
- 2071 named destinations out of 2073 (max. 500000)
- 712 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4636 PDF objects out of 5155 (max. 8388607)
+ 3501 compressed objects within 36 object streams
+ 2194 named destinations out of 2487 (max. 500000)
+ 727 words of extra memory for PDF output out of 10000 (max. 10000000)
 

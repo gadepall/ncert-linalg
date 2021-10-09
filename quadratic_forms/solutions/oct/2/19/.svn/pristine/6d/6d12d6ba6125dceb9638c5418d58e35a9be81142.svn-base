@@ -1,0 +1,239 @@
+\documentclass[journal,12pt,twocolumn]{IEEEtran}
+
+\usepackage{setspace}
+\usepackage{gensymb}
+\singlespacing
+\usepackage[cmex10]{amsmath}
+
+\usepackage{amsthm}
+
+\usepackage{mathrsfs}
+\usepackage{txfonts}
+\usepackage{amsmath}
+\usepackage{stfloats}
+\usepackage{float}
+\usepackage{bm}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{cite}
+\usepackage{cases}
+\usepackage{subfig}
+
+\usepackage{longtable}
+\usepackage{multirow}
+
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{steinmetz}
+\usepackage{tikz}
+\usepackage{circuitikz}
+\usepackage{verbatim}
+\usepackage{tfrupee}
+\usepackage[breaklinks=true]{hyperref}
+\usepackage{graphicx}
+\usepackage{tkz-euclide}
+
+\usetikzlibrary{calc,math}
+\usepackage{listings}
+    \usepackage{color}                                            %%
+    \usepackage{array}                                            %%
+    \usepackage{longtable}                                        %%
+    \usepackage{calc}                                             %%
+    \usepackage{multirow}                                         %%
+    \usepackage{hhline}                                           %%
+    \usepackage{ifthen}                                           %%
+    \usepackage{lscape}
+\usepackage{multicol}
+\usepackage{chngcntr}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=blue,
+    urlcolor=blue,
+}
+\DeclareMathOperator*{\Res}{Res}
+
+\renewcommand\thesection{\arabic{section}}
+\renewcommand\thesubsection{\thesection.\arabic{subsection}}
+\renewcommand\thesubsubsection{\thesubsection.\arabic{subsubsection}}
+
+\renewcommand\thesectiondis{\arabic{section}}
+\renewcommand\thesubsectiondis{\thesectiondis.\arabic{subsection}}
+\renewcommand\thesubsubsectiondis{\thesubsectiondis.\arabic{subsubsection}}
+
+
+\hyphenation{op-tical net-works semi-conduc-tor}
+\def\inputGnumericTable{}                                 %%
+
+\lstset{
+%language=C,
+frame=single,
+breaklines=true,
+columns=fullflexible
+}
+
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+\begin{document}
+
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{problem}{Problem}
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{example}{Example}[section]
+\newtheorem{definition}[problem]{Definition}
+
+\newcommand{\BEQA}{\begin{eqnarray}}
+\newcommand{\EEQA}{\end{eqnarray}}
+\newcommand{\define}{\stackrel{\triangle}{=}}
+\bibliographystyle{IEEEtran}
+\raggedbottom
+\setlength{\parindent}{0pt}
+\providecommand{\mbf}{\mathbf}
+\providecommand{\pr}[1]{\ensuremath{\Pr\left(#1\right)}}
+\providecommand{\qfunc}[1]{\ensuremath{Q\left(#1\right)}}
+\providecommand{\sbrak}[1]{\ensuremath{{}\left[#1\right]}}
+\providecommand{\lsbrak}[1]{\ensuremath{{}\left[#1\right.}}
+\providecommand{\rsbrak}[1]{\ensuremath{{}\left.#1\right]}}
+\providecommand{\brak}[1]{\ensuremath{\left(#1\right)}}
+\providecommand{\lbrak}[1]{\ensuremath{\left(#1\right.}}
+\providecommand{\rbrak}[1]{\ensuremath{\left.#1\right)}}
+\providecommand{\cbrak}[1]{\ensuremath{\left\{#1\right\}}}
+\providecommand{\lcbrak}[1]{\ensuremath{\left\{#1\right.}}
+\providecommand{\rcbrak}[1]{\ensuremath{\left.#1\right\}}}
+\theoremstyle{remark}
+\newtheorem{rem}{Remark}
+\newcommand{\sgn}{\mathop{\mathrm{sgn}}}
+\providecommand{\abs}[1]{$\left\vert#1\right\vert$}
+\providecommand{\res}[1]{\Res\displaylimits_{#1}}
+\providecommand{\norm}[1]{\lVert#1\rVert}
+%\providecommand{\norm}[1]{\lVert#1\rVert}
+\providecommand{\mtx}[1]{\mathbf{#1}}
+\providecommand{\mean}[1]{$E\left[ #1 \right]$}
+\providecommand{\fourier}{\overset{\mathcal{F}}{ \rightleftharpoons}}
+%\providecommand{\hilbert}{\overset{\mathcal{H}}{ \rightleftharpoons}}
+\providecommand{\system}{\overset{\mathcal{H}}{ \longleftrightarrow}}
+	%\newcommand{\solution}[2]{\textbf{Solution:}{#1}}
+\newcommand{\solution}{\noindent \textbf{Solution: }}
+\newcommand{\cosec}{\,\text{cosec}\,}
+\providecommand{\dec}[2]{\ensuremath{\overset{#1}{\underset{#2}{\gtrless}}}}
+\newcommand{\myvec}[1]{\ensuremath{\begin{pmatrix}#1\end{pmatrix}}}
+\newcommand{\mydet}[1]{\ensuremath{\begin{vmatrix}#1\end{vmatrix}}}
+\newcommand*{\permcomb}[4][0mu]{{{}^{#3}\mkern#1#2_{#4}}}
+\newcommand*{\perm}[1][-3mu]{\permcomb[#1]{P}}
+\newcommand*{\comb}[1][-1mu]{\permcomb[#1]{C}}
+\numberwithin{equation}{subsection}
+\makeatletter
+\@addtoreset{figure}{problem}
+\makeatother
+\let\StandardTheFigure\thefigure
+\let\vec\mathbf
+\renewcommand{\thefigure}{\theproblem}
+\def\putbox#1#2#3{\makebox[0in][l]{\makebox[#1][l]{}\raisebox{\baselineskip}[0in][0in]{\raisebox{#2}[0in][0in]{#3}}}}
+     \def\rightbox#1{\makebox[0in][r]{#1}}
+     \def\centbox#1{\makebox[0in]{#1}}
+     \def\topbox#1{\raisebox{-\baselineskip}[0in][0in]{#1}}
+     \def\midbox#1{\raisebox{-0.5\baselineskip}[0in][0in]{#1}}
+\vspace{3cm}
+\title{Assignment 5}
+\author{Perambuduri Srikaran - AI20BTECH11018}
+\maketitle
+\newpage
+\bigskip
+\renewcommand{\thefigure}{\theenumi}
+\renewcommand{\thetable}{\theenumi}
+Download all python codes from
+\begin{lstlisting}
+https://github.com/srikaran-p/EE3900/tree/main/Assignment5/codes
+\end{lstlisting}
+Download all latex codes from
+\begin{lstlisting}
+https://github.com/srikaran-p/EE3900/tree/main/Assignment5
+\end{lstlisting}
+\section*{Problem}
+(Quadratic Forms Q2.19) Find the roots of $4x^2 + 3x + 5 = 0$.
+\section*{Solution}
+The given equation can be written as,
+\begin{align}
+    \vec{x}^T\myvec{4 & 0 \\ 0 & 0}\vec{x} + \myvec{3 & 0}\vec{x} + 5 = 0 \label{eq:1}
+\end{align}
+where,
+\begin{align}
+    \vec{x} = \myvec{x \\ 0} \label{eq:2}
+\end{align}
+Substituting \eqref{eq:2} in \eqref{eq:1},
+\begin{align}
+    \myvec{x & 0}\myvec{4 & 0 \\ 0 & 0}\myvec{x \\ 0} + \myvec{3 & 0}\myvec{x \\ 0} + 5 &= 0 \\
+    \implies 4x^2 + 3x + 5 &= 0\\
+    \implies \brak{2x + \frac{3}{4}}^2 &= -\frac{71}{16}\label{eq:3}
+\end{align}
+The square of a real number is always non-negative. In \eqref{eq:3}, we can say that $2x + \frac{3}{4}$ is not a real number. So, the roots are not real. From the figure, we can see that the function does not cross the x-axis, so, the quadratic equation has no real roots. Obtaining the affine transformation,
+\begin{align}
+    \vec{V} &= \myvec{4 & 0 \\ 0 & 0}\\
+    \vec{u} &= \myvec{\frac{3}{2}\\\frac{-3}{2}}\\
+    f &= 5
+\end{align}
+The equation used for affine transformation
+\begin{align}
+    \vec{x} = \vec{P}\vec{y} + \vec{c}
+\end{align}
+The eigenvalues of $V$ are
+\begin{align}
+    \lambda_1 = 4\\
+    \lambda_2 = 0\\
+    \vec{D} = \myvec{4 & 0\\0 & 0}
+\end{align}
+The eigenvectors of $V$ are
+\begin{align}
+    \vec{p}_1 &= \myvec{0 \\ 1}\\
+    \vec{p}_2 &= \myvec{1 \\ 0}\\
+    \vec{P} &= \myvec{\vec{p}_1 & \vec{p}_2}\\
+    &= \myvec{0 & 1 \\ 1 & 0}
+\end{align}
+Since $|\vec{V}| = 0$,
+\begin{align}
+    \myvec{\vec{u}^T+\eta \vec{p}_1^T \\ \vec{V}}\vec{c} &= \myvec{-f \\ \eta \vec{p}_1-\vec{u}}\\
+    \eta &= \vec{u}^\top \vec{p}_1\\
+    \implies \eta &= -\frac{3}{2}\\
+    \implies \myvec{\frac{3}{2} & -3 \\ 4 & 0 \\ 0 & 0}\vec{c} &= \myvec{-5 \\ -\frac{3}{2} \\ 0}\\
+    \implies \vec{c} &= \myvec{\frac{-3}{8}\\\frac{71}{48}}
+\end{align}
+The quadratic equation will not have real roots if
+\begin{align}
+    \brak{\vec{p_1}^T\vec{c}}\brak{\vec{p_2}^T\vec{V}\vec{p_2}} > 0
+\end{align}
+Substituting the values in LHS,
+\begin{align}
+    \brak{\vec{p_1}^T\vec{c}}\brak{\vec{p_2}^T\vec{V}\vec{p_2}} &= \brak{\frac{71}{48}}\brak{4}\\
+    &= \frac{71}{12}
+\end{align}
+Since the value is positive, the quadratic equation has no real roots. Finding the roots of the equation. The equation of line is,
+\begin{align}
+    L : \vec{x} = \vec{q} + \mu\vec{m}, \mu \in \mathbb{R}
+\end{align}
+The line $L$ is the x-axis,
+\begin{align}
+    \vec{q} = \myvec{0 \\ 0}\\
+    \vec{m} = \myvec{1 \\ 0}
+\end{align}
+The line $L$ intersects the conic and to find $\mu$,
+\begin{multline}
+    \mu = \frac{-\vec{m}^T \brak{\vec{V}\vec{q} + \vec{u}}}{\vec{m}^T\vec{V}\vec{m}} \pm \\ \frac{\sqrt{\brak{\vec{m}^T\brak{\vec{V}\vec{q} + \vec{u}}}^2 - \brak{\vec{q}^T\vec{V}\vec{q} + 2\vec{u}^T\vec{q} + f}\brak{\vec{m}^T\vec{V}\vec{m}}}}{\vec{m}^T\vec{V}\vec{m}}
+\end{multline}
+\begin{align}
+    \mu &= \frac{-3}{8} \pm \frac{\sqrt{-71}}{8}\\
+    &= \myvec{\frac{-3}{8} \\ \frac{\sqrt{71}}{8}}, \myvec{\frac{-3}{8} \\ \frac{-\sqrt{71}}{8}}
+\end{align}
+So, the roots of the equation are $\myvec{\frac{-3}{8} \\ \frac{\sqrt{71}}{8}}, \myvec{\frac{-3}{8} \\ \frac{-\sqrt{71}}{8}}$.
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=\columnwidth]{Fig1.png}
+    \caption{Plot of the function}
+    \label{fig:plot}
+\end{figure}
+\end{document}
