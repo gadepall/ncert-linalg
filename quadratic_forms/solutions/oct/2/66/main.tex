@@ -1,0 +1,111 @@
+
+\begin{theorem}
+The solution to a under-determined system of equations $\vec{Ax}=\vec{b}$ is given by
+\begin{align}
+    \vec{x}=\vec{A}^+\vec{b}+(\vec{I}-\vec{A}^+\vec{A})\vec{w} \label{oct/2/66/eq:generalisedInverse}
+\end{align}
+where $\vec{A^+}$ is the pseudoinverse of the matrix $\vec{A}$\\
+\end{theorem}
+
+\begin{proof}
+Let $\vec{Ax}=\vec{b}$ have at least one solution
+\begin{align}
+    \vec{Ax}&=\vec{b}\\
+    \vec{AA}^+(\vec{Ax})&=\vec{AA}^+(\vec{b})
+\end{align}
+Using property of pseudoinverse
+\begin{align}
+    \vec{Ax}=\vec{A}^+\vec{Ab}=\vec{b}
+\end{align}
+Therefore, $\vec{A}^+\vec{b}$ is a specific solution.\\
+The entire set of solution is given by $\vec{A}^+\vec{b}+\vec{k}$, where $\vec{k}$ is a vector in kernel space or null space of $\vec{A}$
+\begin{align}
+    \vec{A}\brak{\vec{A}^+\vec{b}+\vec{k}}&=\vec{b}\\
+    \vec{b}+\vec{Ak}&=\vec{b}\\
+    \vec{Ak}=\vec{0}
+\end{align}
+Any vector in the null space of $\vec{A}$ can be written as
+\begin{align}
+    \vec{k}=(\vec{I}-\vec{A}^+\vec{A})\vec{w} \label{oct/2/66/eq:nullSpace}
+\end{align}
+where $\vec{w}$ is any vector with appropriate dimension.\\
+Now, we will prove that \eqref{oct/2/66/eq:nullSpace} holds true
+\begin{align}
+    \vec{k}&=(\vec{I-A}^+\vec{A})\vec{k}\\
+    \vec{k}&=\vec{k}+\vec{A}^+(\vec{Ak})\\
+    \therefore \vec{k}&=\vec{k}+\vec{A}^+(\vec{0})
+\end{align}
+Therefore any vector in null space of $\vec{A}$ is also in the null space of $ \vec{I-A}^+\vec{A} $
+\begin{align}
+    \vec{A}(\vec{I-A}^+\vec{A})\vec{w}=(\vec{A}-\vec{A})\vec{w}=\vec{0}
+\end{align}
+Therefore, the null space of $\vec{A}$ and $\vec{I-A}^+\vec{A}$ are the same
+\begin{align}
+    \vec{x}=\vec{A}^+\vec{b}+(\vec{I-A}^+\vec{A})\vec{w}
+\end{align}
+\end{proof}
+\begin{lemma}
+\label{oct/2/66/lemma:pseudoinverse}
+    For an idempotent matrix the pseudoinverse is the matrix itself
+\end{lemma}
+\begin{proof}
+    For an symmetric idempotent matrix
+    \begin{align}
+        \vec{A}^n=\vec{A}\\
+        \vec{AAA}=\vec{A}
+    \end{align}
+    Therefore, $\vec{A}=\vec{A}^+$ satisfies all the conditions of pseudoinverse which are listed as follows
+\begin{enumerate}
+    \item $\vec{AA}^+\vec{A}=\vec{A}$
+    \item $\vec{A}^+\vec{AA}^+=\vec{A}^+$
+    \item $\vec{AA}^+$ is symmetric
+    \item $\vec{A}^+\vec{A}$ is symmetric
+\end{enumerate}
+\end{proof}
+
+The general form of a conic is given by
+\begin{align}
+    \vec{x}^T\vec{Vx}+2\vec{u}^T\vec{x}+f=0 \label{oct/2/66/eq:genConic}
+\end{align}
+for $y^2=4x$
+\begin{align}
+\vec{V}=\myvec{0 & 0 \\ 0 & 1},\ \vec{u}=\myvec{-2 \\0},\, f=0
+\end{align}
+For any given conic such that $\vec{V}$ is non-invertible, the points of tangency are given by
+\begin{align}
+    \vec{Vq}&=k\vec{n}-u \\
+    \text{where},\, k& = \frac{\vec{p_1}^T\vec{u}}{\vec{p_1}^T\vec{n}},\, \vec{Vp_1}=0
+\end{align}
+Clearly
+\begin{align}
+    \vec{p_1} =&\myvec{1\\0} \hspace{2.0cm} \\
+    \implies k  =&\frac{-2}{-1}=2
+\end{align}
+Using the obtained values
+\begin{align}
+    &\vec{Vq}=2\vec{n}-\vec{u}\\
+    &\vec{Vq}=\myvec{-2\\2}-\myvec{-2\\0}=2\vec{e_2}
+\end{align}
+Using \eqref{oct/2/66/eq:generalisedInverse} and \eqref{oct/2/66/lemma:pseudoinverse}
+\begin{align}
+    \vec{q}&=2\vec{Ve_2}+(\vec{I-V^2})\vec{w}\\
+    \vec{q}&=2\vec{e_2}+\lambda\vec{e_1} \label{oct/2/66/eq:q_almostfound}
+\end{align}
+Using \eqref{oct/2/66/eq:q_almostfound} and \eqref{oct/2/66/eq:genConic}, we get
+\begin{align}
+    2\vec{q}^T\vec{e_2}-4\vec{e_1}^T\vec{q}=0
+\end{align}
+Evaluating this, we get
+\begin{align}
+    4-\lambda&=0 \\
+    \implies \vec{q}&=\myvec{1\\2}
+\end{align}
+
+
+A plot for the line and parabola is given below
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\columnwidth]solutions/oct/2/66/plot/Figure_1.png}
+    \caption{Plot of the line and parabola}
+    \label{oct/2/66/plot}
+\end{figure}
