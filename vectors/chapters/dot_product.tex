@@ -1,0 +1,30 @@
+
+\item Show that the points 
+\begin{align}
+\vec{A} = \myvec{2\\-1 \\1},
+\vec{B} = \myvec{1\\-3 \\-5},
+\vec{C} = \myvec{3\\ -4\\-4}
+\end{align}
+%
+are the vertices of a right angled triangle.
+\\
+\solution 
+The following code plots Fig. \ref{fig:triangle_3d}
+%
+\begin{lstlisting}
+codes/triangle/triangle_3d.py
+\end{lstlisting}
+%
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=\columnwidth]{triangle/figs/triangle_3d.eps}
+\caption{}
+\label{fig:triangle_3d}
+\end{figure}
+%
+%From the figure, it appears that $\triangle ABC$ is right angled at $\vec{C}$.  Since 
+\begin{align}
+\brak{\vec{A}-\vec{C}}^T\brak{\vec{B}-\vec{C}}&=0
+\end{align}
+%
+it is proved that the triangle is indeed right angled.
